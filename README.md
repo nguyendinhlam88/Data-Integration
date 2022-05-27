@@ -14,7 +14,8 @@ Chú ý các tên file và tham số 5s hoàn toàn có thể cấu hình trong 
 
 
 ## BTL
-1. B1: Chạy file yml bằng docker-compose filename.yml up từ kafka và spark
-2. B2: Tạo ra các spider tương ứng với các nguồn mình crawl
-3. B3: Định nghĩa các item và pipeline tương ứng và tạo topic theo từng nguồn, đẩy lên kafka
-4. B4: Xem file test để hiểu hơn cách kết nối và đẩy dữ liệu
+1. B1: Chạy "docker build -t cluster-apache-spark ." để tạo image có tên cluster-apache-spark
+2. B2: Chạy file yml bằng docker-compose filename.yml up từ kafka và spark
+3. B3: Tạo ra các spider tương ứng với các nguồn mình crawl
+4. B4: Định nghĩa các item và pipeline tương ứng và tạo topic theo từng nguồn, đẩy lên kafka
+5. B5: Xem file test để hiểu hơn cách kết nối và đẩy dữ liệu
