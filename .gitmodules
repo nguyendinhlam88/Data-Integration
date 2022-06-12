@@ -1,3 +1,0 @@
-[submodule "kafka-spark-flink-example"]
-	path = kafka-spark-flink-example
-	url = https://github.com/hands-on-tech/kafka-spark-flink-example.git
