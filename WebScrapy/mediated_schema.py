@@ -27,3 +27,7 @@ class MediatedOtoItem:
     # Tiền xử lý tạm thời ở đây.
     def __post_init__(self):
         pass
+
+
+    def to_sql_record(self) -> str:
+        return f'(\'{self.domain}\', \'{self.crawled_date}\', \'{self.ten}\', {self.gia_ban}, \'{self.xuat_xu}\', \'{self.tinh_trang}\', \'{self.dong_xe}\', \'{self.so_km_da_di}\', \'{self.mau_ngoai_that}\', \'{self.mau_noi_that}\', \'{self.so_cua}\', {self.so_cho_ngoi}, \'{self.nhien_lieu}\', \'{self.he_thong_nap_nhien_lieu}\', \'{self.hop_so}\', \'{self.dan_dong}\', \'{self.tieu_thu_nhien_lieu}\', \'{self.dung_tich_xi_lanh}\')'

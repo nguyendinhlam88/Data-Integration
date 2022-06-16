@@ -7,10 +7,10 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'WebScrapy'
+BOT_NAME = 'anycar_bonbanh'
 
-SPIDER_MODULES = ['WebScrapy.spiders']
-NEWSPIDER_MODULE = 'WebScrapy.spiders'
+SPIDER_MODULES = ['anycar_bonbanh.spiders']
+NEWSPIDER_MODULE = 'anycar_bonbanh.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
@@ -86,3 +86,8 @@ ROBOTSTXT_OBEY = True
 #HTTPCACHE_DIR = 'httpcache'
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
+# dowload file
+ITEM_PIPELINES = {
+    'anycar_bonbanh.pipelines.MySQLPipeLine' : 1
+    #'scrapy.pipelines.files.FilesPipeline': 1
+}

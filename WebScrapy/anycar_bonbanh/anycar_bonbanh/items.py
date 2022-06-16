@@ -5,9 +5,9 @@
 
 import scrapy
 
-from bonbanh.mediated_schema import MediatedOtoItem
+from anycar_bonbanh.mediated_schema import MediatedOtoItem
 
-class BonbanhItem(scrapy.Item):
+class AnyCarBonbanhItem(scrapy.Item):
     # gia = scrapy.Field()
     # dong_xe = scrapy.Field()
     # tinh_trang = scrapy.Field()
@@ -47,3 +47,4 @@ class BonbanhItem(scrapy.Item):
         return v.to_sql_record()
 
     pass
+

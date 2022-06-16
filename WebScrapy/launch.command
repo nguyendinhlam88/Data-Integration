@@ -1,0 +1,2 @@
+osascript -e 'tell app "Terminal" to do script "source bin/activate && cd bonbanh && scrapy crawl bonbanh"'
+osascript -e 'tell app "Terminal" to do script "source bin/activate && cd chotot_com && scrapy crawl chotot_com"'

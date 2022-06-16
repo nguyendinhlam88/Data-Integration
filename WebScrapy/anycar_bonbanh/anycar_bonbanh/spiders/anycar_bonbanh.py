@@ -7,6 +7,7 @@ from unidecode import unidecode
 from bs4 import BeautifulSoup
 from math import ceil
 
+from ..items import AnyCarBonbanhItem
 
 class AnycarBonbanhSpider(scrapy.Spider):
     name = 'anycar_bonbanh'
@@ -34,6 +35,8 @@ class AnycarBonbanhSpider(scrapy.Spider):
             yield scrapy.Request(item_url, callback=self.parse_item)
 
     def parse_item(self, response):
+        #item = AnyCarBonbanhItem()
+        #item["thuoctinh_1"] = 
         item = {"id": str(uuid.uuid4()),
                 "domain": self.allowed_domains[0],
                 "ten": response.xpath('//a[@itemprop="item"]/@title').extract()[-1],
@@ -61,5 +64,5 @@ class AnycarBonbanhSpider(scrapy.Spider):
         key, value = tmp[0], ' '.join(tmp[1:]).strip()
         key = unidecode(key.replace(":", "").replace(" ", "_").lower())
         item[key] = value
-        item["crawled_date"] = datetime.now()
+        item["crawled_date"] = datetime.datetime.now()
         yield item

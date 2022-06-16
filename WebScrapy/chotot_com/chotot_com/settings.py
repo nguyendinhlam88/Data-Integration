@@ -99,4 +99,7 @@ DEFAULT_REQUEST_HEADERS = {
 FEED_EXPORT_ENCODING = 'utf-8'
 
 # dowload file
-ITEM_PIPELINES = {'scrapy.pipelines.files.FilesPipeline': 1}
+ITEM_PIPELINES = {
+    'chotot_com.pipelines.MySQLPipeLine' : 1
+    #'scrapy.pipelines.files.FilesPipeline': 1
+}

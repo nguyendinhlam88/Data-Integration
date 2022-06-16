@@ -1,7 +1,7 @@
 import scrapy
 from ..items import ChototItem
 class ChototSpider(scrapy.Spider):
-    name = "chotot"
+    name = "chotot_com"
     page_number = 2
     base_url = "https://xe.chotot.com/mua-ban-oto"
     start_urls = ["https://xe.chotot.com/mua-ban-oto?page=1"]

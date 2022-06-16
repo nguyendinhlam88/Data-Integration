@@ -5,6 +5,8 @@
 
 import scrapy
 
+from chotot_com.mediated_schema import MediatedOtoItem
+
 
 class ChototItem(scrapy.Item):
 
@@ -32,5 +34,20 @@ class ChototItem(scrapy.Item):
     thuoctinh_10 = scrapy.Field()
     thuoctinh_11 = scrapy.Field()
     thuoctinh_12 = scrapy.Field()
+
+    def to_sql_record(self) -> str:
+        v = MediatedOtoItem()
+        v.gia_ban = self['thuoctinh_1']
+        v.dong_xe = self['thuoctinh_2']
+        v.tinh_trang = self['thuoctinh_3']
+        v.nhien_lieu = self['thuoctinh_4']
+        v.so_km_da_di = self['thuoctinh_5']
+        v.hop_so = self['thuoctinh_6']
+        v.xuat_xu = self['thuoctinh_7']
+        v.so_cho_ngoi = self['thuoctinh_8']
+        v.mau_noi_that = self['thuoctinh_9']
+        v.so_cua = self['thuoctinh_10']
+        return v.to_sql_record()
+
     pass
 
