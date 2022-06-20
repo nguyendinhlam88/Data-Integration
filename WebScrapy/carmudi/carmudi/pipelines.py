@@ -8,6 +8,6 @@
 from itemadapter import ItemAdapter
 
 
-class WebscrapyPipeline:
+class CarmudiPipeline:
     def process_item(self, item, spider):
         return item

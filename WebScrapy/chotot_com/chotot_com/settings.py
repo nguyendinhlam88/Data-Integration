@@ -1,4 +1,4 @@
-# Scrapy settings for WebScrapy project
+# Scrapy settings for chotot_com project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -7,17 +7,17 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'WebScrapy'
+BOT_NAME = 'chotot_com'
 
-SPIDER_MODULES = ['WebScrapy.spiders']
-NEWSPIDER_MODULE = 'WebScrapy.spiders'
+SPIDER_MODULES = ['chotot_com.spiders']
+NEWSPIDER_MODULE = 'chotot_com.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'WebScrapy (+http://www.yourdomain.com)'
+#USER_AGENT = 'chotot_com (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
-ROBOTSTXT_OBEY = True
+ROBOTSTXT_OBEY = False
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
@@ -45,15 +45,18 @@ ROBOTSTXT_OBEY = True
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    'WebScrapy.middlewares.WebscrapySpiderMiddleware': 543,
+#    'chotot_com.middlewares.ChototComSpiderMiddleware': 543,
 #}
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    'WebScrapy.middlewares.WebscrapyDownloaderMiddleware': 543,
+#    'chotot_com.middlewares.ChototComDownloaderMiddleware': 543,
 #}
-
+DOWNLOADER_MIDDLEWARES = {
+    'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware': None,
+    'scrapy_user_agents.middlewares.RandomUserAgentMiddleware': 400,
+}
 # Enable or disable extensions
 # See https://docs.scrapy.org/en/latest/topics/extensions.html
 #EXTENSIONS = {
@@ -63,7 +66,7 @@ ROBOTSTXT_OBEY = True
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 #ITEM_PIPELINES = {
-#    'WebScrapy.pipelines.WebscrapyPipeline': 300,
+#    'chotot_com.pipelines.ChototComPipeline': 300,
 #}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
@@ -86,3 +89,17 @@ ROBOTSTXT_OBEY = True
 #HTTPCACHE_DIR = 'httpcache'
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
+DEFAULT_REQUEST_HEADERS = {
+#   'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+#   'Accept-Language': 'en',
+
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/94.0.202 Chrome/88.0.4324.202 Safari/537.36',
+}
+
+FEED_EXPORT_ENCODING = 'utf-8'
+
+# dowload file
+ITEM_PIPELINES = {
+    'chotot_com.pipelines.MySQLPipeLine' : 1
+    #'scrapy.pipelines.files.FilesPipeline': 1
+}
