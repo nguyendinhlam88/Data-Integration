@@ -6,6 +6,7 @@ import datetime
 class MediatedOtoItem:
     id: Optional[str]
     domain: Optional[str]
+    url: Optional[str]
     crawled_date: Optional[datetime.date]
     ten: Optional[str]
     gia_ban: Optional[int]
