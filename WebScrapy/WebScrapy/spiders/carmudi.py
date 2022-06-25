@@ -39,9 +39,12 @@ class CarmudiSpider(scrapy.Spider):
         item['mau_xe'] = response.xpath(
             '//*[contains(concat( " ", @class, " " ), concat( " ", "feature-item", " " )) and (((count(preceding-sibling::*) + 1) = 11) and parent::*)]//text()').extract()[
             1].replace('\n', '').replace('Màu ngoại thất: ', '')
-        item['mo_ta'] = response.xpath('//*[(@id = "area_description")]//p/text()').extract()
+        item['nam_sx'] = response.xpath(
+            '//*[contains(concat( " ", @class, " " ), concat( " ", "feature-item", " " )) and (((count(preceding-sibling::*) + 1) = 4) and parent::*)]//text()').extract()[
+            1].replace('\n', '').replace('Năm sản xuất: ', '')
+        # item['mo_ta'] = response.xpath('//*[(@id = "area_description")]//p/text()').extract()
         next_page = 'https://www.carmudi.vn/mua-ban-o-to-cu/index{}.html'.format(CarmudiSpider.page_number)
-        if CarmudiSpider.page_number <= 50:
+        if CarmudiSpider.page_number <= 25:
             CarmudiSpider.page_number += 1
             yield response.follow(next_page, callback=self.parse)
         yield item

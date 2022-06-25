@@ -53,5 +53,5 @@ class OtoSpider(scrapy.Spider):
 
         # Mô tả
         tmp = ' '.join(response.xpath('.//div[@id="tab-desc"]//text()').extract()).strip()
-        item["mo_ta"] = tmp
+        # item["mo_ta"] = tmp
         yield item
