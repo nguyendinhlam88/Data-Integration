@@ -1,0 +1,301 @@
+dong_xe,gia,hop_so,kieu_dang,km_da_di,mau_xe,nhien_lieu,so_cho_ngoi,so_cua,tinh_trang,xuat_xu
+SUV,Xe	Mazda CX5	2.5 AT 2WD	2018	- 785 Triệu,Số tự động,,"45,000 Km",Trắng,Xăng	2.5 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+SUV,Xe	Toyota Prado	TXL 2.7L	2015	- 1 Tỷ 630 Triệu,Số tự động,,"10,000 Km",Đen,Xăng	2.7 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+Hatchback,Xe	Kia Morning	SLX 1.0 AT	2009	- 198 Triệu,Số tự động,,"100,000 Km",Đỏ,Xăng	1.0 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+Sedan,Xe	Mitsubishi Attrage	1.2 CVT	2022	- 445 Triệu,Số tự động,,0 Km,Trắng,Xăng	1.2 L,5 chỗ,4 cửa,Xe mới,Nhập khẩu
+Sedan,Xe	Mercedes Benz C class	C300 AMG	2019	- 1 Tỷ 599 Triệu,Số tự động,,"29,000 Km",Trắng,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+Crossover,Xe	Hyundai Tucson	1.6 AT Turbo	2019	- 879 Triệu,Số tự động,,"20,000 Km",Trắng,Xăng	1.6 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+SUV,Xe	Lexus RX	350	2019	- 4 Tỷ 50 Triệu,Số tự động,,"15,000 Km",Cát,Xăng	3.5 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+SUV,Xe	VinFast Lux SA 2.0	Plus 2.0 AT	2021	- 1 Tỷ 145 Triệu,Số tự động,,"2,000 Km",Trắng,Xăng	2.0 L,7 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+SUV,Xe	Toyota Fortuner	2.7V 4x2 AT	2013	- 469 Triệu,Số tự động,,0 Km,Bạc,Xăng	2.7 L,8 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+SUV,Xe	Toyota Land Cruiser	3.5 V6	2022	- 4 Tỷ 100 Triệu,Số tự động,,0 Km,Đen,Xăng	3.4 L,7 chỗ,5 cửa,Xe mới,Nhập khẩu
+SUV,Xe	Honda CRV	2.0 AT	2016	- 695 Triệu,Số tự động,,"68,000 Km",Trắng,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+SUV,Xe	VinFast Lux SA 2.0	Tiêu chuẩn	2022	- 999 Triệu,Số tự động,,"4,000 Km",Đen,Xăng	2.0 L,7 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+Sedan,Xe	Hyundai Elantra	2.0 AT	2019	- 613 Triệu,Số tự động,,"40,000 Km",Đỏ,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+Sedan,Xe	Mercedes Benz E class	E200	2017	- 1 Tỷ 520 Triệu,Số tự động,,"55,555 Km",Xanh,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+SUV,Xe	Toyota Land Cruiser	GX 4.5	2005	- 650 Triệu,Số tay,,"76,000 Km",Xám,Xăng	4.5 L,8 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+SUV,Xe	Honda CRV	2.4 AT	2013	- 619 Triệu,Số tự động,,"57,000 Km",Đen,Xăng	2.4 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+Crossover,Xe	Kia Sonet	Deluxe 1.5 AT	2022	- 554 Triệu,Số tự động,,0 Km,Trắng,Xăng	1.5 L,5 chỗ,5 cửa,Xe mới,Lắp ráp trong nước
+Sedan,Xe	Toyota Vios	1.5E MT	2019	- 410 Triệu,Số tay,,0 Km,Trắng,Xăng	1.5 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+Sedan,Xe	Kia Soluto	1.4 AT Luxury	2022	- 474 Triệu,Số tự động,,0 Km,Đen,Xăng	1.4 L,5 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
+SUV,Xe	BMW X6	xDrive35i	2016	- 2 Tỷ 250 Triệu,Số tự động,,"58,000 Km",Đen,Xăng	3.0 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+Sedan,Xe	Toyota Vios	1.5G	2009	- 322 Triệu,Số tự động,,"120,000 Km",Bạc,Xăng	1.5 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+Sedan,Xe	Daewoo Leganza	2.0	2000	- 43 Triệu,Số tay,,"50,000 Km",Đen,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
+Sedan,Xe	VinFast Lux A 2.0	Cao cấp	2022	- 1 Tỷ 74 Triệu,Số tự động,,0 Km,Cam,Xăng	2.0 L,5 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
+SUV,Xe	LandRover Range Rover Evoque	Dynamic	2014	- 1 Tỷ 395 Triệu,Số tự động,,"59,000 Km",Đỏ,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+SUV,Xe	Toyota Fortuner	Limited	2016	- 678 Triệu,Số tự động,,"60,000 Km",Nâu,Xăng,7 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+Sedan,Xe	Toyota Vios	1.5G	2020	- 548 Triệu,Số tự động,,"20,711 Km",Đỏ,Xăng	1.5 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+Sedan,Xe	Hyundai i10	Grand 1.2 MT Base	2018	- 265 Triệu,Số tay,,0 Km,Bạc,Xăng	1.25 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+Bán tải / Pickup,Xe	Ford Ranger	XLS 2.2L 4x2 AT	2022	- 662 Triệu,Số tự động,,0 Km,Nâu,Dầu	2.2 L,5 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
+SUV,Xe	Lexus LX	570	2014	- 4 Tỷ 380 Triệu,Số tự động,,"76,000 Km",Trắng,Xăng	5.7 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+Sedan,Xe	Mercedes Benz E class	E200	2016	- 1 Tỷ 435 Triệu,Số tự động,,0 Km,Đen,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+Sedan,Xe	Mercedes Benz S class	S450L	2017	- 3 Tỷ 250 Triệu,Số tự động,,"30,000 Km",Đen,Xăng	3.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+Sedan,Xe	Mercedes Benz S class	S400L	2017	- 2 Tỷ 720 Triệu,Số tự động,,0 Km,Đen,Xăng	3.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+SUV,Xe	Porsche Cayenne	Coupe	2020	- 6 Tỷ 880 Triệu,Số tự động,,"7,999 Km",Trắng,Xăng	3.0 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+Sedan,Xe	Mercedes Benz E class	E200	2017	- 1 Tỷ 519 Triệu,Số tự động,,"31,000 Km",Đen,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+Coupe,Xe	Mitsubishi	Coupe	1995	- 330 Triệu,Số tự động,,"98,706 Km",Đen,Xăng,5 chỗ,2 cửa,Xe đã dùng,Nhập khẩu
+Bán tải / Pickup,Xe	Mitsubishi Triton	4x2 AT	2022	- 755 Triệu,Số tự động,,0 Km,Trắng,Dầu	2.4 L,5 chỗ,4 cửa,Xe mới,Nhập khẩu
+SUV,Xe	Mercedes Benz GLC	300 4Matic	2018	- 1 Tỷ 750 Triệu,Số tự động,,"38,000 Km",Xanh,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+SUV,Xe	Mazda CX8	Luxury	2020	- 990 Triệu,Số tự động,,"42,000 Km",Đỏ,Xăng	2.5 L,7 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+Sedan,Xe	Mercedes Benz E class	E200	2019	- 1 Tỷ 750 Triệu,Số tự động,,"30,000 Km",Trắng,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+Sedan,Xe	Mercedes Benz E class	E200	2019	- 1 Tỷ 700 Triệu,Số tự động,,"59,000 Km",Đen,Xăng,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
+Sedan,Xe	Mazda 3	1.5L Luxury	2022	- 679 Triệu,Số tự động,,0 Km,Đỏ,Xăng	1.5 L,5 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
+Sedan,Xe	Mercedes Benz S class	S400L	2016	- 2 Tỷ 550 Triệu,Số tự động,,"50,000 Km",Trắng,Xăng	3.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+SUV,Xe	Toyota Highlander	LE 2.7	2015	- 1 Tỷ 580 Triệu,Số tự động,,0 Km,Đen,Xăng	2.7 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+Crossover,Xe	Hyundai Tucson	2.0 AT Tiêu chuẩn	2022	- 825 Triệu,Số tự động,,0 Km,Trắng,Xăng	2.0 L,5 chỗ,5 cửa,Xe mới,Lắp ráp trong nước
+SUV,Xe	Mercedes Benz GLK Class	GLK250 4Matic	2015	- 919 Triệu,Số tự động,,"100,000 Km",Đen,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+Hatchback,Xe	Kia Morning	Si AT	2016	- 299 Triệu,Số tự động,,"66,000 Km",Đỏ,Xăng	1.25 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+SUV,Xe	Hyundai SantaFe	Cao cấp 2.5L HTRAC	2022	- 1 Tỷ 240 Triệu,Số tự động,,0 Km,Trắng,Xăng	2.5 L,7 chỗ,5 cửa,Xe mới,Lắp ráp trong nước
+SUV,Xe	Volkswagen Tiguan	Allspace	2018	- 1 Tỷ 280 Triệu,Số tự động,,"52,000 Km",Đen,Xăng	2.0 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+SUV,Xe	Porsche Macan	2.0	2021	- 4 Tỷ 450 Triệu,Số tự động,,"8,000 Km",Xanh,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+SUV,Xe	Lexus GX	460	2020	- 5 Tỷ 950 Triệu,Số tự động,,"14,000 Km",Đen,Xăng	4.6 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+SUV,Xe	Toyota Fortuner	2.8V 4x4 AT	2018	- 1 Tỷ 140 Triệu,Số tự động,,"50,000 Km",Bạc,Dầu	2.8 L,8 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+Crossover,Xe	Toyota Innova	2.0E	2020	- 689 Triệu,Số tay,,"34,000 Km",Bạc,Xăng	2.0 L,8 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+SUV,Xe	VinFast Lux SA 2.0	Nâng cao	2022	- 1 Tỷ 258 Triệu,Số tự động,,0 Km,Xanh,Xăng	2.0 L,7 chỗ,5 cửa,Xe mới,Lắp ráp trong nước
+Sedan,Xe	Mercedes Benz S class	S400L	2016	- 2 Tỷ 600 Triệu,Số tự động,,"22,000 Km",Trắng,Xăng	3.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+SUV,Xe	Mitsubishi Outlander	2.0 CVT	2022	- 825 Triệu,Số tự động,,0 Km,Đen,Xăng	2.0 L,7 chỗ,5 cửa,Xe mới,Lắp ráp trong nước
+Coupe,Xe	Porsche Cayman	2.9 AT	2010	- 2 Tỷ 550 Triệu,Số tự động,,"42,000 Km",Đen,Xăng	2.9 L,2 chỗ,2 cửa,Xe đã dùng,Nhập khẩu
+SUV,Xe	Lexus LX	570	2016	- 6 Tỷ 350 Triệu,Số tự động,,"61,000 Km",Đen,Xăng	5.7 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+SUV,Xe	Toyota Fortuner	2.8V 4x4 AT	2019	- 1 Tỷ 157 Triệu,Số tự động,,"81,000 Km",Trắng,Dầu	2.8 L,8 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+Hatchback,Xe	Kia Rio	1.4 AT	2015	- 425 Triệu,Số tự động,,"45,763 Km",Trắng,Xăng	1.4 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+Sedan,Xe	Mercedes Benz E class	E300 AMG	2022	- 3 Tỷ 129 Triệu,Số tự động,,0 Km,Đỏ,Xăng	2.0 L,5 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
+Crossover,Xe	Toyota Innova	G 2.0 AT	2022	- 870 Triệu,Số tự động,,0 Km,Trắng,Xăng	2.0 L,8 chỗ,5 cửa,Xe mới,Lắp ráp trong nước
+SUV,Xe	Porsche Macan	2.0	2016	- 2 Tỷ 680 Triệu,Số tự động,,"65,000 Km",Xanh,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+SUV,Xe	Kia Sorento	Luxury 2.2 AT	2022	- 1 Tỷ 99 Triệu,Số tự động,,0 Km,Trắng,Dầu	2.2 L,7 chỗ,5 cửa,Xe mới,Lắp ráp trong nước
+SUV,Xe	Lexus LX	570	2016	- 6 Tỷ 680 Triệu,Số tự động,,"42,000 Km",Đen,Xăng	5.7 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+Sedan,Xe	Mercedes Benz E class	E200	2011	- 560 Triệu,Số tự động,,"10,000 Km",Đen,Xăng	1.8 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+Hatchback,Xe	Mazda 3	1.5L Sport Luxury	2019	- 610 Triệu,Số tự động,,"28,000 Km",Xanh,Xăng	1.5 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+Sedan,Xe	VinFast Lux A 2.0	Nâng cao	2022	- 748 Triệu,Số tự động,,0 Km,Đỏ,Xăng	2.0 L,5 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
+Van/Minivan,Xe	Ford Transit	Limousine	2022	- 950 Triệu,Số tay,,0 Km,Bạc,Dầu	2.2 L,10 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
+Crossover,Xe	Toyota Innova	E 2.0 MT	2022	- 755 Triệu,Số tay,,0 Km,Bạc,Xăng	2.0 L,8 chỗ,5 cửa,Xe mới,Lắp ráp trong nước
+SUV,Xe	VinFast Lux SA 2.0	Cao cấp	2022	- 1 Tỷ 423 Triệu,Số tự động,,0 Km,Trắng,Xăng	2.0 L,7 chỗ,5 cửa,Xe mới,Lắp ráp trong nước
+Bán tải / Pickup,Xe	Ford Ranger	Wildtrak 3.2L 4x4 AT	2017	- 830 Triệu,Số tự động,,"66,666 Km",Trắng,Dầu	3.2 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
+SUV,Xe	Jeep Wrangler	Rubicon 2.0 4x4 AT	2021	- 3 Tỷ 688 Triệu,Số tự động,,0 Km,Xám,Xăng	2.0 L,5 chỗ,5 cửa,Xe mới,Nhập khẩu
+SUV,Xe	Kia Sorento	Signature 2.5 AT AWD	2022	- 1 Tỷ 229 Triệu,Số tự động,,0 Km,Trắng,Xăng	2.5 L,7 chỗ,5 cửa,Xe mới,Lắp ráp trong nước
+SUV,Xe	Mercedes Benz GLC	200	2019	- 1 Tỷ 580 Triệu,Số tự động,,"40,000 Km",Trắng,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+Coupe,Xe	Mercedes Benz GLE Class	GLE 43 AMG 4Matic Coupe	2019	- 3 Tỷ 750 Triệu,Số tự động,,"31,666 Km",Trắng,Xăng	3.0 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+SUV,Xe	LandRover Range Rover	Supercharged 5.0	2010	- 1 Tỷ 180 Triệu,Số tự động,,0 Km,Ghi,Xăng	5.0 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+SUV,Xe	Porsche Cayenne	3.0 V6	2018	- 5 Tỷ 450 Triệu,Số tự động,,"35,000 Km",Trắng,Xăng	3.0 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+Sedan,Xe	Mercedes Benz C class	C180 AMG	2021	- 1 Tỷ 499 Triệu,Số tự động,,"3,000 Km",Trắng,Xăng	1.5 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+SUV,Xe	Mercedes Benz GLS	400 4Matic	2017	- 3 Tỷ 350 Triệu,Số tự động,,0 Km,Nâu,Xăng	3.0 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+SUV,Xe	VinFast Lux SA 2.0	Plus 2.0 AT	2021	- 1 Tỷ 30 Triệu,Số tự động,,"20,000 Km",Trắng,Xăng	2.0 L,7 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+Sedan,Xe	Mercedes Benz S class	S400L	2016	- 4 Tỷ 930 Triệu,Số tự động,,0 Km,Xanh,Xăng	3.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+SUV,Xe	Maserati Levante	3.0 V6	2020	- 5 Tỷ 299 Triệu,Số tự động,,0 Km,Trắng,Xăng	3.0 L,5 chỗ,5 cửa,Xe mới,Nhập khẩu
+SUV,Xe	LandRover Range Rover Evoque	Dynamic	2014	- 1 Tỷ 350 Triệu,Số tự động,,0 Km,Trắng,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+Bán tải / Pickup,Xe	Ford Ranger	Wildtrak 2.0L 4x4 AT	2022	- 920 Triệu,Số tự động,,0 Km,Bạc,Dầu	2.0 L,5 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
+Sedan,Xe	Mercedes Benz E class	E180	2020	- 1 Tỷ 759 Triệu,Số tự động,,0 Km,Trắng,Xăng	1.5 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+SUV,Xe	Hyundai SantaFe	2.2L 4WD	2016	- 879 Triệu,Số tự động,,"96,000 Km",Đỏ,Dầu	2.2 L,7 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+SUV,Xe	Lexus RX	450h	2010	- 1 Tỷ 280 Triệu,Số tự động,,"99,000 Km",Đen,Hybrid	3.5 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+SUV,Xe	Toyota Land Cruiser	VX 4.6 V8	2016	- 3 Tỷ 560 Triệu,Số tự động,,"82,000 Km",Trắng,Xăng	4.6 L,8 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+Bán tải / Pickup,Xe	Ford Ranger	Wildtrak 3.2L 4x4 AT	2016	- 750 Triệu,Số tự động,,"87,000 Km",Cam,Dầu	3.2 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
+SUV,Xe	BMW X4	xDrive20i	2016	- 1 Tỷ 750 Triệu,Số tự động,,"70,000 Km",Xanh,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+Sedan,Xe	Mercedes Benz E class	E300 AMG	2020	- 2 Tỷ 529 Triệu,Số tự động,,"17,000 Km",Trắng,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+SUV,Xe	Toyota Prado	2.7VX	2017	- 2 Tỷ 19 Triệu,Số tự động,,"56,000 Km",Đen,Xăng,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+Sedan,Xe	Mercedes Benz E class	E200 Exclusive	2022	- 2 Tỷ 310 Triệu,Số tự động,,0 Km,Đen,Xăng	2.0 L,5 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
+SUV,Xe	Lexus RX	350	2020	- 4 Tỷ 260 Triệu,Số tự động,,"13,000 Km",Xanh,Xăng	3.5 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+Sedan,Xe	Toyota Camry	LE 2.4	2007	- 465 Triệu,Số tự động,,0 Km,Bạc,Xăng	2.4 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
+Sedan,Xe	Toyota Camry	GLi 2.2	2001	- 198 Triệu,Số tay,,"234,000 Km",Xanh,Xăng	2.2 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+Crossover,Xe	Toyota Innova	G 2.0 AT	2022	- 885 Triệu,Số tự động,,0 Km,Bạc,Xăng	2.0 L,8 chỗ,5 cửa,Xe mới,Lắp ráp trong nước
+SUV,Xe	Ford Explorer	Platinum 3.0L EcoBoost	2021	- 4 Tỷ 500 Triệu,Số tự động,,0 Km,Trắng,Xăng	3.0 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+Sedan,Xe	Mercedes Benz E class	E300 AMG	2020	- 2 Tỷ 529 Triệu,Số tự động,,"10,000 Km",Trắng,Xăng,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+SUV,Xe	Porsche Macan	S	2022	- 3 Tỷ 990 Triệu,Số tự động,,0 Km,Đen,Xăng	2.9 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+Hatchback,Xe	Suzuki Swift	1.4 AT	2016	- 368 Triệu,Số tự động,,"50,000 Km",Xanh,Xăng	1.4 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+Sedan,Xe	Kia Cerato	1.6 AT Luxury	2019	- 590 Triệu,Số tự động,,"40,000 Km",Trắng,Xăng	1.6 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+SUV,Xe	Honda CRV	2.0 AT	2015	- 665 Triệu,Số tự động,,"76,000 Km",Trắng,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+Van/Minivan,Xe	Kia Carnival	Signature 2.2D	2021	- 1 Tỷ 630 Triệu,Số tự động,,"9,000 Km",Trắng,Dầu	2.2 L,7 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+Sedan,Xe	Chevrolet Cruze	LTZ 1.8 AT	2010	- 268 Triệu,Số tự động,,"140,000 Km",Bạc,Xăng	1.8 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+Sedan,Xe	Honda Civic	1.8 AT	2009	- 335 Triệu,Số tự động,,"100,000 Km",Đen,Xăng	1.8 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+Convertible/Cabriolet,Xe	BMW 4 Series	430i Convertible M Sport	2021	- 3 Tỷ 219 Triệu,Số tự động,,0 Km,Đen,Xăng	2.0 L,4 chỗ,2 cửa,Xe mới,Nhập khẩu
+Bán tải / Pickup,Xe	Mitsubishi Triton	GLX 4x2 MT	2015	- 385 Triệu,Số tay,,"80,000 Km",Đỏ,Dầu	2.5 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
+Sedan,Xe	Honda Civic	1.8 MT	2010	- 240 Triệu,Số tay,,"90,000 Km",Ghi,Xăng	1.8 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+Hatchback,Xe	Kia Morning	GT LINE	2021	- 459 Triệu,Số tự động,,0 Km,Trắng,Xăng,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+Bán tải / Pickup,Xe	Ford Ranger	XLT	2019	- 795 Triệu,Số tự động,,"46,000 Km",Ghi,Dầu,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
+Hatchback,Xe	Hyundai i10	Grand 1.2 AT	2021	- 415 Triệu,Số tự động,,"9,000 Km",Đỏ,Xăng	1.25 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+SUV,Xe	Mitsubishi Xpander	1.5 AT	2022	- 570 Triệu,Số tự động,,0 Km,Đen,Xăng	1.5 L,7 chỗ,5 cửa,Xe mới,Nhập khẩu
+SUV,Xe	Mercedes Benz GLC	200 4Matic	2022	- 2 Tỷ 129 Triệu,Số tự động,,0 Km,Trắng,Xăng	2.0 L,5 chỗ,5 cửa,Xe mới,Lắp ráp trong nước
+Sedan,Xe	Mercedes Benz E class	E400 AMG	2014	- 1 Tỷ 150 Triệu,Số tự động,,0 Km,Trắng,Xăng	3.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+SUV,Xe	Peugeot 2008	GT Line	2022	- 829 Triệu,Số tự động,,0 Km,Đỏ,Xăng,5 chỗ,5 cửa,Xe mới,Lắp ráp trong nước
+Crossover,Xe	Hyundai Creta	Tiêu chuẩn 1.5 AT	2022	- 620 Triệu,Số tự động,,0 Km,Trắng,Xăng	1.5 L,5 chỗ,5 cửa,Xe mới,Nhập khẩu
+SUV,Xe	Toyota Corolla Cross	1.8V	2022	- 846 Triệu,Số tự động,,0 Km,Xanh,Xăng	1.8 L,5 chỗ,5 cửa,Xe mới,Nhập khẩu
+SUV,Xe	Hyundai SantaFe	Cao cấp 2.5L HTRAC	2022	- 1 Tỷ 240 Triệu,Số tự động,,0 Km,Đỏ,Xăng	2.5 L,7 chỗ,5 cửa,Xe mới,Lắp ráp trong nước
+SUV,Xe	VinFast Lux SA 2.0	Plus 2.0 AT	2021	- 1 Tỷ 120 Triệu,Số tự động,,"7,000 Km",Trắng,Xăng	2.0 L,7 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+SUV,Xe	LandRover Range Rover Evoque	Dynamic	2013	- 1 Tỷ 80 Triệu,Số tự động,,0 Km,Trắng,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+Bán tải / Pickup,Xe	Ford Ranger	Wildtrak 2.0L 4x4 AT	2022	- 937 Triệu,Số tự động,,0 Km,Cam,Dầu	2.0 L,5 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
+SUV,Xe	Toyota Fortuner	2.7V 4x2 AT	2017	- 835 Triệu,Số tự động,,"49,000 Km",Đen,Xăng	2.7 L,8 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+SUV,Xe	Toyota Land Cruiser	4.6 V8	2019	- 4 Tỷ 780 Triệu,Số tự động,,"35,000 Km",Trắng,Xăng	4.6 L,8 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+SUV,Xe	Lexus RX	350	2020	- 4 Tỷ 260 Triệu,Số tự động,,"13,000 Km",Xanh,Xăng	3.5 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+Van/Minivan,Xe	Kia Morning	Van 1.0 AT	2016	- 275 Triệu,Số tự động,,0 Km,Xanh,Xăng	1.0 L,2 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+SUV,Xe	Lexus LX	570	2009	- 2 Tỷ 350 Triệu,Số tự động,,0 Km,Trắng,Xăng	5.7 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+SUV,Xe	Honda CRV	2.0 AT	2015	- 675 Triệu,Số tự động,,0 Km,Nâu,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+Sedan,Xe	Toyota Corolla altis	1.8G AT	2011	- 425 Triệu,Số tự động,,0 Km,Bạc,Xăng	1.8 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+Crossover,Xe	Hyundai Creta	Tiêu chuẩn 1.5 AT	2022	- 620 Triệu,Số tự động,,0 Km,Đỏ,Xăng	1.5 L,5 chỗ,5 cửa,Xe mới,Nhập khẩu
+SUV,Xe	Volkswagen Tiguan	Allspace	2018	- 1 Tỷ 280 Triệu,Số tự động,,0 Km,Đen,Xăng	2.0 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+SUV,Xe	Mercedes Benz GLS	400 4Matic	2017	- 3 Tỷ 350 Triệu,Số tự động,,0 Km,Đen,Xăng	3.0 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+Sedan,Xe	Mercedes Benz E class	E300 AMG	2020	- 2 Tỷ 499 Triệu,Số tự động,,"14,329 Km",Đỏ,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+Coupe,Xe	Porsche 911	Carrera	2021	- 10 Tỷ ,Số tự động,,"3,000 Km",Vàng,Xăng	3.0 L,4 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
+Bán tải / Pickup,Xe	Nissan Navara	VL 2.5 AT 2WD	2021	- 845 Triệu,Số tự động,,0 Km,Đen,Dầu	2.5 L,5 chỗ,4 cửa,Xe mới,Nhập khẩu
+Truck,Xe	Nissan Navara	2013	- 365 Triệu,Số tay,,"20,000 Km",Ghi,Dầu,0 chỗ,0 cửa,Xe đã dùng,Lắp ráp trong nước
+Sedan,Xe	Kia K3	Premium 1.6 AT	2022	- 674 Triệu,Số tự động,,0 Km,Đỏ,Xăng	1.6 L,5 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
+Sedan,Xe	Kia Cerato	1.6 AT Luxury	2019	- 585 Triệu,Số tự động,,"32,000 Km",Đen,Xăng	1.6 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+Sedan,Xe	Mercedes Benz E class	E200	2017	- 1 Tỷ 489 Triệu,Số tự động,,"50,000 Km",Trắng,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+Crossover,Xe	Ford Territory	Titanium 4x2 AT	2022	- 1 Tỷ ,Số tự động,,0 Km,Đỏ,Xăng,5 chỗ,5 cửa,Xe mới,Lắp ráp trong nước
+Hatchback,Xe	Ford Fiesta	S 1.5 AT	2014	- 335 Triệu,Số tự động,,"80,000 Km",Trắng,Xăng	1.5 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+Sedan,Xe	Toyota Vios	G 1.5 CVT	2022	- 551 Triệu,Số tự động,,0 Km,Cát,Xăng	1.5 L,5 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
+Sedan,Xe	Mercedes Benz E class	E250	2014	- 969 Triệu,Số tự động,,"68,000 Km",Trắng,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+Van/Minivan,Xe	Ford Transit	Limousine	2022	- 1 Tỷ 209 Triệu,Số tay,,0 Km,Trắng,Dầu	2.2 L,10 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
+Coupe,Xe	Porsche Cayman	2.9 AT	2010	- 2 Tỷ 550 Triệu,Số tự động,,0 Km,Vàng,Xăng	2.9 L,2 chỗ,2 cửa,Xe đã dùng,Nhập khẩu
+SUV,Xe	Lexus RX	350L	2020	- 4 Tỷ 390 Triệu,Số tự động,,"10,000 Km",Trắng,Xăng	3.5 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+SUV,Xe	Mercedes Benz GLC	250 4Matic	2018	- 1 Tỷ 679 Triệu,Số tự động,,"46,000 Km",Đen,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+SUV,Xe	Hyundai SantaFe	Cao cấp 2.5L HTRAC	2021	- 1 Tỷ 225 Triệu,Số tự động,,0 Km,Trắng,Xăng	2.5 L,7 chỗ,5 cửa,Xe mới,Lắp ráp trong nước
+Sedan,Xe	Hyundai Accent	1.4 MT 11/	2014	- 355 Triệu,Số tay,,"58,000 Km",Đen,Xăng,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
+Truck,Xe	Isuzu FVR	900	2022	- 1 Tỷ 410 Triệu,Số tay,,0 Km,Trắng,Dầu,3 chỗ,2 cửa,Xe mới,Lắp ráp trong nước
+Sedan,Xe	Hyundai Accent	1.4 AT Đặc Biệt	2022	- 530 Triệu,Số tự động,,0 Km,Trắng,Xăng	1.4 L,5 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
+SUV,Xe	Acura MDX	SH-AWD	2007	- 500 Triệu,Số tự động,,0 Km,Ghi,Xăng	3.7 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+SUV,Xe	Toyota Raize	G 1.0 CVT	2022	- 547 Triệu,Số tự động,,0 Km,Đen,Xăng	1.0 L,5 chỗ,5 cửa,Xe mới,Nhập khẩu
+Sedan,Xe	Toyota Vios	E CVT	2022	- 531 Triệu,Số tự động,,0 Km,Bạc,Xăng	1.5 L,5 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
+Sedan,Xe	Mazda 3	1.5 AT	2015	- 455 Triệu,Số tự động,,"48,000 Km",Trắng,Xăng	1.5 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+Sedan,Xe	Honda City	L 1.5 AT	2022	- 549 Triệu,Số tự động,,0 Km,Đen,Xăng	1.5 L,5 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
+SUV,Xe	Porsche Cayenne	3.6 V6	2011	- 1 Tỷ 680 Triệu,Số tự động,,"90,000 Km",Trắng,Xăng	3.6 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+Sedan,Xe	Mercedes Benz E class	E180	2021	- 1 Tỷ 990 Triệu,Số tự động,,499 Km,Xanh,Xăng	1.5 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+SUV,Xe	Mercedes Benz GLC	250 4Matic	2019	- 1 Tỷ 785 Triệu,Số tự động,,"23,000 Km",Trắng,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+SUV,Xe	Mercedes Benz GLC	200	2022	- 1 Tỷ 859 Triệu,Số tự động,,0 Km,Đỏ,Xăng	2.0 L,5 chỗ,5 cửa,Xe mới,Lắp ráp trong nước
+Sedan,Xe	Lexus GS	350	2008	- 635 Triệu,Số tự động,,"10,000 Km",Đen,Xăng	3.5 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
+Sedan,Xe	Toyota Vios	G 1.5 CVT	2022	- 566 Triệu,Số tự động,,0 Km,Cát,Xăng	1.5 L,5 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
+SUV,Xe	Mercedes Benz ML Class	Mercedes ML350	2005	- 345 Triệu,Số tự động,,0 Km,Xanh,Xăng,0 chỗ,0 cửa,Xe đã dùng,Nhập khẩu
+SUV,Xe	Toyota Veloz	Cross 1.5 CVT	2022	- 648 Triệu,Số tự động,,0 Km,Đỏ,Xăng	1.5 L,7 chỗ,5 cửa,Xe mới,Nhập khẩu
+Sedan,Xe	Mazda 2	1.5 AT	2016	- 425 Triệu,Số tự động,,"65,742 Km",Xanh,Xăng	1.5 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+SUV,Xe	LandRover Range Rover	SV AUTOBIOGRAPHY LWB	2021	- 12 Tỷ 600 Triệu,Số tự động,,0 Km,Trắng,Xăng,4 chỗ,5 cửa,Xe mới,Nhập khẩu
+Sedan,Xe	Mercedes Benz S class	S500L	2016	- 3 Tỷ 99 Triệu,Số tự động,,"76,000 Km",Đen,Xăng	4.7 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+Hatchback,Xe	VinFast Fadil	1.4 AT	2021	- 345 Triệu,Số tự động,,"21,000 Km",Trắng,Xăng	1.4 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+Sedan,Xe	Toyota Corolla altis	1.8G	2022	- 685 Triệu,Số tự động,,0 Km,Trắng,Xăng	1.8 L,5 chỗ,4 cửa,Xe mới,Nhập khẩu
+Bán tải / Pickup,Xe	Ford Ranger	XLS 2.2L 4x2 AT	2015	- 545 Triệu,Số tự động,,"80,000 Km",Trắng,Dầu	2.2 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
+SUV,Xe	Kia Sorento	GATH	2017	- 650 Triệu,Số tự động,,"60,000 Km",Vàng,Xăng	2.4 L,7 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+SUV,Xe	Ford Everest	Titanium 2.0L 4x2 AT	2018	- 999 Triệu,Số tự động,,"50,000 Km",Trắng,Dầu	2.0 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+Sedan,Xe	Hyundai Elantra	2.0 AT	2019	- 620 Triệu,Số tự động,,"50,700 Km",Đen,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+Sedan,Xe	Lexus LS	460L	2008	- 860 Triệu,Số tự động,,0 Km,Trắng,Xăng	4.6 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
+Sedan,Xe	Honda City	RS 1.5 AT	2022	- 584 Triệu,Số tự động,,0 Km,Trắng,Xăng	1.5 L,5 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
+SUV,Xe	Mercedes Benz GLC	250 4Matic	2016	- 1 Tỷ 330 Triệu,Số tự động,,0 Km,Trắng,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+Sedan,Xe	Mitsubishi Attrage	1.2 CVT	2020	- 420 Triệu,Số tự động,,"30,000 Km",Trắng,Xăng	1.2 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
+SUV,Xe	Toyota Land Cruiser	GX.R 4.0 V6	2008	- 1 Tỷ 480 Triệu,Số tự động,,0 Km,Đen,Xăng	4.0 L,8 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+SUV,Xe	Mazda CX5	2.0 AT	2019	- 775 Triệu,Số tự động,,"20,000 Km",Đen,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+SUV,Xe	Lexus GX	460	2020	- 5 Tỷ 900 Triệu,Số tự động,,"11,000 Km",Đen,Xăng	4.6 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+SUV,Xe	Lexus LX	570	2016	- 6 Tỷ 650 Triệu,Số tự động,,0 Km,Đen,Xăng	5.7 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+Sedan,Xe	Toyota Camry	2.5Q	2019	- 1 Tỷ 160 Triệu,Số tự động,,"56,000 Km",Đen,Xăng	2.5 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
+SUV,Xe	BMW X4	xDrive20i	2016	- 1 Tỷ 750 Triệu,Số tự động,,0 Km,Xanh,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+Sedan,Xe	Mercedes Benz C class	C300 AMG	2021	- 1 Tỷ 850 Triệu,Số tự động,,"13,000 Km",Đen,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+Sedan,Xe	Toyota Vios	Sedan	2019	- 415 Triệu,Số tay,,65 Km,Trắng,Xăng,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+Sedan,Xe	BMW 3 Series	320i	2018	- 1 Tỷ 89 Triệu,Số tự động,,"48,000 Km",Đen,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
+Bán tải / Pickup,Xe	Ford Ranger	Raptor 2.0L 4x4 AT	2019	- 1 Tỷ 315 Triệu,Số tự động,,"35,000 Km",Xanh,Dầu	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
+Hatchback,Xe	Hyundai i10	Grand 1.2 AT	2018	- 375 Triệu,Số tự động,,"56,000 Km",Đỏ,Xăng	1.25 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+Hatchback,Xe	Ford Focus	Sport 1.5L	2018	- 630 Triệu,Số tự động,,"37,000 Km",Nâu,Xăng	1.5 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+Bán tải / Pickup,Xe	Ford Ranger	XLS 2.2L 4x2 AT	2021	- 760 Triệu,Số tự động,,"12,000 Km",Trắng,Dầu	2.2 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
+Crossover,Xe	Toyota Innova	2.0MT	2012	- 365 Triệu,Số tay,,"90,000 Km",Bạc,Xăng	2.0 L,8 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+SUV,Xe	Mercedes Benz GLC	300 4Matic	2020	- 2 Tỷ 380 Triệu,Số tự động,,0 Km,Trắng,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+Sedan,Xe	Mitsubishi Attrage	Premium 1.2 CVT	2021	- 485 Triệu,Số tự động,,0 Km,Trắng,Xăng	1.2 L,5 chỗ,4 cửa,Xe mới,Nhập khẩu
+Bán tải / Pickup,Xe	Toyota Hilux	2.4E 4x2 AT	2019	- 745 Triệu,Số tự động,,"50,000 Km",Đen,Dầu	2.4 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
+SUV,Xe	Rolls Royce Cullinan	Black Badge 6.75 V12	2020	- 41 Tỷ 500 Triệu,Số tự động,,0 Km,Đen,Xăng	6.7 L,4 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+SUV,Xe	Audi Q5	2.0 AT	2017	- 1 Tỷ 750 Triệu,Số tự động,,"56,000 Km",Trắng,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+Sedan,Xe	Toyota Camry	2.5G	2015	- 710 Triệu,Số tự động,,0 Km,Đen,Xăng	2.5 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+SUV,Xe	Mercedes Benz GLC	300 4Matic	2020	- 2 Tỷ 345 Triệu,Số tự động,,"30,000 Km",Trắng,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+Sedan,Xe	Mercedes Benz E class	E200	2018	- 1 Tỷ 520 Triệu,Số tự động,,"60,000 Km",Đen,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+Sedan,Xe	Toyota Vios	1.5G	2020	- 553 Triệu,Số tự động,,"20,569 Km",Vàng,Xăng	1.5 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+Van/Minivan,Xe	Ford Transit	Cứu thương	2022	- 915 Triệu,Số tay,,0 Km,Trắng,Dầu	2.2 L,5 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
+Sedan,Xe	Mercedes Benz E class	E200	2014	- 835 Triệu,Số tự động,,"80,000 Km",Bạc,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+SUV,Xe	Porsche Cayenne	3.6 V6	2011	- 1 Tỷ 560 Triệu,Số tự động,,"67,000 Km",Đỏ,Xăng	3.6 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
+SUV,Xe	Ford Everest	Ambiente 2.0 4x2 MT	2019	- 869 Triệu,Số tay,,"52,000 Km",Đen,Dầu	2.0 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+SUV,Xe	Honda CRV	2.0 AT	2013	- 579 Triệu,Số tự động,,"126,000 Km",Trắng,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+Sedan,Xe	MG 5	Standard 1.5 AT	2022	- 515 Triệu,Số tự động,,0 Km,Đỏ,Xăng	1.5 L,5 chỗ,4 cửa,Xe mới,Nhập khẩu
+Sedan,Xe	BMW 5 Series	530i M Sport	2022	- 3 Tỷ 389 Triệu,Số tự động,,0 Km,Trắng,Xăng	2.0 L,5 chỗ,4 cửa,Xe mới,Nhập khẩu
+SUV,Xe	LandRover Range Rover Evoque	R-Dynamic S	2020	- 2 Tỷ 980 Triệu,Số tự động,,"6,800 Km",Đỏ,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+Hatchback,Xe	Hyundai i10	2016	- 215 Triệu,Số tay,,0 Km,Trắng,Xăng,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+SUV,Xe	Hyundai SantaFe	2.4L	2013	- 650 Triệu,Số tự động,,"80,000 Km",Bạc,Xăng	2.4 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+SUV,Xe	Mazda CX5	2.0 AT	2013	- 505 Triệu,Số tự động,,"80,000 Km",Nâu,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+SUV,Xe	Mazda CX5	2.5 AT	2016	- 695 Triệu,Số tự động,,"52,000 Km",Trắng,Xăng	2.5 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+Sedan,Xe	Hyundai i10	Grand 1.2 AT	2017	- 345 Triệu,Số tự động,,"60,000 Km",Trắng,Xăng	1.25 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+SUV,Xe	Mercedes Benz GLK Class	GLK250 AMG 4Matic	2014	- 920 Triệu,Số tự động,,0 Km,Trắng,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+Sedan,Xe	Toyota Vios	1.5E CVT	2020	- 498 Triệu,Số tự động,,"14,000 Km",Cát,Xăng	1.5 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+Van/Minivan,Xe	Hyundai Solati	Limousine	2022	- 1 Tỷ 469 Triệu,Số tay,,0 Km,Đen,Dầu	2.5 L,10 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
+Crossover,Xe	Hyundai Tucson	2.0 ATH	2018	- 785 Triệu,Số tự động,,"45,000 Km",Vàng,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+Sedan,Xe	MG 5	Luxury 1.5 AT	2022	- 579 Triệu,Số tự động,,0 Km,Xanh,Xăng	1.5 L,5 chỗ,4 cửa,Xe mới,Nhập khẩu
+SUV,Xe	Toyota Prado	TXL 2.7L	2016	- 1 Tỷ 720 Triệu,Số tự động,,"80,000 Km",Đen,Xăng,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+Sedan,Xe	Chevrolet Cruze	2016	- 408 Triệu,Số tự động,,"52,000 Km",Trắng,Xăng,4 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+Bán tải / Pickup,Xe	Nissan Navara	2018	- 548 Triệu,Số tự động,,"68,000 Km",Xanh,Dầu,4 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+SUV,Xe	Mercedes Benz GLC	300 4Matic	2017	- 1 Tỷ 680 Triệu,Số tự động,,"60,000 Km",Trắng,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+Hatchback,Xe	Volkswagen Polo	1.6 AT	2016	- 439 Triệu,Số tự động,,"85,588 Km",Đỏ,Xăng	1.6 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+Sedan,Xe	Ford Focus	2.0 AT Ghia	2011	- 315 Triệu,Số tự động,,"100,000 Km",Bạc,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+SUV,Xe	Toyota Fortuner	2.4G 4x2 AT	2022	- 1 Tỷ 30 Triệu,Số tự động,,0 Km,Trắng,Dầu	2.4 L,7 chỗ,5 cửa,Xe mới,Lắp ráp trong nước
+SUV,Xe	Mitsubishi Xpander	1.5 AT	2020	- 598 Triệu,Số tự động,,"22,156 Km",Trắng,Xăng	1.5 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+SUV,Xe	Mazda CX5	2.5 AT 2WD	2019	- 890 Triệu,Số tự động,,"50,000 Km",Đỏ,Xăng	2.5 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+Bán tải / Pickup,Xe	Mitsubishi Triton	4x2 AT	2016	- 465 Triệu,Số tự động,,"100,000 Km",Bạc,Dầu	2.5 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
+Sedan,Xe	Daewoo Lacetti	2010	- 244 Triệu,Số tự động,,0 Km,Đen,Xăng,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
+Sedan,Xe	Toyota Vios	E 1.5 MT	2022	- 483 Triệu,Số tay,,0 Km,Trắng,Xăng	1.5 L,5 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
+SUV,Xe	Toyota Rush	1.5S AT	2021	- 655 Triệu,Số tự động,,"15,000 Km",Đỏ,Xăng	1.5 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+SUV,Xe	Toyota Fortuner	2014	- 650 Triệu,Số tay,,"95,000 Km",Bạc,Dầu,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+SUV,Xe	Suzuki Vitara	1.6 AT	2016	- 545 Triệu,Số tự động,,"80,000 Km",Trắng,Xăng	1.6 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+Sedan,Xe	Toyota Corolla altis	1.8G AT	2008	- 339 Triệu,Số tự động,,"160,000 Km",Đen,Xăng	1.8 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+Bán tải / Pickup,Xe	Mazda BT50	Luxury 2.2L 4x2 AT	2020	- 638 Triệu,Số tự động,,"20,000 Km",Trắng,Dầu	2.2 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
+SUV,Xe	Ford Everest	Titanium 2.0L 4x2 AT	2022	- 1 Tỷ 193 Triệu,Số tự động,,0 Km,Đỏ,Dầu	2.0 L,7 chỗ,5 cửa,Xe mới,Nhập khẩu
+SUV,Xe	Mazda CX5	Suv	2017	- 699 Triệu,Số tự động,,"48,000 Km",Trắng,Xăng,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+Sedan,Xe	Hyundai Sonata	2.0 AT	2013	- 495 Triệu,Số tự động,,"80,000 Km",Trắng,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
+SUV,Xe	Mazda CX5	2.0 AT	2019	- 780 Triệu,Số tự động,,"30,000 Km",Đỏ,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+Bán tải / Pickup,Xe	Ford Ranger	XLS 2.2L 4x2 AT	2015	- 520 Triệu,Số tự động,,"87,000 Km",Ghi,Dầu	2.2 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
+Crossover,Xe	Toyota Innova	E 2.0 MT	2022	- 755 Triệu,Số tay,,0 Km,Trắng,Xăng	2.0 L,8 chỗ,5 cửa,Xe mới,Lắp ráp trong nước
+Bán tải / Pickup,Xe	Ford Ranger	XL 2.2L 4x4 MT	2022	- 628 Triệu,Số tay,,0 Km,Cát,Dầu	2.2 L,5 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
+SUV,Xe	Toyota Fortuner	2.7V 4x4 AT	2022	- 1 Tỷ 232 Triệu,Số tự động,,0 Km,Đen,Xăng	2.7 L,7 chỗ,5 cửa,Xe mới,Nhập khẩu
+Van/Minivan,Xe	Nissan	Caravan	2000	- 199 Triệu,Số tự động,,0 Km,Xanh,Dầu,7 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+SUV,Xe	Honda CRV	G	2022	- 1 Tỷ 48 Triệu,Số tự động,,0 Km,Ghi,Xăng	1.5 L,7 chỗ,5 cửa,Xe mới,Lắp ráp trong nước
+Sedan,Xe	Kia Spectra	1.6 MT	2003	- 72 Triệu,Số tay,,"12,000 Km",Đen,Xăng	1.6 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+Sedan,Xe	Mercedes Benz E class	E300 AMG	2022	- 3 Tỷ 129 Triệu,Số tự động,,0 Km,Đỏ,Xăng	2.0 L,5 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
+Sedan,Xe	Audi A4	40 TFSI Advanced	2020	- 1 Tỷ 690 Triệu,Số tự động,,"5,000 Km",Trắng,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
+SUV,Xe	Mitsubishi Xpander	1.5 AT	2020	- 560 Triệu,Số tự động,,"16,000 Km",Trắng,Xăng	1.5 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+Bán tải / Pickup,Xe	Mitsubishi Triton	4x4 AT Mivec Premium	2021	- 845 Triệu,Số tự động,,"10,000 Km",Trắng,Dầu	2.4 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
+Hatchback,Xe	Chevrolet Spark	MT	2016	- 148 Triệu,Số tay,,"80,000 Km",Trắng,Xăng,0 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+Convertible/Cabriolet,Xe	BMW 4 Series	430i Convertible	2018	- 2 Tỷ 489 Triệu,Số tự động,,"25,000 Km",Đỏ,Xăng	2.0 L,4 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
+Sedan,Xe	VinFast Lux A 2.0	2.0 AT	2021	- 775 Triệu,Số tự động,,"8,000 Km",Đen,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+Sedan,Xe	Hyundai Elantra	2.0 AT	2019	- 615 Triệu,Số tự động,,"27,000 Km",Đỏ,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+Sedan,Xe	Kia Cerato	1.6MT	2018	- 459 Triệu,Số tay,,0 Km,Trắng,Xăng,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+SUV,Xe	Mercedes Benz GLC	300 4MATIC	2021	- 2 Tỷ 509 Triệu,Số tự động,,0 Km,Đen,-,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+Hatchback,Xe	Hyundai i10	2022	- 455 Triệu,Số tự động,,"8,000 Km",Đỏ,Xăng,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+Crossover,Xe	Hyundai Tucson	2.0 AT Đặc biệt	2021	- 900 Triệu,Số tự động,,"7,000 Km",Vàng,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+SUV,Xe	Toyota Fortuner	2.4G 4x2 MT	2019	- 965 Triệu,Số tay,,"49,000 Km",Đen,Dầu	2.4 L,8 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+SUV,Xe	Mazda CX5	2.5 AT 2WD	2018	- 790 Triệu,Số tự động,,"66,000 Km",Đỏ,Xăng	2.5 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+Sedan,Xe	Mitsubishi Lancer	GLXI 1.6 MT	2003	- 95 Triệu,Số tay,,"20,000 Km",Nâu,Xăng	1.6 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+SUV,Xe	Toyota Land Cruiser	3.5 V6	2022	- 5 Tỷ 850 Triệu,Số tự động,,0 Km,Trắng,Xăng	3.4 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+Sedan,Xe	Kia Cerato	2010	- 335 Triệu,Số tự động,,0 Km,Đen,Xăng,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+SUV,Xe	Toyota Corolla Cross	1.8HV	2020	- 995 Triệu,Số tự động,,"16,000 Km",Trắng,Hybrid	1.8 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+Sedan,Xe	Mercedes Benz E class	E300 AMG	2022	- 2 Tỷ 945 Triệu,Số tự động,,"4,000 Km",Trắng,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+Bán tải / Pickup,Xe	Ford Ranger	XLS 2.2L 4x2 AT	2015	- 495 Triệu,Số tự động,,"110,000 Km",Trắng,Dầu	2.2 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
+Bán tải / Pickup,Xe	Isuzu Dmax	LS 1.9L 4x2 AT	2021	- 630 Triệu,Số tự động,,0 Km,Đen,Dầu	1.9 L,5 chỗ,4 cửa,Xe mới,Nhập khẩu
+Crossover,Xe	Kia Carens	SXAT	2012	- 330 Triệu,Số tự động,,"78,000 Km",Trắng,Xăng	2.0 L,7 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+Sedan,Xe	Mercedes Benz E class	200	2017	- 1 Tỷ 475 Triệu,Số tự động,,"45,000 Km",Trắng,Xăng,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+SUV,Xe	LandRover Range Rover	SVAutobiography LWB 3.0 I6	2021	- 13 Tỷ ,Số tự động,,"2,000 Km",Xám,Xăng	3.0 L,4 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+SUV,Xe	LandRover Range Rover Sport	Hse 3.0	2016	- 3 Tỷ 550 Triệu,Số tự động,,"45,000 Km",Trắng,Xăng,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+SUV,Xe	Toyota Fortuner	2.4G 4x2 AT	2020	- 1 Tỷ 60 Triệu,Số tự động,,"30,000 Km",Đen,Dầu	2.4 L,8 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+SUV,Xe	BMW X4	xDrive28i	2015	- 1 Tỷ 299 Triệu,Số tự động,,"70,000 Km",Vàng,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+Bán tải / Pickup,Xe	Mazda BT50	2.2L 4x2 AT	2018	- 565 Triệu,Số tự động,,"60,000 Km",Ghi,Dầu	2.2 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
+Bán tải / Pickup,Xe	Mazda BT50	2.2L 4x2 AT	2015	- 471 Triệu,Số tự động,,10 Km,Cát,Dầu	2.2 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
+Bán tải / Pickup,Xe	Mazda BT50	2.2L 4x2 ATH	2018	- 585 Triệu,Số tự động,,"52,000 Km",Trắng,Dầu	2.2 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
+Sedan,Xe	Mercedes Benz E class	E300 AMG	2020	- 2 Tỷ 750 Triệu,Số tự động,,"8,300 Km",Trắng,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+Sedan,Xe	Mercedes Benz C class	C250 Exclusive	2015	- 990 Triệu,Số tự động,,"78,000 Km",Trắng,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+SUV,Xe	Lexus GX	470	2008	- 1 Tỷ 130 Triệu,Số tự động,,"110,000 Km",Cát,Xăng	4.7 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+Crossover,Xe	Hyundai Tucson	1.6 AT Turbo HTRAC Đặc biệt	2022	- 1 Tỷ 20 Triệu,Số tự động,,0 Km,Xanh,Xăng	1.6 L,5 chỗ,5 cửa,Xe mới,Lắp ráp trong nước
+Bán tải / Pickup,Xe	Ford Ranger	XLS 2.2L 4x2 AT	2022	- 662 Triệu,Số tự động,,0 Km,Đen,Dầu	2.2 L,5 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
+Hatchback,Xe	Hyundai i10	Grand 1.2 MT	2018	- 303 Triệu,Số tay,,0 Km,Bạc,Xăng	1.25 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+Hatchback,Xe	Kia Morning	2016	- 290 Triệu,Số tự động,,"67,000 Km",Trắng,Xăng,0 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+Hatchback,Xe	Kia Morning	Deluxe	2019	- 335 Triệu,Số tự động,,"30,000 Km",Đỏ,Xăng	1.25 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+Crossover,Xe	MG ZS	Standard 1.5 AT 2WD	2020	- 455 Triệu,Số tự động,,0 Km,Trắng,Xăng	1.5 L,5 chỗ,5 cửa,Xe mới,Nhập khẩu
+SUV,Xe	Toyota Fortuner	2.4G 4x2 AT	2022	- 1 Tỷ 80 Triệu,Số tự động,,0 Km,Trắng,Dầu	2.4 L,7 chỗ,5 cửa,Xe mới,Lắp ráp trong nước
+Hatchback,Xe	Toyota Yaris	1.5G	2019	- 605 Triệu,Số tự động,,"22,000 Km",Trắng,Xăng	1.5 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+Sedan,Xe	Hyundai Accent	1.4 AT	2020	- 495 Triệu,Số tự động,,"46,000 Km",Trắng,Xăng	1.4 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+Sedan,Xe	Lexus ES	250	2015	- 1 Tỷ 590 Triệu,Số tự động,,"48,000 Km",Trắng,Xăng	2.5 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
+Hatchback,Xe	Hyundai i10	2020	- 410 Triệu,Số tự động,,"10,000 Km",Đỏ,Xăng,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+Sedan,Xe	Kia K3	Luxury 1.6 AT	2022	- 639 Triệu,Số tự động,,0 Km,Trắng,Xăng	1.6 L,5 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
+Hatchback,Xe	Ford Focus	1.8 AT	2012	- 280 Triệu,Số tự động,,"82,000 Km",Xám,Xăng	1.8 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+Hatchback,Xe	Kia Morning	Si MT	2018	- 285 Triệu,Số tay,,"60,000 Km",Nâu,Xăng	1.25 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+SUV,Xe	Kia Sorento	DATH	2018	- 845 Triệu,Số tự động,,"30,000 Km",Trắng,Dầu	2.2 L,7 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
+Hatchback,Xe	Nissan Tiida	1.6 AT	2008	- 239 Triệu,Số tự động,,"86,000 Km",Vàng,Xăng	1.6 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+Sedan,Xe	Toyota Camry	2.0E	2017	- 769 Triệu,Số tự động,,0 Km,Đen,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+Bán tải / Pickup,Xe	Nissan Navara 2.5 AT EL	2016	- 495 Triệu,Số tự động,,"80,000 Km",Xám,Dầu,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
+Van/Minivan,Xe	Honda Odyssey	2.4 AT	2016	- 1 Tỷ 150 Triệu,Số tự động,,"43,000 Km",Trắng,Xăng	2.4 L,8 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
+SUV,Xe	Toyota Innova	2.0E	2013	- 338 Triệu,Số tay,,"80,000 Km",Ghi,Xăng,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
+Coupe,Xe	BMW M3	Coupe 4.0 AT	2009	- 2 Tỷ 380 Triệu,Số tự động,,"28,000 Km",Xám,Xăng	4.0 L,4 chỗ,2 cửa,Xe đã dùng,Nhập khẩu
