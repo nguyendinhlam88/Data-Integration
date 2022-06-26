@@ -1,301 +1,299 @@
-dong_xe,gia,hop_so,kieu_dang,km_da_di,mau_xe,nhien_lieu,so_cho_ngoi,so_cua,tinh_trang,xuat_xu
-SUV,Xe	Mazda CX5	2.5 AT 2WD	2018	- 785 Triệu,Số tự động,,"45,000 Km",Trắng,Xăng	2.5 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-SUV,Xe	Toyota Prado	TXL 2.7L	2015	- 1 Tỷ 630 Triệu,Số tự động,,"10,000 Km",Đen,Xăng	2.7 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-Hatchback,Xe	Kia Morning	SLX 1.0 AT	2009	- 198 Triệu,Số tự động,,"100,000 Km",Đỏ,Xăng	1.0 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-Sedan,Xe	Mitsubishi Attrage	1.2 CVT	2022	- 445 Triệu,Số tự động,,0 Km,Trắng,Xăng	1.2 L,5 chỗ,4 cửa,Xe mới,Nhập khẩu
-Sedan,Xe	Mercedes Benz C class	C300 AMG	2019	- 1 Tỷ 599 Triệu,Số tự động,,"29,000 Km",Trắng,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-Crossover,Xe	Hyundai Tucson	1.6 AT Turbo	2019	- 879 Triệu,Số tự động,,"20,000 Km",Trắng,Xăng	1.6 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-SUV,Xe	Lexus RX	350	2019	- 4 Tỷ 50 Triệu,Số tự động,,"15,000 Km",Cát,Xăng	3.5 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-SUV,Xe	VinFast Lux SA 2.0	Plus 2.0 AT	2021	- 1 Tỷ 145 Triệu,Số tự động,,"2,000 Km",Trắng,Xăng	2.0 L,7 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-SUV,Xe	Toyota Fortuner	2.7V 4x2 AT	2013	- 469 Triệu,Số tự động,,0 Km,Bạc,Xăng	2.7 L,8 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-SUV,Xe	Toyota Land Cruiser	3.5 V6	2022	- 4 Tỷ 100 Triệu,Số tự động,,0 Km,Đen,Xăng	3.4 L,7 chỗ,5 cửa,Xe mới,Nhập khẩu
-SUV,Xe	Honda CRV	2.0 AT	2016	- 695 Triệu,Số tự động,,"68,000 Km",Trắng,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-SUV,Xe	VinFast Lux SA 2.0	Tiêu chuẩn	2022	- 999 Triệu,Số tự động,,"4,000 Km",Đen,Xăng	2.0 L,7 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-Sedan,Xe	Hyundai Elantra	2.0 AT	2019	- 613 Triệu,Số tự động,,"40,000 Km",Đỏ,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-Sedan,Xe	Mercedes Benz E class	E200	2017	- 1 Tỷ 520 Triệu,Số tự động,,"55,555 Km",Xanh,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-SUV,Xe	Toyota Land Cruiser	GX 4.5	2005	- 650 Triệu,Số tay,,"76,000 Km",Xám,Xăng	4.5 L,8 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-SUV,Xe	Honda CRV	2.4 AT	2013	- 619 Triệu,Số tự động,,"57,000 Km",Đen,Xăng	2.4 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-Crossover,Xe	Kia Sonet	Deluxe 1.5 AT	2022	- 554 Triệu,Số tự động,,0 Km,Trắng,Xăng	1.5 L,5 chỗ,5 cửa,Xe mới,Lắp ráp trong nước
-Sedan,Xe	Toyota Vios	1.5E MT	2019	- 410 Triệu,Số tay,,0 Km,Trắng,Xăng	1.5 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-Sedan,Xe	Kia Soluto	1.4 AT Luxury	2022	- 474 Triệu,Số tự động,,0 Km,Đen,Xăng	1.4 L,5 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
-SUV,Xe	BMW X6	xDrive35i	2016	- 2 Tỷ 250 Triệu,Số tự động,,"58,000 Km",Đen,Xăng	3.0 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-Sedan,Xe	Toyota Vios	1.5G	2009	- 322 Triệu,Số tự động,,"120,000 Km",Bạc,Xăng	1.5 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-Sedan,Xe	Daewoo Leganza	2.0	2000	- 43 Triệu,Số tay,,"50,000 Km",Đen,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
-Sedan,Xe	VinFast Lux A 2.0	Cao cấp	2022	- 1 Tỷ 74 Triệu,Số tự động,,0 Km,Cam,Xăng	2.0 L,5 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
-SUV,Xe	LandRover Range Rover Evoque	Dynamic	2014	- 1 Tỷ 395 Triệu,Số tự động,,"59,000 Km",Đỏ,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-SUV,Xe	Toyota Fortuner	Limited	2016	- 678 Triệu,Số tự động,,"60,000 Km",Nâu,Xăng,7 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-Sedan,Xe	Toyota Vios	1.5G	2020	- 548 Triệu,Số tự động,,"20,711 Km",Đỏ,Xăng	1.5 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-Sedan,Xe	Hyundai i10	Grand 1.2 MT Base	2018	- 265 Triệu,Số tay,,0 Km,Bạc,Xăng	1.25 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-Bán tải / Pickup,Xe	Ford Ranger	XLS 2.2L 4x2 AT	2022	- 662 Triệu,Số tự động,,0 Km,Nâu,Dầu	2.2 L,5 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
-SUV,Xe	Lexus LX	570	2014	- 4 Tỷ 380 Triệu,Số tự động,,"76,000 Km",Trắng,Xăng	5.7 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-Sedan,Xe	Mercedes Benz E class	E200	2016	- 1 Tỷ 435 Triệu,Số tự động,,0 Km,Đen,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-Sedan,Xe	Mercedes Benz S class	S450L	2017	- 3 Tỷ 250 Triệu,Số tự động,,"30,000 Km",Đen,Xăng	3.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-Sedan,Xe	Mercedes Benz S class	S400L	2017	- 2 Tỷ 720 Triệu,Số tự động,,0 Km,Đen,Xăng	3.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-SUV,Xe	Porsche Cayenne	Coupe	2020	- 6 Tỷ 880 Triệu,Số tự động,,"7,999 Km",Trắng,Xăng	3.0 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-Sedan,Xe	Mercedes Benz E class	E200	2017	- 1 Tỷ 519 Triệu,Số tự động,,"31,000 Km",Đen,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-Coupe,Xe	Mitsubishi	Coupe	1995	- 330 Triệu,Số tự động,,"98,706 Km",Đen,Xăng,5 chỗ,2 cửa,Xe đã dùng,Nhập khẩu
-Bán tải / Pickup,Xe	Mitsubishi Triton	4x2 AT	2022	- 755 Triệu,Số tự động,,0 Km,Trắng,Dầu	2.4 L,5 chỗ,4 cửa,Xe mới,Nhập khẩu
-SUV,Xe	Mercedes Benz GLC	300 4Matic	2018	- 1 Tỷ 750 Triệu,Số tự động,,"38,000 Km",Xanh,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-SUV,Xe	Mazda CX8	Luxury	2020	- 990 Triệu,Số tự động,,"42,000 Km",Đỏ,Xăng	2.5 L,7 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-Sedan,Xe	Mercedes Benz E class	E200	2019	- 1 Tỷ 750 Triệu,Số tự động,,"30,000 Km",Trắng,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-Sedan,Xe	Mercedes Benz E class	E200	2019	- 1 Tỷ 700 Triệu,Số tự động,,"59,000 Km",Đen,Xăng,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
-Sedan,Xe	Mazda 3	1.5L Luxury	2022	- 679 Triệu,Số tự động,,0 Km,Đỏ,Xăng	1.5 L,5 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
-Sedan,Xe	Mercedes Benz S class	S400L	2016	- 2 Tỷ 550 Triệu,Số tự động,,"50,000 Km",Trắng,Xăng	3.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-SUV,Xe	Toyota Highlander	LE 2.7	2015	- 1 Tỷ 580 Triệu,Số tự động,,0 Km,Đen,Xăng	2.7 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-Crossover,Xe	Hyundai Tucson	2.0 AT Tiêu chuẩn	2022	- 825 Triệu,Số tự động,,0 Km,Trắng,Xăng	2.0 L,5 chỗ,5 cửa,Xe mới,Lắp ráp trong nước
-SUV,Xe	Mercedes Benz GLK Class	GLK250 4Matic	2015	- 919 Triệu,Số tự động,,"100,000 Km",Đen,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-Hatchback,Xe	Kia Morning	Si AT	2016	- 299 Triệu,Số tự động,,"66,000 Km",Đỏ,Xăng	1.25 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-SUV,Xe	Hyundai SantaFe	Cao cấp 2.5L HTRAC	2022	- 1 Tỷ 240 Triệu,Số tự động,,0 Km,Trắng,Xăng	2.5 L,7 chỗ,5 cửa,Xe mới,Lắp ráp trong nước
-SUV,Xe	Volkswagen Tiguan	Allspace	2018	- 1 Tỷ 280 Triệu,Số tự động,,"52,000 Km",Đen,Xăng	2.0 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-SUV,Xe	Porsche Macan	2.0	2021	- 4 Tỷ 450 Triệu,Số tự động,,"8,000 Km",Xanh,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-SUV,Xe	Lexus GX	460	2020	- 5 Tỷ 950 Triệu,Số tự động,,"14,000 Km",Đen,Xăng	4.6 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-SUV,Xe	Toyota Fortuner	2.8V 4x4 AT	2018	- 1 Tỷ 140 Triệu,Số tự động,,"50,000 Km",Bạc,Dầu	2.8 L,8 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-Crossover,Xe	Toyota Innova	2.0E	2020	- 689 Triệu,Số tay,,"34,000 Km",Bạc,Xăng	2.0 L,8 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-SUV,Xe	VinFast Lux SA 2.0	Nâng cao	2022	- 1 Tỷ 258 Triệu,Số tự động,,0 Km,Xanh,Xăng	2.0 L,7 chỗ,5 cửa,Xe mới,Lắp ráp trong nước
-Sedan,Xe	Mercedes Benz S class	S400L	2016	- 2 Tỷ 600 Triệu,Số tự động,,"22,000 Km",Trắng,Xăng	3.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-SUV,Xe	Mitsubishi Outlander	2.0 CVT	2022	- 825 Triệu,Số tự động,,0 Km,Đen,Xăng	2.0 L,7 chỗ,5 cửa,Xe mới,Lắp ráp trong nước
-Coupe,Xe	Porsche Cayman	2.9 AT	2010	- 2 Tỷ 550 Triệu,Số tự động,,"42,000 Km",Đen,Xăng	2.9 L,2 chỗ,2 cửa,Xe đã dùng,Nhập khẩu
-SUV,Xe	Lexus LX	570	2016	- 6 Tỷ 350 Triệu,Số tự động,,"61,000 Km",Đen,Xăng	5.7 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-SUV,Xe	Toyota Fortuner	2.8V 4x4 AT	2019	- 1 Tỷ 157 Triệu,Số tự động,,"81,000 Km",Trắng,Dầu	2.8 L,8 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-Hatchback,Xe	Kia Rio	1.4 AT	2015	- 425 Triệu,Số tự động,,"45,763 Km",Trắng,Xăng	1.4 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-Sedan,Xe	Mercedes Benz E class	E300 AMG	2022	- 3 Tỷ 129 Triệu,Số tự động,,0 Km,Đỏ,Xăng	2.0 L,5 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
-Crossover,Xe	Toyota Innova	G 2.0 AT	2022	- 870 Triệu,Số tự động,,0 Km,Trắng,Xăng	2.0 L,8 chỗ,5 cửa,Xe mới,Lắp ráp trong nước
-SUV,Xe	Porsche Macan	2.0	2016	- 2 Tỷ 680 Triệu,Số tự động,,"65,000 Km",Xanh,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-SUV,Xe	Kia Sorento	Luxury 2.2 AT	2022	- 1 Tỷ 99 Triệu,Số tự động,,0 Km,Trắng,Dầu	2.2 L,7 chỗ,5 cửa,Xe mới,Lắp ráp trong nước
-SUV,Xe	Lexus LX	570	2016	- 6 Tỷ 680 Triệu,Số tự động,,"42,000 Km",Đen,Xăng	5.7 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-Sedan,Xe	Mercedes Benz E class	E200	2011	- 560 Triệu,Số tự động,,"10,000 Km",Đen,Xăng	1.8 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-Hatchback,Xe	Mazda 3	1.5L Sport Luxury	2019	- 610 Triệu,Số tự động,,"28,000 Km",Xanh,Xăng	1.5 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-Sedan,Xe	VinFast Lux A 2.0	Nâng cao	2022	- 748 Triệu,Số tự động,,0 Km,Đỏ,Xăng	2.0 L,5 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
-Van/Minivan,Xe	Ford Transit	Limousine	2022	- 950 Triệu,Số tay,,0 Km,Bạc,Dầu	2.2 L,10 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
-Crossover,Xe	Toyota Innova	E 2.0 MT	2022	- 755 Triệu,Số tay,,0 Km,Bạc,Xăng	2.0 L,8 chỗ,5 cửa,Xe mới,Lắp ráp trong nước
-SUV,Xe	VinFast Lux SA 2.0	Cao cấp	2022	- 1 Tỷ 423 Triệu,Số tự động,,0 Km,Trắng,Xăng	2.0 L,7 chỗ,5 cửa,Xe mới,Lắp ráp trong nước
-Bán tải / Pickup,Xe	Ford Ranger	Wildtrak 3.2L 4x4 AT	2017	- 830 Triệu,Số tự động,,"66,666 Km",Trắng,Dầu	3.2 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
-SUV,Xe	Jeep Wrangler	Rubicon 2.0 4x4 AT	2021	- 3 Tỷ 688 Triệu,Số tự động,,0 Km,Xám,Xăng	2.0 L,5 chỗ,5 cửa,Xe mới,Nhập khẩu
-SUV,Xe	Kia Sorento	Signature 2.5 AT AWD	2022	- 1 Tỷ 229 Triệu,Số tự động,,0 Km,Trắng,Xăng	2.5 L,7 chỗ,5 cửa,Xe mới,Lắp ráp trong nước
-SUV,Xe	Mercedes Benz GLC	200	2019	- 1 Tỷ 580 Triệu,Số tự động,,"40,000 Km",Trắng,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-Coupe,Xe	Mercedes Benz GLE Class	GLE 43 AMG 4Matic Coupe	2019	- 3 Tỷ 750 Triệu,Số tự động,,"31,666 Km",Trắng,Xăng	3.0 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-SUV,Xe	LandRover Range Rover	Supercharged 5.0	2010	- 1 Tỷ 180 Triệu,Số tự động,,0 Km,Ghi,Xăng	5.0 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-SUV,Xe	Porsche Cayenne	3.0 V6	2018	- 5 Tỷ 450 Triệu,Số tự động,,"35,000 Km",Trắng,Xăng	3.0 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-Sedan,Xe	Mercedes Benz C class	C180 AMG	2021	- 1 Tỷ 499 Triệu,Số tự động,,"3,000 Km",Trắng,Xăng	1.5 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-SUV,Xe	Mercedes Benz GLS	400 4Matic	2017	- 3 Tỷ 350 Triệu,Số tự động,,0 Km,Nâu,Xăng	3.0 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-SUV,Xe	VinFast Lux SA 2.0	Plus 2.0 AT	2021	- 1 Tỷ 30 Triệu,Số tự động,,"20,000 Km",Trắng,Xăng	2.0 L,7 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-Sedan,Xe	Mercedes Benz S class	S400L	2016	- 4 Tỷ 930 Triệu,Số tự động,,0 Km,Xanh,Xăng	3.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-SUV,Xe	Maserati Levante	3.0 V6	2020	- 5 Tỷ 299 Triệu,Số tự động,,0 Km,Trắng,Xăng	3.0 L,5 chỗ,5 cửa,Xe mới,Nhập khẩu
-SUV,Xe	LandRover Range Rover Evoque	Dynamic	2014	- 1 Tỷ 350 Triệu,Số tự động,,0 Km,Trắng,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-Bán tải / Pickup,Xe	Ford Ranger	Wildtrak 2.0L 4x4 AT	2022	- 920 Triệu,Số tự động,,0 Km,Bạc,Dầu	2.0 L,5 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
-Sedan,Xe	Mercedes Benz E class	E180	2020	- 1 Tỷ 759 Triệu,Số tự động,,0 Km,Trắng,Xăng	1.5 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-SUV,Xe	Hyundai SantaFe	2.2L 4WD	2016	- 879 Triệu,Số tự động,,"96,000 Km",Đỏ,Dầu	2.2 L,7 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-SUV,Xe	Lexus RX	450h	2010	- 1 Tỷ 280 Triệu,Số tự động,,"99,000 Km",Đen,Hybrid	3.5 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-SUV,Xe	Toyota Land Cruiser	VX 4.6 V8	2016	- 3 Tỷ 560 Triệu,Số tự động,,"82,000 Km",Trắng,Xăng	4.6 L,8 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-Bán tải / Pickup,Xe	Ford Ranger	Wildtrak 3.2L 4x4 AT	2016	- 750 Triệu,Số tự động,,"87,000 Km",Cam,Dầu	3.2 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
-SUV,Xe	BMW X4	xDrive20i	2016	- 1 Tỷ 750 Triệu,Số tự động,,"70,000 Km",Xanh,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-Sedan,Xe	Mercedes Benz E class	E300 AMG	2020	- 2 Tỷ 529 Triệu,Số tự động,,"17,000 Km",Trắng,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-SUV,Xe	Toyota Prado	2.7VX	2017	- 2 Tỷ 19 Triệu,Số tự động,,"56,000 Km",Đen,Xăng,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-Sedan,Xe	Mercedes Benz E class	E200 Exclusive	2022	- 2 Tỷ 310 Triệu,Số tự động,,0 Km,Đen,Xăng	2.0 L,5 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
-SUV,Xe	Lexus RX	350	2020	- 4 Tỷ 260 Triệu,Số tự động,,"13,000 Km",Xanh,Xăng	3.5 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-Sedan,Xe	Toyota Camry	LE 2.4	2007	- 465 Triệu,Số tự động,,0 Km,Bạc,Xăng	2.4 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
-Sedan,Xe	Toyota Camry	GLi 2.2	2001	- 198 Triệu,Số tay,,"234,000 Km",Xanh,Xăng	2.2 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-Crossover,Xe	Toyota Innova	G 2.0 AT	2022	- 885 Triệu,Số tự động,,0 Km,Bạc,Xăng	2.0 L,8 chỗ,5 cửa,Xe mới,Lắp ráp trong nước
-SUV,Xe	Ford Explorer	Platinum 3.0L EcoBoost	2021	- 4 Tỷ 500 Triệu,Số tự động,,0 Km,Trắng,Xăng	3.0 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-Sedan,Xe	Mercedes Benz E class	E300 AMG	2020	- 2 Tỷ 529 Triệu,Số tự động,,"10,000 Km",Trắng,Xăng,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-SUV,Xe	Porsche Macan	S	2022	- 3 Tỷ 990 Triệu,Số tự động,,0 Km,Đen,Xăng	2.9 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-Hatchback,Xe	Suzuki Swift	1.4 AT	2016	- 368 Triệu,Số tự động,,"50,000 Km",Xanh,Xăng	1.4 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-Sedan,Xe	Kia Cerato	1.6 AT Luxury	2019	- 590 Triệu,Số tự động,,"40,000 Km",Trắng,Xăng	1.6 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-SUV,Xe	Honda CRV	2.0 AT	2015	- 665 Triệu,Số tự động,,"76,000 Km",Trắng,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-Van/Minivan,Xe	Kia Carnival	Signature 2.2D	2021	- 1 Tỷ 630 Triệu,Số tự động,,"9,000 Km",Trắng,Dầu	2.2 L,7 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-Sedan,Xe	Chevrolet Cruze	LTZ 1.8 AT	2010	- 268 Triệu,Số tự động,,"140,000 Km",Bạc,Xăng	1.8 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-Sedan,Xe	Honda Civic	1.8 AT	2009	- 335 Triệu,Số tự động,,"100,000 Km",Đen,Xăng	1.8 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-Convertible/Cabriolet,Xe	BMW 4 Series	430i Convertible M Sport	2021	- 3 Tỷ 219 Triệu,Số tự động,,0 Km,Đen,Xăng	2.0 L,4 chỗ,2 cửa,Xe mới,Nhập khẩu
-Bán tải / Pickup,Xe	Mitsubishi Triton	GLX 4x2 MT	2015	- 385 Triệu,Số tay,,"80,000 Km",Đỏ,Dầu	2.5 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
-Sedan,Xe	Honda Civic	1.8 MT	2010	- 240 Triệu,Số tay,,"90,000 Km",Ghi,Xăng	1.8 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-Hatchback,Xe	Kia Morning	GT LINE	2021	- 459 Triệu,Số tự động,,0 Km,Trắng,Xăng,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-Bán tải / Pickup,Xe	Ford Ranger	XLT	2019	- 795 Triệu,Số tự động,,"46,000 Km",Ghi,Dầu,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
-Hatchback,Xe	Hyundai i10	Grand 1.2 AT	2021	- 415 Triệu,Số tự động,,"9,000 Km",Đỏ,Xăng	1.25 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-SUV,Xe	Mitsubishi Xpander	1.5 AT	2022	- 570 Triệu,Số tự động,,0 Km,Đen,Xăng	1.5 L,7 chỗ,5 cửa,Xe mới,Nhập khẩu
-SUV,Xe	Mercedes Benz GLC	200 4Matic	2022	- 2 Tỷ 129 Triệu,Số tự động,,0 Km,Trắng,Xăng	2.0 L,5 chỗ,5 cửa,Xe mới,Lắp ráp trong nước
-Sedan,Xe	Mercedes Benz E class	E400 AMG	2014	- 1 Tỷ 150 Triệu,Số tự động,,0 Km,Trắng,Xăng	3.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-SUV,Xe	Peugeot 2008	GT Line	2022	- 829 Triệu,Số tự động,,0 Km,Đỏ,Xăng,5 chỗ,5 cửa,Xe mới,Lắp ráp trong nước
-Crossover,Xe	Hyundai Creta	Tiêu chuẩn 1.5 AT	2022	- 620 Triệu,Số tự động,,0 Km,Trắng,Xăng	1.5 L,5 chỗ,5 cửa,Xe mới,Nhập khẩu
-SUV,Xe	Toyota Corolla Cross	1.8V	2022	- 846 Triệu,Số tự động,,0 Km,Xanh,Xăng	1.8 L,5 chỗ,5 cửa,Xe mới,Nhập khẩu
-SUV,Xe	Hyundai SantaFe	Cao cấp 2.5L HTRAC	2022	- 1 Tỷ 240 Triệu,Số tự động,,0 Km,Đỏ,Xăng	2.5 L,7 chỗ,5 cửa,Xe mới,Lắp ráp trong nước
-SUV,Xe	VinFast Lux SA 2.0	Plus 2.0 AT	2021	- 1 Tỷ 120 Triệu,Số tự động,,"7,000 Km",Trắng,Xăng	2.0 L,7 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-SUV,Xe	LandRover Range Rover Evoque	Dynamic	2013	- 1 Tỷ 80 Triệu,Số tự động,,0 Km,Trắng,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-Bán tải / Pickup,Xe	Ford Ranger	Wildtrak 2.0L 4x4 AT	2022	- 937 Triệu,Số tự động,,0 Km,Cam,Dầu	2.0 L,5 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
-SUV,Xe	Toyota Fortuner	2.7V 4x2 AT	2017	- 835 Triệu,Số tự động,,"49,000 Km",Đen,Xăng	2.7 L,8 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-SUV,Xe	Toyota Land Cruiser	4.6 V8	2019	- 4 Tỷ 780 Triệu,Số tự động,,"35,000 Km",Trắng,Xăng	4.6 L,8 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-SUV,Xe	Lexus RX	350	2020	- 4 Tỷ 260 Triệu,Số tự động,,"13,000 Km",Xanh,Xăng	3.5 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-Van/Minivan,Xe	Kia Morning	Van 1.0 AT	2016	- 275 Triệu,Số tự động,,0 Km,Xanh,Xăng	1.0 L,2 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-SUV,Xe	Lexus LX	570	2009	- 2 Tỷ 350 Triệu,Số tự động,,0 Km,Trắng,Xăng	5.7 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-SUV,Xe	Honda CRV	2.0 AT	2015	- 675 Triệu,Số tự động,,0 Km,Nâu,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-Sedan,Xe	Toyota Corolla altis	1.8G AT	2011	- 425 Triệu,Số tự động,,0 Km,Bạc,Xăng	1.8 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-Crossover,Xe	Hyundai Creta	Tiêu chuẩn 1.5 AT	2022	- 620 Triệu,Số tự động,,0 Km,Đỏ,Xăng	1.5 L,5 chỗ,5 cửa,Xe mới,Nhập khẩu
-SUV,Xe	Volkswagen Tiguan	Allspace	2018	- 1 Tỷ 280 Triệu,Số tự động,,0 Km,Đen,Xăng	2.0 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-SUV,Xe	Mercedes Benz GLS	400 4Matic	2017	- 3 Tỷ 350 Triệu,Số tự động,,0 Km,Đen,Xăng	3.0 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-Sedan,Xe	Mercedes Benz E class	E300 AMG	2020	- 2 Tỷ 499 Triệu,Số tự động,,"14,329 Km",Đỏ,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-Coupe,Xe	Porsche 911	Carrera	2021	- 10 Tỷ ,Số tự động,,"3,000 Km",Vàng,Xăng	3.0 L,4 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
-Bán tải / Pickup,Xe	Nissan Navara	VL 2.5 AT 2WD	2021	- 845 Triệu,Số tự động,,0 Km,Đen,Dầu	2.5 L,5 chỗ,4 cửa,Xe mới,Nhập khẩu
-Truck,Xe	Nissan Navara	2013	- 365 Triệu,Số tay,,"20,000 Km",Ghi,Dầu,0 chỗ,0 cửa,Xe đã dùng,Lắp ráp trong nước
-Sedan,Xe	Kia K3	Premium 1.6 AT	2022	- 674 Triệu,Số tự động,,0 Km,Đỏ,Xăng	1.6 L,5 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
-Sedan,Xe	Kia Cerato	1.6 AT Luxury	2019	- 585 Triệu,Số tự động,,"32,000 Km",Đen,Xăng	1.6 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-Sedan,Xe	Mercedes Benz E class	E200	2017	- 1 Tỷ 489 Triệu,Số tự động,,"50,000 Km",Trắng,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-Crossover,Xe	Ford Territory	Titanium 4x2 AT	2022	- 1 Tỷ ,Số tự động,,0 Km,Đỏ,Xăng,5 chỗ,5 cửa,Xe mới,Lắp ráp trong nước
-Hatchback,Xe	Ford Fiesta	S 1.5 AT	2014	- 335 Triệu,Số tự động,,"80,000 Km",Trắng,Xăng	1.5 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-Sedan,Xe	Toyota Vios	G 1.5 CVT	2022	- 551 Triệu,Số tự động,,0 Km,Cát,Xăng	1.5 L,5 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
-Sedan,Xe	Mercedes Benz E class	E250	2014	- 969 Triệu,Số tự động,,"68,000 Km",Trắng,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-Van/Minivan,Xe	Ford Transit	Limousine	2022	- 1 Tỷ 209 Triệu,Số tay,,0 Km,Trắng,Dầu	2.2 L,10 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
-Coupe,Xe	Porsche Cayman	2.9 AT	2010	- 2 Tỷ 550 Triệu,Số tự động,,0 Km,Vàng,Xăng	2.9 L,2 chỗ,2 cửa,Xe đã dùng,Nhập khẩu
-SUV,Xe	Lexus RX	350L	2020	- 4 Tỷ 390 Triệu,Số tự động,,"10,000 Km",Trắng,Xăng	3.5 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-SUV,Xe	Mercedes Benz GLC	250 4Matic	2018	- 1 Tỷ 679 Triệu,Số tự động,,"46,000 Km",Đen,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-SUV,Xe	Hyundai SantaFe	Cao cấp 2.5L HTRAC	2021	- 1 Tỷ 225 Triệu,Số tự động,,0 Km,Trắng,Xăng	2.5 L,7 chỗ,5 cửa,Xe mới,Lắp ráp trong nước
-Sedan,Xe	Hyundai Accent	1.4 MT 11/	2014	- 355 Triệu,Số tay,,"58,000 Km",Đen,Xăng,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
-Truck,Xe	Isuzu FVR	900	2022	- 1 Tỷ 410 Triệu,Số tay,,0 Km,Trắng,Dầu,3 chỗ,2 cửa,Xe mới,Lắp ráp trong nước
-Sedan,Xe	Hyundai Accent	1.4 AT Đặc Biệt	2022	- 530 Triệu,Số tự động,,0 Km,Trắng,Xăng	1.4 L,5 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
-SUV,Xe	Acura MDX	SH-AWD	2007	- 500 Triệu,Số tự động,,0 Km,Ghi,Xăng	3.7 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-SUV,Xe	Toyota Raize	G 1.0 CVT	2022	- 547 Triệu,Số tự động,,0 Km,Đen,Xăng	1.0 L,5 chỗ,5 cửa,Xe mới,Nhập khẩu
-Sedan,Xe	Toyota Vios	E CVT	2022	- 531 Triệu,Số tự động,,0 Km,Bạc,Xăng	1.5 L,5 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
-Sedan,Xe	Mazda 3	1.5 AT	2015	- 455 Triệu,Số tự động,,"48,000 Km",Trắng,Xăng	1.5 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-Sedan,Xe	Honda City	L 1.5 AT	2022	- 549 Triệu,Số tự động,,0 Km,Đen,Xăng	1.5 L,5 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
-SUV,Xe	Porsche Cayenne	3.6 V6	2011	- 1 Tỷ 680 Triệu,Số tự động,,"90,000 Km",Trắng,Xăng	3.6 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-Sedan,Xe	Mercedes Benz E class	E180	2021	- 1 Tỷ 990 Triệu,Số tự động,,499 Km,Xanh,Xăng	1.5 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-SUV,Xe	Mercedes Benz GLC	250 4Matic	2019	- 1 Tỷ 785 Triệu,Số tự động,,"23,000 Km",Trắng,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-SUV,Xe	Mercedes Benz GLC	200	2022	- 1 Tỷ 859 Triệu,Số tự động,,0 Km,Đỏ,Xăng	2.0 L,5 chỗ,5 cửa,Xe mới,Lắp ráp trong nước
-Sedan,Xe	Lexus GS	350	2008	- 635 Triệu,Số tự động,,"10,000 Km",Đen,Xăng	3.5 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
-Sedan,Xe	Toyota Vios	G 1.5 CVT	2022	- 566 Triệu,Số tự động,,0 Km,Cát,Xăng	1.5 L,5 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
-SUV,Xe	Mercedes Benz ML Class	Mercedes ML350	2005	- 345 Triệu,Số tự động,,0 Km,Xanh,Xăng,0 chỗ,0 cửa,Xe đã dùng,Nhập khẩu
-SUV,Xe	Toyota Veloz	Cross 1.5 CVT	2022	- 648 Triệu,Số tự động,,0 Km,Đỏ,Xăng	1.5 L,7 chỗ,5 cửa,Xe mới,Nhập khẩu
-Sedan,Xe	Mazda 2	1.5 AT	2016	- 425 Triệu,Số tự động,,"65,742 Km",Xanh,Xăng	1.5 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-SUV,Xe	LandRover Range Rover	SV AUTOBIOGRAPHY LWB	2021	- 12 Tỷ 600 Triệu,Số tự động,,0 Km,Trắng,Xăng,4 chỗ,5 cửa,Xe mới,Nhập khẩu
-Sedan,Xe	Mercedes Benz S class	S500L	2016	- 3 Tỷ 99 Triệu,Số tự động,,"76,000 Km",Đen,Xăng	4.7 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-Hatchback,Xe	VinFast Fadil	1.4 AT	2021	- 345 Triệu,Số tự động,,"21,000 Km",Trắng,Xăng	1.4 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-Sedan,Xe	Toyota Corolla altis	1.8G	2022	- 685 Triệu,Số tự động,,0 Km,Trắng,Xăng	1.8 L,5 chỗ,4 cửa,Xe mới,Nhập khẩu
-Bán tải / Pickup,Xe	Ford Ranger	XLS 2.2L 4x2 AT	2015	- 545 Triệu,Số tự động,,"80,000 Km",Trắng,Dầu	2.2 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
-SUV,Xe	Kia Sorento	GATH	2017	- 650 Triệu,Số tự động,,"60,000 Km",Vàng,Xăng	2.4 L,7 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-SUV,Xe	Ford Everest	Titanium 2.0L 4x2 AT	2018	- 999 Triệu,Số tự động,,"50,000 Km",Trắng,Dầu	2.0 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-Sedan,Xe	Hyundai Elantra	2.0 AT	2019	- 620 Triệu,Số tự động,,"50,700 Km",Đen,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-Sedan,Xe	Lexus LS	460L	2008	- 860 Triệu,Số tự động,,0 Km,Trắng,Xăng	4.6 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
-Sedan,Xe	Honda City	RS 1.5 AT	2022	- 584 Triệu,Số tự động,,0 Km,Trắng,Xăng	1.5 L,5 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
-SUV,Xe	Mercedes Benz GLC	250 4Matic	2016	- 1 Tỷ 330 Triệu,Số tự động,,0 Km,Trắng,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-Sedan,Xe	Mitsubishi Attrage	1.2 CVT	2020	- 420 Triệu,Số tự động,,"30,000 Km",Trắng,Xăng	1.2 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
-SUV,Xe	Toyota Land Cruiser	GX.R 4.0 V6	2008	- 1 Tỷ 480 Triệu,Số tự động,,0 Km,Đen,Xăng	4.0 L,8 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-SUV,Xe	Mazda CX5	2.0 AT	2019	- 775 Triệu,Số tự động,,"20,000 Km",Đen,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-SUV,Xe	Lexus GX	460	2020	- 5 Tỷ 900 Triệu,Số tự động,,"11,000 Km",Đen,Xăng	4.6 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-SUV,Xe	Lexus LX	570	2016	- 6 Tỷ 650 Triệu,Số tự động,,0 Km,Đen,Xăng	5.7 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-Sedan,Xe	Toyota Camry	2.5Q	2019	- 1 Tỷ 160 Triệu,Số tự động,,"56,000 Km",Đen,Xăng	2.5 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
-SUV,Xe	BMW X4	xDrive20i	2016	- 1 Tỷ 750 Triệu,Số tự động,,0 Km,Xanh,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-Sedan,Xe	Mercedes Benz C class	C300 AMG	2021	- 1 Tỷ 850 Triệu,Số tự động,,"13,000 Km",Đen,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-Sedan,Xe	Toyota Vios	Sedan	2019	- 415 Triệu,Số tay,,65 Km,Trắng,Xăng,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-Sedan,Xe	BMW 3 Series	320i	2018	- 1 Tỷ 89 Triệu,Số tự động,,"48,000 Km",Đen,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
-Bán tải / Pickup,Xe	Ford Ranger	Raptor 2.0L 4x4 AT	2019	- 1 Tỷ 315 Triệu,Số tự động,,"35,000 Km",Xanh,Dầu	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
-Hatchback,Xe	Hyundai i10	Grand 1.2 AT	2018	- 375 Triệu,Số tự động,,"56,000 Km",Đỏ,Xăng	1.25 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-Hatchback,Xe	Ford Focus	Sport 1.5L	2018	- 630 Triệu,Số tự động,,"37,000 Km",Nâu,Xăng	1.5 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-Bán tải / Pickup,Xe	Ford Ranger	XLS 2.2L 4x2 AT	2021	- 760 Triệu,Số tự động,,"12,000 Km",Trắng,Dầu	2.2 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
-Crossover,Xe	Toyota Innova	2.0MT	2012	- 365 Triệu,Số tay,,"90,000 Km",Bạc,Xăng	2.0 L,8 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-SUV,Xe	Mercedes Benz GLC	300 4Matic	2020	- 2 Tỷ 380 Triệu,Số tự động,,0 Km,Trắng,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-Sedan,Xe	Mitsubishi Attrage	Premium 1.2 CVT	2021	- 485 Triệu,Số tự động,,0 Km,Trắng,Xăng	1.2 L,5 chỗ,4 cửa,Xe mới,Nhập khẩu
-Bán tải / Pickup,Xe	Toyota Hilux	2.4E 4x2 AT	2019	- 745 Triệu,Số tự động,,"50,000 Km",Đen,Dầu	2.4 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
-SUV,Xe	Rolls Royce Cullinan	Black Badge 6.75 V12	2020	- 41 Tỷ 500 Triệu,Số tự động,,0 Km,Đen,Xăng	6.7 L,4 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-SUV,Xe	Audi Q5	2.0 AT	2017	- 1 Tỷ 750 Triệu,Số tự động,,"56,000 Km",Trắng,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-Sedan,Xe	Toyota Camry	2.5G	2015	- 710 Triệu,Số tự động,,0 Km,Đen,Xăng	2.5 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-SUV,Xe	Mercedes Benz GLC	300 4Matic	2020	- 2 Tỷ 345 Triệu,Số tự động,,"30,000 Km",Trắng,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-Sedan,Xe	Mercedes Benz E class	E200	2018	- 1 Tỷ 520 Triệu,Số tự động,,"60,000 Km",Đen,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-Sedan,Xe	Toyota Vios	1.5G	2020	- 553 Triệu,Số tự động,,"20,569 Km",Vàng,Xăng	1.5 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-Van/Minivan,Xe	Ford Transit	Cứu thương	2022	- 915 Triệu,Số tay,,0 Km,Trắng,Dầu	2.2 L,5 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
-Sedan,Xe	Mercedes Benz E class	E200	2014	- 835 Triệu,Số tự động,,"80,000 Km",Bạc,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-SUV,Xe	Porsche Cayenne	3.6 V6	2011	- 1 Tỷ 560 Triệu,Số tự động,,"67,000 Km",Đỏ,Xăng	3.6 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
-SUV,Xe	Ford Everest	Ambiente 2.0 4x2 MT	2019	- 869 Triệu,Số tay,,"52,000 Km",Đen,Dầu	2.0 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-SUV,Xe	Honda CRV	2.0 AT	2013	- 579 Triệu,Số tự động,,"126,000 Km",Trắng,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-Sedan,Xe	MG 5	Standard 1.5 AT	2022	- 515 Triệu,Số tự động,,0 Km,Đỏ,Xăng	1.5 L,5 chỗ,4 cửa,Xe mới,Nhập khẩu
-Sedan,Xe	BMW 5 Series	530i M Sport	2022	- 3 Tỷ 389 Triệu,Số tự động,,0 Km,Trắng,Xăng	2.0 L,5 chỗ,4 cửa,Xe mới,Nhập khẩu
-SUV,Xe	LandRover Range Rover Evoque	R-Dynamic S	2020	- 2 Tỷ 980 Triệu,Số tự động,,"6,800 Km",Đỏ,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-Hatchback,Xe	Hyundai i10	2016	- 215 Triệu,Số tay,,0 Km,Trắng,Xăng,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-SUV,Xe	Hyundai SantaFe	2.4L	2013	- 650 Triệu,Số tự động,,"80,000 Km",Bạc,Xăng	2.4 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-SUV,Xe	Mazda CX5	2.0 AT	2013	- 505 Triệu,Số tự động,,"80,000 Km",Nâu,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-SUV,Xe	Mazda CX5	2.5 AT	2016	- 695 Triệu,Số tự động,,"52,000 Km",Trắng,Xăng	2.5 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-Sedan,Xe	Hyundai i10	Grand 1.2 AT	2017	- 345 Triệu,Số tự động,,"60,000 Km",Trắng,Xăng	1.25 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-SUV,Xe	Mercedes Benz GLK Class	GLK250 AMG 4Matic	2014	- 920 Triệu,Số tự động,,0 Km,Trắng,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-Sedan,Xe	Toyota Vios	1.5E CVT	2020	- 498 Triệu,Số tự động,,"14,000 Km",Cát,Xăng	1.5 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-Van/Minivan,Xe	Hyundai Solati	Limousine	2022	- 1 Tỷ 469 Triệu,Số tay,,0 Km,Đen,Dầu	2.5 L,10 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
-Crossover,Xe	Hyundai Tucson	2.0 ATH	2018	- 785 Triệu,Số tự động,,"45,000 Km",Vàng,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-Sedan,Xe	MG 5	Luxury 1.5 AT	2022	- 579 Triệu,Số tự động,,0 Km,Xanh,Xăng	1.5 L,5 chỗ,4 cửa,Xe mới,Nhập khẩu
-SUV,Xe	Toyota Prado	TXL 2.7L	2016	- 1 Tỷ 720 Triệu,Số tự động,,"80,000 Km",Đen,Xăng,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-Sedan,Xe	Chevrolet Cruze	2016	- 408 Triệu,Số tự động,,"52,000 Km",Trắng,Xăng,4 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-Bán tải / Pickup,Xe	Nissan Navara	2018	- 548 Triệu,Số tự động,,"68,000 Km",Xanh,Dầu,4 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-SUV,Xe	Mercedes Benz GLC	300 4Matic	2017	- 1 Tỷ 680 Triệu,Số tự động,,"60,000 Km",Trắng,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-Hatchback,Xe	Volkswagen Polo	1.6 AT	2016	- 439 Triệu,Số tự động,,"85,588 Km",Đỏ,Xăng	1.6 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-Sedan,Xe	Ford Focus	2.0 AT Ghia	2011	- 315 Triệu,Số tự động,,"100,000 Km",Bạc,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-SUV,Xe	Toyota Fortuner	2.4G 4x2 AT	2022	- 1 Tỷ 30 Triệu,Số tự động,,0 Km,Trắng,Dầu	2.4 L,7 chỗ,5 cửa,Xe mới,Lắp ráp trong nước
-SUV,Xe	Mitsubishi Xpander	1.5 AT	2020	- 598 Triệu,Số tự động,,"22,156 Km",Trắng,Xăng	1.5 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-SUV,Xe	Mazda CX5	2.5 AT 2WD	2019	- 890 Triệu,Số tự động,,"50,000 Km",Đỏ,Xăng	2.5 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-Bán tải / Pickup,Xe	Mitsubishi Triton	4x2 AT	2016	- 465 Triệu,Số tự động,,"100,000 Km",Bạc,Dầu	2.5 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
-Sedan,Xe	Daewoo Lacetti	2010	- 244 Triệu,Số tự động,,0 Km,Đen,Xăng,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
-Sedan,Xe	Toyota Vios	E 1.5 MT	2022	- 483 Triệu,Số tay,,0 Km,Trắng,Xăng	1.5 L,5 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
-SUV,Xe	Toyota Rush	1.5S AT	2021	- 655 Triệu,Số tự động,,"15,000 Km",Đỏ,Xăng	1.5 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-SUV,Xe	Toyota Fortuner	2014	- 650 Triệu,Số tay,,"95,000 Km",Bạc,Dầu,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-SUV,Xe	Suzuki Vitara	1.6 AT	2016	- 545 Triệu,Số tự động,,"80,000 Km",Trắng,Xăng	1.6 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-Sedan,Xe	Toyota Corolla altis	1.8G AT	2008	- 339 Triệu,Số tự động,,"160,000 Km",Đen,Xăng	1.8 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-Bán tải / Pickup,Xe	Mazda BT50	Luxury 2.2L 4x2 AT	2020	- 638 Triệu,Số tự động,,"20,000 Km",Trắng,Dầu	2.2 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
-SUV,Xe	Ford Everest	Titanium 2.0L 4x2 AT	2022	- 1 Tỷ 193 Triệu,Số tự động,,0 Km,Đỏ,Dầu	2.0 L,7 chỗ,5 cửa,Xe mới,Nhập khẩu
-SUV,Xe	Mazda CX5	Suv	2017	- 699 Triệu,Số tự động,,"48,000 Km",Trắng,Xăng,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-Sedan,Xe	Hyundai Sonata	2.0 AT	2013	- 495 Triệu,Số tự động,,"80,000 Km",Trắng,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
-SUV,Xe	Mazda CX5	2.0 AT	2019	- 780 Triệu,Số tự động,,"30,000 Km",Đỏ,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-Bán tải / Pickup,Xe	Ford Ranger	XLS 2.2L 4x2 AT	2015	- 520 Triệu,Số tự động,,"87,000 Km",Ghi,Dầu	2.2 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
-Crossover,Xe	Toyota Innova	E 2.0 MT	2022	- 755 Triệu,Số tay,,0 Km,Trắng,Xăng	2.0 L,8 chỗ,5 cửa,Xe mới,Lắp ráp trong nước
-Bán tải / Pickup,Xe	Ford Ranger	XL 2.2L 4x4 MT	2022	- 628 Triệu,Số tay,,0 Km,Cát,Dầu	2.2 L,5 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
-SUV,Xe	Toyota Fortuner	2.7V 4x4 AT	2022	- 1 Tỷ 232 Triệu,Số tự động,,0 Km,Đen,Xăng	2.7 L,7 chỗ,5 cửa,Xe mới,Nhập khẩu
-Van/Minivan,Xe	Nissan	Caravan	2000	- 199 Triệu,Số tự động,,0 Km,Xanh,Dầu,7 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-SUV,Xe	Honda CRV	G	2022	- 1 Tỷ 48 Triệu,Số tự động,,0 Km,Ghi,Xăng	1.5 L,7 chỗ,5 cửa,Xe mới,Lắp ráp trong nước
-Sedan,Xe	Kia Spectra	1.6 MT	2003	- 72 Triệu,Số tay,,"12,000 Km",Đen,Xăng	1.6 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-Sedan,Xe	Mercedes Benz E class	E300 AMG	2022	- 3 Tỷ 129 Triệu,Số tự động,,0 Km,Đỏ,Xăng	2.0 L,5 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
-Sedan,Xe	Audi A4	40 TFSI Advanced	2020	- 1 Tỷ 690 Triệu,Số tự động,,"5,000 Km",Trắng,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
-SUV,Xe	Mitsubishi Xpander	1.5 AT	2020	- 560 Triệu,Số tự động,,"16,000 Km",Trắng,Xăng	1.5 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-Bán tải / Pickup,Xe	Mitsubishi Triton	4x4 AT Mivec Premium	2021	- 845 Triệu,Số tự động,,"10,000 Km",Trắng,Dầu	2.4 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
-Hatchback,Xe	Chevrolet Spark	MT	2016	- 148 Triệu,Số tay,,"80,000 Km",Trắng,Xăng,0 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-Convertible/Cabriolet,Xe	BMW 4 Series	430i Convertible	2018	- 2 Tỷ 489 Triệu,Số tự động,,"25,000 Km",Đỏ,Xăng	2.0 L,4 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
-Sedan,Xe	VinFast Lux A 2.0	2.0 AT	2021	- 775 Triệu,Số tự động,,"8,000 Km",Đen,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-Sedan,Xe	Hyundai Elantra	2.0 AT	2019	- 615 Triệu,Số tự động,,"27,000 Km",Đỏ,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-Sedan,Xe	Kia Cerato	1.6MT	2018	- 459 Triệu,Số tay,,0 Km,Trắng,Xăng,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-SUV,Xe	Mercedes Benz GLC	300 4MATIC	2021	- 2 Tỷ 509 Triệu,Số tự động,,0 Km,Đen,-,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-Hatchback,Xe	Hyundai i10	2022	- 455 Triệu,Số tự động,,"8,000 Km",Đỏ,Xăng,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-Crossover,Xe	Hyundai Tucson	2.0 AT Đặc biệt	2021	- 900 Triệu,Số tự động,,"7,000 Km",Vàng,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-SUV,Xe	Toyota Fortuner	2.4G 4x2 MT	2019	- 965 Triệu,Số tay,,"49,000 Km",Đen,Dầu	2.4 L,8 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-SUV,Xe	Mazda CX5	2.5 AT 2WD	2018	- 790 Triệu,Số tự động,,"66,000 Km",Đỏ,Xăng	2.5 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-Sedan,Xe	Mitsubishi Lancer	GLXI 1.6 MT	2003	- 95 Triệu,Số tay,,"20,000 Km",Nâu,Xăng	1.6 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-SUV,Xe	Toyota Land Cruiser	3.5 V6	2022	- 5 Tỷ 850 Triệu,Số tự động,,0 Km,Trắng,Xăng	3.4 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-Sedan,Xe	Kia Cerato	2010	- 335 Triệu,Số tự động,,0 Km,Đen,Xăng,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-SUV,Xe	Toyota Corolla Cross	1.8HV	2020	- 995 Triệu,Số tự động,,"16,000 Km",Trắng,Hybrid	1.8 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-Sedan,Xe	Mercedes Benz E class	E300 AMG	2022	- 2 Tỷ 945 Triệu,Số tự động,,"4,000 Km",Trắng,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-Bán tải / Pickup,Xe	Ford Ranger	XLS 2.2L 4x2 AT	2015	- 495 Triệu,Số tự động,,"110,000 Km",Trắng,Dầu	2.2 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
-Bán tải / Pickup,Xe	Isuzu Dmax	LS 1.9L 4x2 AT	2021	- 630 Triệu,Số tự động,,0 Km,Đen,Dầu	1.9 L,5 chỗ,4 cửa,Xe mới,Nhập khẩu
-Crossover,Xe	Kia Carens	SXAT	2012	- 330 Triệu,Số tự động,,"78,000 Km",Trắng,Xăng	2.0 L,7 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-Sedan,Xe	Mercedes Benz E class	200	2017	- 1 Tỷ 475 Triệu,Số tự động,,"45,000 Km",Trắng,Xăng,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-SUV,Xe	LandRover Range Rover	SVAutobiography LWB 3.0 I6	2021	- 13 Tỷ ,Số tự động,,"2,000 Km",Xám,Xăng	3.0 L,4 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-SUV,Xe	LandRover Range Rover Sport	Hse 3.0	2016	- 3 Tỷ 550 Triệu,Số tự động,,"45,000 Km",Trắng,Xăng,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-SUV,Xe	Toyota Fortuner	2.4G 4x2 AT	2020	- 1 Tỷ 60 Triệu,Số tự động,,"30,000 Km",Đen,Dầu	2.4 L,8 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-SUV,Xe	BMW X4	xDrive28i	2015	- 1 Tỷ 299 Triệu,Số tự động,,"70,000 Km",Vàng,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-Bán tải / Pickup,Xe	Mazda BT50	2.2L 4x2 AT	2018	- 565 Triệu,Số tự động,,"60,000 Km",Ghi,Dầu	2.2 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
-Bán tải / Pickup,Xe	Mazda BT50	2.2L 4x2 AT	2015	- 471 Triệu,Số tự động,,10 Km,Cát,Dầu	2.2 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
-Bán tải / Pickup,Xe	Mazda BT50	2.2L 4x2 ATH	2018	- 585 Triệu,Số tự động,,"52,000 Km",Trắng,Dầu	2.2 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
-Sedan,Xe	Mercedes Benz E class	E300 AMG	2020	- 2 Tỷ 750 Triệu,Số tự động,,"8,300 Km",Trắng,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-Sedan,Xe	Mercedes Benz C class	C250 Exclusive	2015	- 990 Triệu,Số tự động,,"78,000 Km",Trắng,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-SUV,Xe	Lexus GX	470	2008	- 1 Tỷ 130 Triệu,Số tự động,,"110,000 Km",Cát,Xăng	4.7 L,7 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-Crossover,Xe	Hyundai Tucson	1.6 AT Turbo HTRAC Đặc biệt	2022	- 1 Tỷ 20 Triệu,Số tự động,,0 Km,Xanh,Xăng	1.6 L,5 chỗ,5 cửa,Xe mới,Lắp ráp trong nước
-Bán tải / Pickup,Xe	Ford Ranger	XLS 2.2L 4x2 AT	2022	- 662 Triệu,Số tự động,,0 Km,Đen,Dầu	2.2 L,5 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
-Hatchback,Xe	Hyundai i10	Grand 1.2 MT	2018	- 303 Triệu,Số tay,,0 Km,Bạc,Xăng	1.25 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-Hatchback,Xe	Kia Morning	2016	- 290 Triệu,Số tự động,,"67,000 Km",Trắng,Xăng,0 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-Hatchback,Xe	Kia Morning	Deluxe	2019	- 335 Triệu,Số tự động,,"30,000 Km",Đỏ,Xăng	1.25 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-Crossover,Xe	MG ZS	Standard 1.5 AT 2WD	2020	- 455 Triệu,Số tự động,,0 Km,Trắng,Xăng	1.5 L,5 chỗ,5 cửa,Xe mới,Nhập khẩu
-SUV,Xe	Toyota Fortuner	2.4G 4x2 AT	2022	- 1 Tỷ 80 Triệu,Số tự động,,0 Km,Trắng,Dầu	2.4 L,7 chỗ,5 cửa,Xe mới,Lắp ráp trong nước
-Hatchback,Xe	Toyota Yaris	1.5G	2019	- 605 Triệu,Số tự động,,"22,000 Km",Trắng,Xăng	1.5 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-Sedan,Xe	Hyundai Accent	1.4 AT	2020	- 495 Triệu,Số tự động,,"46,000 Km",Trắng,Xăng	1.4 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-Sedan,Xe	Lexus ES	250	2015	- 1 Tỷ 590 Triệu,Số tự động,,"48,000 Km",Trắng,Xăng	2.5 L,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
-Hatchback,Xe	Hyundai i10	2020	- 410 Triệu,Số tự động,,"10,000 Km",Đỏ,Xăng,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-Sedan,Xe	Kia K3	Luxury 1.6 AT	2022	- 639 Triệu,Số tự động,,0 Km,Trắng,Xăng	1.6 L,5 chỗ,4 cửa,Xe mới,Lắp ráp trong nước
-Hatchback,Xe	Ford Focus	1.8 AT	2012	- 280 Triệu,Số tự động,,"82,000 Km",Xám,Xăng	1.8 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-Hatchback,Xe	Kia Morning	Si MT	2018	- 285 Triệu,Số tay,,"60,000 Km",Nâu,Xăng	1.25 L,5 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-SUV,Xe	Kia Sorento	DATH	2018	- 845 Triệu,Số tự động,,"30,000 Km",Trắng,Dầu	2.2 L,7 chỗ,5 cửa,Xe đã dùng,Lắp ráp trong nước
-Hatchback,Xe	Nissan Tiida	1.6 AT	2008	- 239 Triệu,Số tự động,,"86,000 Km",Vàng,Xăng	1.6 L,5 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-Sedan,Xe	Toyota Camry	2.0E	2017	- 769 Triệu,Số tự động,,0 Km,Đen,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-Bán tải / Pickup,Xe	Nissan Navara 2.5 AT EL	2016	- 495 Triệu,Số tự động,,"80,000 Km",Xám,Dầu,5 chỗ,4 cửa,Xe đã dùng,Nhập khẩu
-Van/Minivan,Xe	Honda Odyssey	2.4 AT	2016	- 1 Tỷ 150 Triệu,Số tự động,,"43,000 Km",Trắng,Xăng	2.4 L,8 chỗ,5 cửa,Xe đã dùng,Nhập khẩu
-SUV,Xe	Toyota Innova	2.0E	2013	- 338 Triệu,Số tay,,"80,000 Km",Ghi,Xăng,5 chỗ,4 cửa,Xe đã dùng,Lắp ráp trong nước
-Coupe,Xe	BMW M3	Coupe 4.0 AT	2009	- 2 Tỷ 380 Triệu,Số tự động,,"28,000 Km",Xám,Xăng	4.0 L,4 chỗ,2 cửa,Xe đã dùng,Nhập khẩu
+crawled_date,domain,dong_xe,gia,hop_so,id,kieu_dang,km_da_di,mau_xe,nhien_lieu,so_cho_ngoi,so_cua,tinh_trang,url,xuat_xu
+2022-06-26 16:17:55.068563,bonbanh.com,SUV,Xe	Ford EcoSport	Titanium 1.5L AT	2019	- 568 Triệu,Số tự động,944cd797-16fe-438e-b4af-81fae65316fa,,"17,000 Km",Xám,Xăng	1.5 L,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-ford-ecosport-titanium-1.5l-at-2019-4406143,Lắp ráp trong nước
+2022-06-26 16:17:55.098577,bonbanh.com,SUV,Xe	Honda CRV	2.4 AT	2014	- 638 Triệu,Số tự động,d1e6e8a7-d296-4d11-a6aa-f6a97f238e74,,"83,000 Km",Nâu,Xăng	2.4 L,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-honda-crv-2.4-at-2014-4371797,Lắp ráp trong nước
+2022-06-26 16:17:55.129578,bonbanh.com,SUV,Xe	Ford Everest	Titanium 2.0L 4x4 AT	2022	- 1 Tỷ 260 Triệu,Số tự động,c0840740-25ba-4593-9978-517b3f90b6f5,,0 Km,Trắng,Dầu	2.0 L,7 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-ford-everest-titanium-2.0l-4x4-at-2022-4061484,Nhập khẩu
+2022-06-26 16:17:55.162579,bonbanh.com,SUV,Xe	Jeep Wrangler	Rubicon 2.0 4x4 AT	2021	- 3 Tỷ 688 Triệu,Số tự động,0dcb2b16-25d1-4073-a4dc-05cbff0b6e81,,0 Km,Xám,Xăng	2.0 L,5 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-jeep-wrangler-rubicon-2.0-4x4-at-2021-4319098,Nhập khẩu
+2022-06-26 16:17:55.208585,bonbanh.com,Bán tải / Pickup,Xe	Ford Ranger	Wildtrak 3.2L 4x4 AT	2017	- 830 Triệu,Số tự động,154b0ac4-0242-4189-a2ec-c7f6f8312493,,"66,666 Km",Trắng,Dầu	3.2 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-ford-ranger-wildtrak-3.2l-4x4-at-2017-4270174,Nhập khẩu
+2022-06-26 16:17:55.254633,bonbanh.com,Crossover,Xe	MG ZS	Luxury 1.5 AT 2WD	2021	- 619 Triệu,Số tự động,9b60217b-2d5f-4a4f-a96d-fc5321a2b9c2,,0 Km,Trắng,Xăng	1.5 L,5 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-mg-zs-luxury-1.5-at-2wd-2021-3685938,Nhập khẩu
+2022-06-26 16:17:55.286406,bonbanh.com,Hatchback,Xe	Mazda 3	1.5L Sport Luxury	2019	- 610 Triệu,Số tự động,d3b2054f-1e80-449d-ac44-c7c2256680cd,,"28,000 Km",Xanh,Xăng	1.5 L,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-mazda-3-1.5l-sport-luxury-2019-4402531,Lắp ráp trong nước
+2022-06-26 16:17:55.520639,bonbanh.com,Bán tải / Pickup,Xe	Mitsubishi Triton	4x2 AT Mivec Premium	2021	- 728 Triệu,Số tự động,042ffc35-e481-40dd-8210-a751759b5a2b,,"27,000 Km",Xám,Dầu	2.4 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-mitsubishi-triton-4x2-at-mivec-premium-2021-4371668,Nhập khẩu
+2022-06-26 16:17:55.570638,bonbanh.com,SUV,Xe	Nissan Juke	1.6 AT	2015	- 699 Triệu,Số tự động,c721d3df-08b9-474c-a1de-6c43f56c22a6,,"52,000 Km",Đỏ,Xăng	1.6 L,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-nissan-juke-1.6-at-2015-4306576,Nhập khẩu
+2022-06-26 16:17:55.578639,bonbanh.com,Sedan,Xe	Ford Fiesta	Titanium 1.5 AT	2014	- 326 Triệu,Số tự động,736abb3b-f1e1-45c9-8293-f1aea92b9257,,"71,000 Km",Bạc,Xăng	1.5 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-ford-fiesta-titanium-1.5-at-2014-4312290,Lắp ráp trong nước
+2022-06-26 16:17:55.584643,bonbanh.com,Truck,Xe	Suzuki Super Carry Truck	1.0 MT	2022	- 246 Triệu,Số tay,1fccddaf-c763-4dfe-a693-d8beb6138657,,0 Km,Xanh,Xăng	1.0 L,2 chỗ,2 cửa,Xe mới,https://bonbanh.com/xe-suzuki-super_carry_truck-1.0-mt-2022-3181968,Lắp ráp trong nước
+2022-06-26 16:17:55.590640,bonbanh.com,Sedan,Xe	BMW 7 Series	730Li	2018	- 3 Tỷ 289 Triệu,Số tự động,78e1a838-ec3e-4e5c-a42a-326ae6878c28,,"33,333 Km",Xanh,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-bmw-7_series-730li-2018-4236443,Nhập khẩu
+2022-06-26 16:17:55.597640,bonbanh.com,SUV,Xe	Mitsubishi Pajero Sport	D 4x2 MT	2016	- 558 Triệu,Số tay,8afd757e-0a6f-4d62-bd04-fbf571fcfd21,,"75,000 Km",Trắng,Dầu	2.5 L,7 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-mitsubishi-pajero-sport-d-4x2-mt-2016-4407716,Lắp ráp trong nước
+2022-06-26 16:17:55.605640,bonbanh.com,Bán tải / Pickup,Xe	Mazda BT50	3.2L 4x4 AT	2015	- 495 Triệu,Số tự động,1996746c-5682-47b5-be78-1f6a5142670d,,"120,000 Km",Cát,Dầu	3.2 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-mazda-bt50-3.2l-4x4-at-2015-4392595,Nhập khẩu
+2022-06-26 16:17:55.613640,bonbanh.com,SUV,Xe	Hyundai SantaFe	Tiêu chuẩn 2.2L	2022	- 1 Tỷ 120 Triệu,Số tự động,90d664d5-6c20-4dbc-8371-0a9c44892021,,0 Km,Trắng,Dầu	2.2 L,7 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-hyundai-santafe-tieu-chuan-2.2l-2022-3860435,Lắp ráp trong nước
+2022-06-26 16:17:55.624640,bonbanh.com,SUV,Xe	Kia Sorento	Signature 2.5 AT AWD	2022	- 1 Tỷ 229 Triệu,Số tự động,3ddbf1fe-a61f-46f6-bd91-018502a38456,,0 Km,Trắng,Xăng	2.5 L,7 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-kia-sorento-signature-2.5-at-awd-2022-4259622,Lắp ráp trong nước
+2022-06-26 16:17:55.634643,bonbanh.com,SUV,Xe	Toyota Fortuner	2.7V 4x4 AT	2012	- 478 Triệu,Số tự động,6e82c336-868c-4860-9ede-ce7295840193,,"80,000 Km",Bạc,Xăng	2.7 L,8 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-toyota-fortuner-2.7v-4x4-at-2012-3996220,Lắp ráp trong nước
+2022-06-26 16:17:55.956640,bonbanh.com,Sedan,Xe	BMW 3 Series	320i	2018	- 1 Tỷ 89 Triệu,Số tự động,db8cd37a-6202-4a3f-b7de-519903fac319,,"48,000 Km",Đen,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-bmw-3_series-320i-2018-4391329,Nhập khẩu
+2022-06-26 16:17:57.342012,bonbanh.com,Sedan,Xe	Mercedes Benz E class	E300 AMG	2022	- 2 Tỷ 945 Triệu,Số tự động,d259fc03-b050-42b7-a766-cfa5f6b0159a,,"4,000 Km",Trắng,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-mercedes_benz-e_class-e300-amg-2022-4443685,Lắp ráp trong nước
+2022-06-26 16:17:57.517597,bonbanh.com,Hatchback,Xe	Hyundai i10	đủ	2014	- 222 Triệu,Số tay,e7dd8b17-673b-4064-8f03-6a5bff261801,,"120,000 Km",Trắng,Xăng,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-hyundai-i10-du-2014-4452172,Nhập khẩu
+2022-06-26 16:17:57.552601,bonbanh.com,SUV,Xe	Toyota Corolla Cross	1.8V	2020	- 898 Triệu,Số tự động,c10f7340-8c4f-4db8-b05a-4f633b834f5c,,"10,000 Km",Đỏ,Xăng	1.8 L,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-toyota-corolla_cross-1.8v-2020-4441304,Nhập khẩu
+2022-06-26 16:17:57.584602,bonbanh.com,Sedan,Xe	Mazda 6	2.0 AT	2016	- 578 Triệu,Số tự động,e9e3c733-7013-4d70-9262-ca10556ef54c,,"54,000 Km",Trắng,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-mazda-6-2.0-at-2016-4450216,Lắp ráp trong nước
+2022-06-26 16:17:57.898924,bonbanh.com,SUV,Xe	Honda CRV	2.4 AT	2012	- 478 Triệu,Số tự động,2130db40-57e0-447e-a2e3-641135ab3b5e,,"75,000 Km",Xám,Xăng	2.4 L,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-honda-crv-2.4-at-2012-4142605,Lắp ráp trong nước
+2022-06-26 16:17:57.939921,bonbanh.com,Sedan,Xe	Nissan Teana	2.0 AT	2010	- 348 Triệu,Số tự động,615b4431-5f89-4f18-a90a-05fc73811499,,"99,000 Km",Đen,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-nissan-teana-2.0-at-2010-4277870,Nhập khẩu
+2022-06-26 16:17:57.959926,bonbanh.com,SUV,Xe	Volvo XC40	T5 AWD R-Design	2022	- 1 Tỷ 750 Triệu,Số tự động,1634667b-bcdf-44c8-b964-a20ca697fb25,,0 Km,Xanh,Xăng	2.0 L,5 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-volvo-xc40-t5-awd-r-design-2022-3978949,Nhập khẩu
+2022-06-26 16:17:58.003651,bonbanh.com,Bán tải / Pickup,Xe	Chevrolet Colorado	LTZ 2.8L 4x4 AT	2015	- 479 Triệu,Số tự động,8c7e4ff5-10e8-4cde-acb7-e8db83b68665,,"60,000 Km",Đen,Dầu	2.8 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-chevrolet-colorado-ltz-2.8l-4x4-at-2015-3815218,Nhập khẩu
+2022-06-26 16:17:58.019650,bonbanh.com,Sedan,Xe	Hyundai Sonata	2.0 AT	2009	- 300 Triệu,Số tự động,974da9eb-577e-45f2-99fe-8d0cb1206d3b,,"120,000 Km",Đen,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-hyundai-sonata-2.0-at-2009-4448799,Nhập khẩu
+2022-06-26 16:17:58.067648,bonbanh.com,Sedan,Xe	Rolls Royce Phantom	EWB	2014	- 32 Tỷ ,Số tự động,01a7c872-5013-4939-8912-12723c84a64d,,"15,000 Km",Đen,Xăng	6.7 L,4 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-rolls_royce-phantom-ewb-2014-4240142,Nhập khẩu
+2022-06-26 16:17:58.078650,bonbanh.com,SUV,Xe	Mitsubishi Xpander	1.5 AT	2022	- 588 Triệu,Số tự động,25c4034a-c1a1-43fa-ad0f-e6270548098e,,0 Km,Trắng,Xăng	1.5 L,7 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-mitsubishi-xpander-1.5-at-2022-4434117,Nhập khẩu
+2022-06-26 16:17:58.115649,bonbanh.com,Hatchback,Xe	Toyota Yaris	G 1.5 AT	2022	- 656 Triệu,Số tự động,772eed43-3c52-410a-be4c-cd3a7ca65fb6,,0 Km,Trắng,Xăng	1.5 L,5 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-toyota-yaris-g-1.5-at-2022-3691742,Nhập khẩu
+2022-06-26 16:17:58.142649,bonbanh.com,Crossover,Xe	Mazda cx3	Luxury 1.5 AT	2022	- 677 Triệu,Số tự động,975f30da-c2e9-4a37-ac08-a7a41e1c5d7f,,0 Km,Trắng,Xăng	1.5 L,5 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-mazda-cx3-luxury-1.5-at-2022-4433748,Nhập khẩu
+2022-06-26 16:17:58.188344,bonbanh.com,Sedan,Xe	Toyota Corolla altis	1.8V	2022	- 765 Triệu,Số tự động,98f289b9-52a3-4eb2-ac54-9e2aee00ebf3,,0 Km,Xanh,Xăng	1.8 L,5 chỗ,4 cửa,Xe mới,https://bonbanh.com/xe-toyota-corolla_altis-1.8v-2022-4316888,Nhập khẩu
+2022-06-26 16:17:58.220344,bonbanh.com,SUV,Xe	Mercedes Benz GLB	200 AMG	2022	- 1 Tỷ 999 Triệu,Số tự động,f9112360-e7bf-469d-b52e-a2ad4852067b,,0 Km,Trắng,Xăng	1.3 L,7 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-mercedes_benz-glb-200-amg-2022-4129872,Nhập khẩu
+2022-06-26 16:17:58.251345,bonbanh.com,SUV,Xe	Lexus LX	570	2008	- 2 Tỷ 160 Triệu,Số tự động,c68c7924-970c-436f-ad04-9e66e086281f,,0 Km,Đen,Xăng	5.7 L,7 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-lexus-lx-570-2008-4389064,Nhập khẩu
+2022-06-26 16:17:58.281345,bonbanh.com,Sedan,Xe	Toyota Vios	1.5E	2017	- 385 Triệu,Số tay,42208bdc-ca66-4342-803a-59a874d04916,,"80,000 Km",Nâu,Xăng	1.5 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-toyota-vios-1.5e-2017-4450627,Lắp ráp trong nước
+2022-06-26 16:17:58.325345,bonbanh.com,Sedan,Xe	Mazda 3	1.5 AT	2016	- 498 Triệu,Số tự động,97588e6f-131a-44ef-8857-e27080a5c8a2,,"70,000 Km",Trắng,Xăng	1.5 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-mazda-3-1.5-at-2016-4346807,Lắp ráp trong nước
+2022-06-26 16:17:58.356344,bonbanh.com,Bán tải / Pickup,Xe	Toyota Hilux	3.0G 4x4 MT	2016	- 685 Triệu,Số tay,416e1788-b17c-4164-a398-1b597dd3c3bd,,"55,000 Km",Cam,Dầu	3.0 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-toyota-hilux-3.0g-4x4-mt-2016-4443466,Nhập khẩu
+2022-06-26 16:17:58.387344,bonbanh.com,Sedan,Xe	Mazda 6	Premium 2.0 AT	2022	- 949 Triệu,Số tự động,6a6c515d-e77d-4300-a94c-c1d5989ba890,,0 Km,Trắng,Xăng	2.0 L,5 chỗ,4 cửa,Xe mới,https://bonbanh.com/xe-mazda-6-premium-2.0-at-2022-4201591,Lắp ráp trong nước
+2022-06-26 16:17:58.417348,bonbanh.com,Crossover,Xe	Toyota Innova	2.0E	2020	- 689 Triệu,Số tay,6c3b2398-12e8-4de8-ba8d-ee4eca82f541,,"34,000 Km",Bạc,Xăng	2.0 L,8 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-toyota-innova-2.0e-2020-4382155,Lắp ráp trong nước
+2022-06-26 16:17:58.449343,bonbanh.com,Sedan,Xe	VinFast Lux A 2.0	Cao cấp	2022	- 1 Tỷ 74 Triệu,Số tự động,52f596c4-8594-4659-b5ff-1bda70b67aa8,,0 Km,Đen,Xăng	2.0 L,5 chỗ,4 cửa,Xe mới,https://bonbanh.com/xe-vinfast-lux_a_2.0-cao-cap-2022-3604664,Lắp ráp trong nước
+2022-06-26 16:17:58.478345,bonbanh.com,Truck,Xe	Thaco Auman	C160	2022	- 795 Triệu,Số tay,7fded070-d6d2-482e-b1c2-f9781803c1c7,,0 Km,Xanh,Dầu	3.8 L,2 chỗ,2 cửa,Xe mới,https://bonbanh.com/xe-thaco-auman-c160-2022-4423852,Lắp ráp trong nước
+2022-06-26 16:17:58.510346,bonbanh.com,Sedan,Xe	Mercedes Benz C class	C300 AMG	2016	- 1 Tỷ 139 Triệu,Số tự động,15cd029f-8c11-43f1-a8d6-9aec54e2aadd,,"50,000 Km",Đen,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-mercedes_benz-c_class-c300-amg-2016-4379455,Lắp ráp trong nước
+2022-06-26 16:17:58.540345,bonbanh.com,SUV,Xe	Mercedes Benz GLC	200	2022	- 1 Tỷ 799 Triệu,Số tự động,5f791431-aa4b-4aa8-80e9-73e0f67c9e28,,0 Km,Đen,Xăng	2.0 L,5 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-mercedes_benz-glc-200-2022-4147023,Lắp ráp trong nước
+2022-06-26 16:17:58.585182,bonbanh.com,Sedan,Xe	BMW 5 Series	520i	2016	- 1 Tỷ 145 Triệu,Số tự động,4222d317-809c-4d44-9eeb-cf8089113767,,"59,000 Km",Đen,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-bmw-5_series-520i-2016-4349193,Nhập khẩu
+2022-06-26 16:17:58.600179,bonbanh.com,Sedan,Xe	Mazda 3	1.5 AT	2018	- 545 Triệu,Số tự động,7b136cdf-66b3-4afd-977f-1d4eec83d185,,"30,000 Km",Đen,Xăng	1.5 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-mazda-3-1.5-at-2018-4325205,Lắp ráp trong nước
+2022-06-26 16:17:58.635206,bonbanh.com,SUV,Xe	VinFast Lux SA 2.0	Cao cấp	2022	- 1 Tỷ 423 Triệu,Số tự động,53c297e8-637b-446e-b655-10f790100d0f,,0 Km,Đen,Xăng	2.0 L,7 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-vinfast-lux_sa_2.0-cao-cap-2022-4310583,Lắp ráp trong nước
+2022-06-26 16:17:58.677194,bonbanh.com,Crossover,Xe	Toyota Innova	2.0E	2017	- 560 Triệu,Số tay,59a0f73c-8548-43b4-866f-d880201caeb8,,"81,000 Km",Bạc,Xăng	2.0 L,8 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-toyota-innova-2.0e-2017-4425154,Lắp ráp trong nước
+2022-06-26 16:17:58.707205,bonbanh.com,SUV,Xe	Mercedes Benz GLB	200 AMG	2022	- 1 Tỷ 989 Triệu,Số tự động,677b1188-c48a-4373-8c1f-a789fcaf3b25,,0 Km,Trắng,Xăng	1.3 L,7 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-mercedes_benz-glb-200-amg-2022-3868971,Nhập khẩu
+2022-06-26 16:17:58.739226,bonbanh.com,Sedan,Xe	Mazda 3	1.5 AT	2018	- 585 Triệu,Số tự động,adc077c5-1505-418e-aee5-c6dd02324c4a,,"63,688 Km",Trắng,Xăng	1.5 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-mazda-3-1.5-at-2018-4429730,Lắp ráp trong nước
+2022-06-26 16:17:58.770179,bonbanh.com,Crossover,Xe	Hyundai Tucson	2.0 AT Tiêu chuẩn	2022	- 870 Triệu,Số tự động,902c4e2c-c3d2-49e0-b603-464c578b3de9,,0 Km,Trắng,Xăng	2.0 L,5 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-hyundai-tucson-2.0-at-tieu-chuan-2022-4422410,Lắp ráp trong nước
+2022-06-26 16:17:58.801188,bonbanh.com,Sedan,Xe	Mercedes Benz C class	C180 AMG	2021	- 1 Tỷ 379 Triệu,Số tự động,8fd73370-aec5-49ac-9b7f-5cd55b9b86a0,,"5,000 Km",Xám,Xăng	1.5 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-mercedes_benz-c_class-c180-amg-2021-4356106,Lắp ráp trong nước
+2022-06-26 16:17:58.831186,bonbanh.com,SUV,Xe	Toyota Prado	TXL 2.7L	2015	- 1 Tỷ 535 Triệu,Số tự động,d5f56d86-c3a1-4610-930a-24a7a31f3942,,"80,000 Km",Đen,Xăng	2.7 L,7 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-toyota-prado-txl-2.7l-2015-4439183,Nhập khẩu
+2022-06-26 16:17:58.861697,bonbanh.com,Sedan,Xe	Porsche Panamera	4S	2016	- 5 Tỷ 479 Triệu,Số tự động,a04babda-c6e4-4064-aed5-6bb10bc816fc,,"22,000 Km",Xanh,Xăng	2.9 L,4 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-porsche-panamera-4s-2016-4421037,Nhập khẩu
+2022-06-26 16:17:58.894734,bonbanh.com,SUV,Xe	Mercedes Benz GLC	250 4Matic	2017	- 1 Tỷ 455 Triệu,Số tự động,c8c13344-6767-41de-b300-737e9b519b24,,0 Km,Trắng,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-mercedes_benz-glc-250-4matic-2017-4342046,Lắp ráp trong nước
+2022-06-26 16:17:58.933764,bonbanh.com,SUV,Xe	Mercedes Benz GLC	250 4Matic	2019	- 1 Tỷ 785 Triệu,Số tự động,ec1543ab-24ca-45f8-bdac-a5b78ab253af,,"23,000 Km",Trắng,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-mercedes_benz-glc-250-4matic-2019-4452317,Lắp ráp trong nước
+2022-06-26 16:17:58.967801,bonbanh.com,Sedan,Xe	Mercedes Benz E class	E250	2009	- 505 Triệu,Số tự động,b1d2b2ab-63e8-4a3b-a737-eabf3074f6ab,,"100,000 Km",Đen,Xăng	1.8 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-mercedes_benz-e_class-e250-2009-4448672,Lắp ráp trong nước
+2022-06-26 16:17:58.999837,bonbanh.com,Van/Minivan,Xe	Daewoo Matiz	Van 0.8 AT	2005	- 105 Triệu,Số tự động,0295f6c8-7068-4e93-9874-9e081067d53d,,0 Km,Trắng,Xăng	0.8 L,2 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-daewoo-matiz-van-0.8-at-2005-4445968,Nhập khẩu
+2022-06-26 16:17:59.107500,bonbanh.com,Crossover,Xe	Kia Carens	SX 2.0 AT	2010	- 282 Triệu,Số tự động,7f10cc1d-2152-4759-b0b5-1734c7559805,,"135,000 Km",Bạc,Xăng	2.0 L,7 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-kia-carens-sx-2.0-at-2010-4412261,Lắp ráp trong nước
+2022-06-26 16:17:59.117537,bonbanh.com,Sedan,Xe	Mercedes Benz E class	E200	2014	- 819 Triệu,Số tự động,e03b3541-3ad3-4b65-945f-ec1d6e7e7dc8,,"75,000 Km",Đen,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-mercedes_benz-e_class-e200-2014-4267306,Lắp ráp trong nước
+2022-06-26 16:17:59.123537,bonbanh.com,SUV,Xe	BMW X5	xDrive40i	2021	- 4 Tỷ 99 Triệu,Số tự động,6be828a7-6100-432b-a66a-31642a613d8e,,0 Km,Trắng,Xăng	3.0 L,5 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-bmw-x5-xdrive40i-2021-2642161,Nhập khẩu
+2022-06-26 16:17:59.136105,bonbanh.com,SUV,Xe	Mazda CX8	Luxury	2020	- 989 Triệu,Số tự động,c02ce08d-ea8b-4316-8f05-68ba6a0d8046,,"21,000 Km",Đen,Xăng	2.5 L,7 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-mazda-cx8-luxury-2020-4408957,Lắp ráp trong nước
+2022-06-26 16:17:59.222675,bonbanh.com,Van/Minivan,Xe	Ford Transit	Tiêu chuẩn	2022	- 780 Triệu,Số tay,dbba8c22-146e-475e-8a67-c6f218445e5c,,0 Km,Bạc,Dầu	2.2 L,16 chỗ,4 cửa,Xe mới,https://bonbanh.com/xe-ford-transit-tieu-chuan-2022-1255758,Lắp ráp trong nước
+2022-06-26 16:17:59.228677,bonbanh.com,Sedan,Xe	Hyundai Accent	1.4 AT	2019	- 490 Triệu,Số tự động,e20eb812-5796-46bb-8cfc-86050520b23f,,"45,000 Km",Trắng,Xăng	1.4 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-hyundai-accent-1.4-at-2019-4451369,Lắp ráp trong nước
+2022-06-26 16:17:59.236672,bonbanh.com,Hatchback,Xe	Mini Cooper	Clubman S	2022	- 2 Tỷ 459 Triệu,Số tự động,b87f1ed0-d4ae-4be5-b417-b5fe02ec11da,,0 Km,Xanh,Xăng	2.0 L,5 chỗ,3 cửa,Xe mới,https://bonbanh.com/xe-mini-cooper-clubman-s-2022-4329974,Nhập khẩu
+2022-06-26 16:17:59.260673,bonbanh.com,SUV,Xe	BMW X6	xDrive40i M Sport	2021	- 4 Tỷ 979 Triệu,Số tự động,c20d1478-7e73-488d-8ce2-21de93cc3905,,0 Km,Đỏ,Xăng	3.0 L,5 chỗ,4 cửa,Xe mới,https://bonbanh.com/xe-bmw-x6-xdrive40i-m-sport-2021-3976716,Nhập khẩu
+2022-06-26 16:17:59.314671,bonbanh.com,Crossover,Xe	Peugeot 2008	GT Line 1.2 AT	2022	- 829 Triệu,Số tự động,fb408656-f579-4571-9762-876fcd5a7474,,0 Km,Cam,Xăng	1.2 L,5 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-peugeot-2008-gt-line-1.2-at-2022-4437037,Lắp ráp trong nước
+2022-06-26 16:17:59.330673,bonbanh.com,SUV,Xe	Toyota Zace	GL	2004	- 179 Triệu,Số tay,e7b6d283-e182-437d-86bd-8264a4cfe97f,,"165,000 Km",Xanh,Xăng	1.8 L,8 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-toyota-zace-gl-2004-4438067,Lắp ráp trong nước
+2022-06-26 16:17:59.361198,bonbanh.com,Crossover,Xe	Mitsubishi Grandis	2.4 AT	2005	- 245 Triệu,Số tự động,d8b8b539-7db3-4b1f-a908-413eb029b93e,,"155,000 Km",Đen,Xăng	2.4 L,7 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-mitsubishi-grandis-2.4-at-2005-4437735,Lắp ráp trong nước
+2022-06-26 16:17:59.395199,bonbanh.com,SUV,Xe	Porsche Cayenne	3.0 V6	2018	- 5 Tỷ 600 Triệu,Số tự động,ac9602f7-2e90-4868-b4cf-51470096c8cb,,"32,000 Km",Đen,Xăng	3.0 L,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-porsche-cayenne-3.0-v6-2018-4291770,Nhập khẩu
+2022-06-26 16:17:59.425199,bonbanh.com,Van/Minivan,Xe	Kia Carnival	Signature 2.2D	2022	- 1 Tỷ 489 Triệu,Số tự động,0f627f7e-9b34-482d-85f4-f4ca1670555f,,0 Km,Xanh,Dầu	2.2 L,7 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-kia-carnival-signature-2.2d-2022-4260637,Lắp ráp trong nước
+2022-06-26 16:17:59.455212,bonbanh.com,Sedan,Xe	BMW 5 Series	520i	2014	- 880 Triệu,Số tự động,b6c50b0e-8639-4d64-ba14-7c4919b6cc19,,0 Km,Xám,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-bmw-5_series-520i-2014-4437867,Nhập khẩu
+2022-06-26 16:17:59.485213,bonbanh.com,SUV,Xe	Hyundai SantaFe	Cao cấp 2.2L HTRAC	2021	- 1 Tỷ 530 Triệu,Số tự động,3f1da74e-6256-497b-a655-af6ddcf16cc2,,"9,000 Km",Trắng,Dầu	2.2 L,7 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-hyundai-santafe-cao-cap-2.2l-htrac-2021-4388541,Lắp ráp trong nước
+2022-06-26 16:17:59.515212,bonbanh.com,SUV,Xe	Kia Rondo	GMT	2022	- 568 Triệu,Số tay,0a8c9950-0114-4dae-88c1-90d81d653a7d,,"2,600 Km",Trắng,Xăng	2.0 L,7 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-kia-rondo-gmt-2022-4443436,Lắp ráp trong nước
+2022-06-26 16:17:59.547213,bonbanh.com,Sedan,Xe	BMW 5 Series	520i	2012	- 699 Triệu,Số tự động,fa2b456f-c075-416a-817a-3c81d070d344,,"80,000 Km",Vàng,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-bmw-5_series-520i-2012-4445539,Nhập khẩu
+2022-06-26 16:17:59.580212,bonbanh.com,SUV,Xe	Mazda CX5	2.0 Premium	2022	- 919 Triệu,Số tự động,10831047-1c4e-4217-8f51-f79bb0a63fc5,,0 Km,Đỏ,Xăng	2.0 L,5 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-mazda-cx5-2.0-premium-2022-3527843,Lắp ráp trong nước
+2022-06-26 16:17:59.610214,bonbanh.com,SUV,Xe	Mercedes Benz G class	G63 AMG	2022	- 14 Tỷ 800 Triệu,Số tự động,2b022267-d22c-4560-be19-79440afec76f,,0 Km,Xanh,Xăng	4.0 L,5 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-mercedes_benz-g_class-g63-amg-2022-4434339,Nhập khẩu
+2022-06-26 16:17:59.630216,bonbanh.com,Van/Minivan,Xe	Dongben DB X30	V5S	2019	- 190 Triệu,Số tay,da9d8c35-cf58-4db6-84e9-a65c9f8d00ec,,"32,000 Km",Bạc,Xăng	1.5 L,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-dongben-db_x30-v5s-2019-3769855,Nhập khẩu
+2022-06-26 16:17:59.665885,bonbanh.com,SUV,Xe	Mitsubishi Xpander	1.5 MT	2021	- 515 Triệu,Số tay,5282a09d-7970-4ed0-ab3d-1b8876951cd8,,0 Km,Nâu,Xăng	1.5 L,7 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-mitsubishi-xpander-1.5-mt-2021-4435643,Nhập khẩu
+2022-06-26 16:17:59.698903,bonbanh.com,Sedan,Xe	Mercedes Benz E class	E200	2019	- 1 Tỷ 729 Triệu,Số tự động,edd144aa-df16-4037-95ad-b234f92d59c4,,"30,000 Km",Trắng,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-mercedes_benz-e_class-e200-2019-4380400,Lắp ráp trong nước
+2022-06-26 16:17:59.730896,bonbanh.com,Sedan,Xe	Hyundai i10	1.2 AT	2021	- 425 Triệu,Số tự động,5b0f44f2-baba-4e32-93fe-6394eec0545e,,0 Km,Trắng,Xăng	1.25 L,5 chỗ,4 cửa,Xe mới,https://bonbanh.com/xe-hyundai-i10-1.2-at-2021-3943023,Lắp ráp trong nước
+2022-06-26 16:17:59.767897,bonbanh.com,Sedan,Xe	BMW 5 Series	520i	2016	- 1 Tỷ 150 Triệu,Số tự động,9218a56e-dfb4-4938-90a8-e26ad4e5d058,,"60,000 Km",Đen,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-bmw-5_series-520i-2016-4437204,Nhập khẩu
+2022-06-26 16:17:59.812949,bonbanh.com,SUV,Xe	Chevrolet Captiva	Revv LTZ 2.4 AT	2016	- 525 Triệu,Số tự động,c0b60ebf-601d-490f-8ee5-0a15860706b0,,"40,000 Km",Trắng,Xăng	2.4 L,7 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-chevrolet-captiva-revv-ltz-2.4-at-2016-4421028,Lắp ráp trong nước
+2022-06-26 16:17:59.843463,bonbanh.com,Sedan,Xe	Honda Accord	1.5 AT	2022	- 1 Tỷ 329 Triệu,Số tự động,07041681-9a48-4e0d-90fa-eb7413636ce7,,0 Km,Trắng,Xăng	1.5 L,5 chỗ,4 cửa,Xe mới,https://bonbanh.com/xe-honda-accord-1.5-at-2022-4279180,Nhập khẩu
+2022-06-26 16:17:59.882490,bonbanh.com,Sedan,Xe	Mazda 3	1.5L Luxury	2019	- 626 Triệu,Số tự động,ca175bc2-d1c6-4ec6-bb4d-98b57d7de25a,,"21,000 Km",Đỏ,Xăng	1.5 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-mazda-3-1.5l-luxury-2019-4445537,Lắp ráp trong nước
+2022-06-26 16:17:59.920463,bonbanh.com,SUV,Xe	Mazda CX5	Luxury 2.0 AT	2022	- 879 Triệu,Số tự động,fd862894-3cb2-4c86-a6e5-e70ddc610e46,,0 Km,Đỏ,Xăng	2.0 L,5 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-mazda-cx5-luxury-2.0-at-2022-3876574,Lắp ráp trong nước
+2022-06-26 16:17:59.965463,bonbanh.com,Bán tải / Pickup,Xe	Ford Ranger	XLS 2.2L 4x2 AT	2022	- 662 Triệu,Số tự động,e42c6764-54d3-4be3-9191-bb2894bd91cd,,0 Km,Trắng,Dầu	2.2 L,5 chỗ,4 cửa,Xe mới,https://bonbanh.com/xe-ford-ranger-xls-2.2l-4x2-at-2022-4030620,Lắp ráp trong nước
+2022-06-26 16:17:59.997461,bonbanh.com,Sedan,Xe	Chevrolet Cruze	LTZ	2013	- 300 Triệu,Số tự động,70fff5af-5f14-403a-83fe-b9ab1273b74c,,"62,000 Km",Đen,Xăng,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-chevrolet-cruze-ltz-2013-4454242,Lắp ráp trong nước
+2022-06-26 16:18:00.027465,bonbanh.com,Crossover,Xe	Toyota Innova	G	2010	- 290 Triệu,Số tay,b0a969c4-f1cf-49fb-a196-2cdf3fba1a29,,0 Km,Bạc,Xăng	2.0 L,8 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-toyota-innova-g-2010-4298553,Lắp ráp trong nước
+2022-06-26 16:18:00.057464,bonbanh.com,SUV,Xe	Chevrolet Captiva	Revv LTZ 2.4 AT	2016	- 545 Triệu,Số tự động,365d5f8d-625d-4971-9708-d1d63f190fb2,,"48,569 Km",Đen,Xăng	2.4 L,7 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-chevrolet-captiva-revv-ltz-2.4-at-2016-4260495,Lắp ráp trong nước
+2022-06-26 16:18:00.088464,bonbanh.com,Sedan,Xe	BMW 3 Series	320i	2008	- 315 Triệu,Số tự động,000d8f18-44b0-4aa0-a593-2edb30ac65fe,,"96,000 Km",Trắng,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-bmw-3_series-320i-2008-4404311,Nhập khẩu
+2022-06-26 16:18:00.112463,bonbanh.com,Truck,Xe	Isuzu QKR	1.9T	2022	- 590 Triệu,Số tay,e94628e1-424e-4027-952a-e650468cb8f5,,0 Km,Trắng,Dầu,3 chỗ,2 cửa,Xe mới,https://bonbanh.com/xe-isuzu-qkr-1.9t-2022-4381159,Lắp ráp trong nước
+2022-06-26 16:18:00.149463,bonbanh.com,Bán tải / Pickup,Xe	Toyota Hilux	2.4L 4x2 AT	2021	- 748 Triệu,Số tự động,b4765d87-af45-490b-8324-d0fa149e0f0c,,"1,000 Km",Đỏ,Dầu	2.4 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-toyota-hilux-2.4l-4x2-at-2021-4274446,Nhập khẩu
+2022-06-26 16:18:00.180464,bonbanh.com,SUV,Xe	Ford Explorer	Limited 2.3L EcoBoost	2022	- 2 Tỷ 366 Triệu,Số tự động,dba99c8d-5924-4c08-bf84-d6019dd80aad,,0 Km,Đen,Xăng	2.3 L,7 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-ford-explorer-limited-2.3l-ecoboost-2022-4353218,Nhập khẩu
+2022-06-26 16:18:00.225464,bonbanh.com,Bán tải / Pickup,Xe	Ford Ranger	XL 2.2L 4x4 MT	2022	- 628 Triệu,Số tay,c0473c7d-4c38-4ed8-b2ca-f4d23d2c0dc2,,0 Km,Vàng,Dầu	2.2 L,5 chỗ,4 cửa,Xe mới,https://bonbanh.com/xe-ford-ranger-xl-2.2l-4x4-mt-2022-3554785,Nhập khẩu
+2022-06-26 16:18:00.256465,bonbanh.com,Bán tải / Pickup,Xe	Mitsubishi Triton	4x2 MT	2019	- 515 Triệu,Số tay,68897fb8-7bf7-4ffe-a9e4-831bc0e4627a,,"18,000 Km",Ghi,Dầu	2.5 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-mitsubishi-triton-4x2-mt-2019-4433432,Nhập khẩu
+2022-06-26 16:18:00.303462,bonbanh.com,Van/Minivan,Xe	Kia Sedona	3.3L GATH	2016	- 690 Triệu,Số tự động,5d7deec4-9e58-4c28-9ded-125bfff47f87,,"50,000 Km",Trắng,Xăng	3.3 L,7 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-kia-sedona-3.3l-gath-2016-4429273,Lắp ráp trong nước
+2022-06-26 16:18:00.314462,bonbanh.com,Sedan,Xe	Hyundai Elantra	1.6 AT	2017	- 510 Triệu,Số tự động,2efec9a3-628e-4c78-8c34-a2b4a929e468,,"66,000 Km",Trắng,Xăng	1.6 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-hyundai-elantra-1.6-at-2017-4403758,Lắp ráp trong nước
+2022-06-26 16:18:00.353463,bonbanh.com,Hatchback,Xe	Mazda 2	Sport Luxury	2022	- 574 Triệu,Số tự động,ee70e73b-4e31-491b-8a57-53b5c8b82a9d,,0 Km,Xanh,Xăng	1.5 L,5 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-mazda-2-sport-luxury-2022-3691998,Nhập khẩu
+2022-06-26 16:18:00.389462,bonbanh.com,Crossover,Xe	Kia Sonet	Premium 1.5 AT	2022	- 624 Triệu,Số tự động,f55941bb-affe-4274-9f7a-54ffc078c1f0,,0 Km,Trắng,Xăng	1.5 L,5 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-kia-sonet-premium-1.5-at-2022-4024567,Lắp ráp trong nước
+2022-06-26 16:18:00.443475,bonbanh.com,Hatchback,Xe	Kia Morning	Si AT	2016	- 298 Triệu,Số tự động,51de9c6a-5e42-4464-91db-5ea55d589dff,,"68,000 Km",Trắng,Xăng	1.25 L,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-kia-morning-si-at-2016-4436520,Lắp ráp trong nước
+2022-06-26 16:18:00.454475,bonbanh.com,Bán tải / Pickup,Xe	Ford Ranger	XLS 2.2L 4x2 AT	2022	- 632 Triệu,Số tự động,d94043fb-1840-4f08-979e-d3b18a4a581f,,0 Km,Xám,Dầu	2.2 L,5 chỗ,4 cửa,Xe mới,https://bonbanh.com/xe-ford-ranger-xls-2.2l-4x2-at-2022-4385188,Lắp ráp trong nước
+2022-06-26 16:18:00.489478,bonbanh.com,SUV,Xe	Ford Explorer	Limited 2.3L EcoBoost	2022	- 2 Tỷ 366 Triệu,Số tự động,68df0f99-e239-406a-a4ea-dbc66d643b97,,0 Km,Đỏ,Xăng	2.3 L,7 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-ford-explorer-limited-2.3l-ecoboost-2022-4309307,Nhập khẩu
+2022-06-26 16:18:00.515474,bonbanh.com,Sedan,Xe	BMW 5 Series	520i Luxury	2021	- 2 Tỷ 539 Triệu,Số tự động,529a6152-4d8f-407d-9f2b-b2fb845dec27,,"2,000 Km",Đen,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-bmw-5_series-520i-luxury-2021-4447653,Nhập khẩu
+2022-06-26 16:18:00.565474,bonbanh.com,SUV,Xe	Mazda CX5	2.0 AT	2015	- 578 Triệu,Số tự động,986de5bc-6fe0-41f9-bfe6-d465ba669456,,"68,000 Km",Ghi,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-mazda-cx5-2.0-at-2015-4451329,Lắp ráp trong nước
+2022-06-26 16:18:00.587475,bonbanh.com,Bán tải / Pickup,Xe	Ford Ranger	Wildtrak 2.0L 4x4 AT	2022	- 907 Triệu,Số tự động,f748290f-dd40-4ba8-b885-f5469e7c0136,,0 Km,Đen,Dầu	2.0 L,5 chỗ,4 cửa,Xe mới,https://bonbanh.com/xe-ford-ranger-wildtrak-2.0l-4x4-at-2022-4387911,Lắp ráp trong nước
+2022-06-26 16:18:00.615475,bonbanh.com,Sedan,Xe	Toyota Corolla altis	1.8G AT	2015	- 530 Triệu,Số tự động,89645791-0de7-46a5-8c93-c3fb283dd5d0,,"56,000 Km",Xanh,Xăng	1.8 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-toyota-corolla_altis-1.8g-at-2015-4445253,Lắp ráp trong nước
+2022-06-26 16:18:00.655694,bonbanh.com,Sedan,Xe	Kia Cerato	1.6 AT	2018	- 531 Triệu,Số tự động,f41635af-8c94-4c12-8f6c-6603aaf10b7a,,"10,868 Km",Trắng,Xăng	1.6 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-kia-cerato-1.6-at-2018-4432301,Lắp ráp trong nước
+2022-06-26 16:18:00.689693,bonbanh.com,Sedan,Xe	BMW 5 Series	528i GT	2015	- 1 Tỷ 285 Triệu,Số tự động,6f59da0a-ba35-48fd-8fa3-d17a7614aeca,,"70,000 Km",Trắng,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-bmw-5_series-528i-gt-2015-4390510,Nhập khẩu
+2022-06-26 16:18:00.720692,bonbanh.com,SUV,Xe	Kia Sorento	Premium 2.2 AT AWD	2021	- 1 Tỷ 219 Triệu,Số tự động,0fba3b2a-114a-471a-9891-9bfaa4bcd488,,0 Km,Đen,Dầu	2.2 L,7 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-kia-sorento-premium-2.2-at-awd-2021-4184916,Lắp ráp trong nước
+2022-06-26 16:18:00.773693,bonbanh.com,Bán tải / Pickup,Xe	Ford Ranger	XLS 2.2L 4x2 AT	2021	- 760 Triệu,Số tự động,6dd1f067-fcc7-4b0a-85ab-5b33f1d16267,,"21,379 Km",Xanh,Dầu	2.2 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-ford-ranger-xls-2.2l-4x2-at-2021-4407756,Nhập khẩu
+2022-06-26 16:18:00.816692,bonbanh.com,Bán tải / Pickup,Xe	Ford Ranger	Wildtrak 3.2L 4x4 AT	2016	- 739 Triệu,Số tự động,0b8c3232-765d-42da-8b4c-b68b24d96e5f,,"90,000 Km",Trắng,Dầu	3.2 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-ford-ranger-wildtrak-3.2l-4x4-at-2016-4444082,Nhập khẩu
+2022-06-26 16:18:00.846694,bonbanh.com,SUV,Xe	Toyota Land Cruiser	4.6 V8	2021	- 5 Tỷ 750 Triệu,Số tự động,8f22900a-f7dd-44b0-abd0-b4c334d49dc2,,"10,000 Km",Đen,Xăng	4.6 L,8 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-toyota-land_cruiser-4.6-v8-2021-4427021,Nhập khẩu
+2022-06-26 16:18:00.878695,bonbanh.com,Sedan,Xe	Lexus ES	250	2019	- 2 Tỷ 450 Triệu,Số tự động,9d39e596-e06d-42dd-994c-3a0963c295c2,,"14,000 Km",Ghi,Xăng	2.5 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-lexus-es-250-2019-4335683,Nhập khẩu
+2022-06-26 16:18:00.903693,bonbanh.com,Sedan,Xe	Honda City	1.5 AT	2016	- 435 Triệu,Số tự động,e191acdb-4962-42db-828b-7723acd2c986,,"77,000 Km",Trắng,Xăng	1.5 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-honda-city-1.5-at-2016-4417757,Lắp ráp trong nước
+2022-06-26 16:18:00.936693,bonbanh.com,Sedan,Xe	Daewoo Lacetti	SE	2010	- 219 Triệu,Số tay,dc71aff6-b005-491e-9b87-c55b0aa86ebe,,"98,765 Km",Đen,Xăng	1.6 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-daewoo-lacetti-se-2010-4450197,Nhập khẩu
+2022-06-26 16:18:00.969692,bonbanh.com,Sedan,Xe	Toyota Vios	1.5G	2019	- 515 Triệu,Số tự động,1c764d3d-c774-4789-875d-82ebb33cf707,,"45,678 Km",Đen,Xăng	1.5 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-toyota-vios-1.5g-2019-4440436,Lắp ráp trong nước
+2022-06-26 16:18:01.006692,bonbanh.com,SUV,Xe	Ford Everest	2.0	2021	- 1 Tỷ 140 Triệu,Số tự động,980d0d56-805d-4fb2-8d9c-92d29de134a4,,"14,000 Km",Đen,Xăng,7 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-ford-everest-2.0-2021-4454352,Nhập khẩu
+2022-06-26 16:18:01.046691,bonbanh.com,SUV,Xe	Mazda CX5	2.0 AT	2018	- 740 Triệu,Số tự động,adbafc57-946a-45b1-a6dc-b2a9c0d7c3c5,,"38,000 Km",Đỏ,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-mazda-cx5-2.0-at-2018-4428957,Lắp ráp trong nước
+2022-06-26 16:18:01.070691,bonbanh.com,SUV,Xe	Ford Everest	Titanium 2.0L 4x2 AT	2022	- 1 Tỷ 173 Triệu,Số tự động,49fd066f-bf6f-4aab-9157-1aea4ab79bad,,0 Km,Cát,Dầu	2.0 L,7 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-ford-everest-titanium-2.0l-4x2-at-2022-3051562,Nhập khẩu
+2022-06-26 16:18:01.107692,bonbanh.com,Hatchback,Xe	Hyundai i10	Grand 1.0 AT	2015	- 305 Triệu,Số tự động,62b541e3-a165-4662-abdd-8bd26a4967e1,,"60,000 Km",Bạc,Xăng	1.0 L,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-hyundai-i10-grand-1.0-at-2015-4428491,Nhập khẩu
+2022-06-26 16:18:01.132692,bonbanh.com,SUV,Xe	Lexus RX	300	2019	- 3 Tỷ 70 Triệu,Số tự động,8682cbae-951a-417d-b173-8eeb558ede66,,"30,000 Km",Vàng,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-lexus-rx-300-2019-4422590,Nhập khẩu
+2022-06-26 16:18:01.172691,bonbanh.com,Bán tải / Pickup,Xe	Ford Ranger	XLT 2.2L 4x4 MT	2016	- 615 Triệu,Số tay,3c8df6a0-b1d3-4a98-9f94-7a0e6f476b82,,"57,000 Km",Xám,Dầu	2.2 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-ford-ranger-xlt-2.2l-4x4-mt-2016-4444932,Nhập khẩu
+2022-06-26 16:18:01.220696,bonbanh.com,Sedan,Xe	Toyota Camry	2.5Q	2015	- 775 Triệu,Số tự động,f282ae79-4510-47d0-84d0-792dd496c9d8,,"60,000 Km",Vàng,Xăng	2.5 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-toyota-camry-2.5q-2015-4367821,Lắp ráp trong nước
+2022-06-26 16:18:01.292693,bonbanh.com,Sedan,Xe	Bentley Flying Spur	6.0 V8	2007	- 1 Tỷ 830 Triệu,Số tự động,d8c2d4ed-75f8-4cd4-b6db-775752d6a6c8,,"10,000 Km",Xanh,Xăng	6.0 L,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-bentley-flying_spur-6.0-v8-2007-4423550,Nhập khẩu
+2022-06-26 16:18:01.299692,bonbanh.com,SUV,Xe	Volvo XC60	Inscription B6 AWD	2022	- 2 Tỷ 220 Triệu,Số tự động,630e7177-32fa-42fb-a906-49919e483481,,0 Km,Xanh,Xăng	2.0 L,5 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-volvo-xc60-inscription-b6-awd-2022-3855794,Nhập khẩu
+2022-06-26 16:18:01.308693,bonbanh.com,Crossover,Xe	Kia Carens	SXAT	2013	- 355 Triệu,Số tự động,02fbfb89-5b20-4ea0-bb0c-52afaf49b5e5,,"86,000 Km",Trắng,Xăng	2.0 L,7 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-kia-carens-sxat-2013-4343471,Lắp ráp trong nước
+2022-06-26 16:18:01.389693,bonbanh.com,Crossover,Xe	Toyota Innova	2.0E	2015	- 379 Triệu,Số tay,1be3eb4e-c7be-4d1d-81ff-f2777f780a46,,86 Km,Bạc,Xăng	2.0 L,8 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-toyota-innova-2.0e-2015-4426237,Lắp ráp trong nước
+2022-06-26 16:18:01.397692,bonbanh.com,SUV,Xe	Hyundai SantaFe	Premium 2.4L HTRAC	2020	- 1 Tỷ 140 Triệu,Số tự động,be409a73-16cf-4b6a-8acf-6a05d90dc470,,"30,000 Km",Trắng,Xăng	2.4 L,7 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-hyundai-santafe-premium-2.4l-htrac-2020-4425391,Lắp ráp trong nước
+2022-06-26 16:18:01.452710,bonbanh.com,Sedan,Xe	Hyundai Sonata	2009	- 272 Triệu,Số tay,e2af7139-78d8-4ba1-98dd-aa7499fe8482,,0 Km,Đỏ,Xăng,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-hyundai-sonata--2009-4454371,Nhập khẩu
+2022-06-26 16:18:01.484712,bonbanh.com,Truck,Xe	Hyundai Mighty	75S	2022	- 768 Triệu,Số tay,62ef70e6-4e97-4254-89e9-677c24896099,,0 Km,Xanh,Dầu,3 chỗ,2 cửa,Xe mới,https://bonbanh.com/xe-hyundai-mighty-75s-2022-3996618,Lắp ráp trong nước
+2022-06-26 16:18:01.530708,bonbanh.com,Sedan,Xe	Toyota Camry	2.5Q	2016	- 828 Triệu,Số tự động,6ebf10ce-17ba-497f-8e70-845c2758a9c0,,"60,000 Km",Vàng,Xăng	2.5 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-toyota-camry-2.5q-2016-4400851,Lắp ráp trong nước
+2022-06-26 16:18:01.609314,bonbanh.com,Sedan,Xe	Toyota Camry	2.4G	2010	- 438 Triệu,Số tự động,7175b039-695f-49cd-ad64-a6594df1e261,,"120,000 Km",Đen,Xăng	2.4 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-toyota-camry-2.4g-2010-4350675,Lắp ráp trong nước
+2022-06-26 16:18:06.466305,bonbanh.com,Sedan,Xe	VinFast Lux A 2.0	2.0 AT	2021	- 765 Triệu,Số tự động,eedf2c0a-9d9e-4e2e-9aee-698019ca94a4,,"20,000 Km",Đỏ,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-vinfast-lux_a_2.0-2.0-at-2021-4320645,Lắp ráp trong nước
+2022-06-26 16:18:06.547297,bonbanh.com,SUV,Xe	Mercedes Benz GLC	200	2022	- 1 Tỷ 859 Triệu,Số tự động,290033b1-e7f8-4d74-b975-2910f5e9ddb2,,0 Km,Đen,Xăng	2.0 L,5 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-mercedes_benz-glc-200-2022-4424233,Lắp ráp trong nước
+2022-06-26 16:18:06.608307,bonbanh.com,Crossover,Xe	Kia Carens	EXMT	2015	- 299 Triệu,Số tay,22d883ec-647a-4874-a761-c3bcf509b3a4,,"56,372 Km",Cát,Xăng	2.0 L,7 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-kia-carens-exmt-2015-4429538,Lắp ráp trong nước
+2022-06-26 16:18:06.669306,bonbanh.com,Hatchback,Xe	Mazda 3	2.0L Sport Signature Premium	2020	- 760 Triệu,Số tự động,942bed22-4860-42c5-8d39-d75c588777c3,,"13,000 Km",Đỏ,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-mazda-3-2.0l-sport-signature-premium-2020-4429962,Lắp ráp trong nước
+2022-06-26 16:18:06.950223,bonbanh.com,SUV,Xe	Mitsubishi Xpander	Cross 1.5 AT	2022	- 688 Triệu,Số tự động,bf69576a-bde6-4bd7-b286-91e3058df82e,,0 Km,Cam,Xăng	1.5 L,7 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-mitsubishi-xpander-cross-1.5-at-2022-3513798,Nhập khẩu
+2022-06-26 16:18:06.959222,bonbanh.com,SUV,Xe	Jeep Wrangler	Rubicon 2.0 4x4 AT	2021	- 3 Tỷ 688 Triệu,Số tự động,54c25dcd-3f8d-44f2-a849-31810e89b171,,0 Km,Vàng,Xăng	2.0 L,5 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-jeep-wrangler-rubicon-2.0-4x4-at-2021-4269775,Nhập khẩu
+2022-06-26 16:18:06.964224,bonbanh.com,Crossover,Xe	Kia Seltos	Deluxe 1.4 AT	2022	- 639 Triệu,Số tự động,f83ac648-be31-4505-87b9-cd571358d4a2,,0 Km,Đen,Xăng	1.4 L,5 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-kia-seltos-deluxe-1.4-at-2022-4259549,Lắp ráp trong nước
+2022-06-26 16:18:06.971224,bonbanh.com,SUV,Xe	Toyota Prado	VX 2.7L	2022	- 2 Tỷ 599 Triệu,Số tự động,86135d41-173c-4821-beca-0beea8535e07,,0 Km,Trắng,Xăng	2.7 L,7 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-toyota-prado-vx-2.7l-2022-4298420,Nhập khẩu
+2022-06-26 16:18:06.983223,bonbanh.com,SUV,Xe	Mitsubishi Xpander	1.5 MT	2021	- 510 Triệu,Số tay,9d0e92dc-b736-43c4-9b60-765c6d6c21cc,,0 Km,Bạc,Xăng	1.5 L,7 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-mitsubishi-xpander-1.5-mt-2021-4401278,Nhập khẩu
+2022-06-26 16:18:07.027030,bonbanh.com,Sedan,Xe	Mazda 3	1.5L Premium	2022	- 745 Triệu,Số tự động,5b72d6aa-f3ed-4f1b-b69f-f2e5bd9ba7c8,,0 Km,Đỏ,Xăng	1.5 L,5 chỗ,4 cửa,Xe mới,https://bonbanh.com/xe-mazda-3-1.5l-premium-2022-3876643,Lắp ráp trong nước
+2022-06-26 16:18:07.034030,bonbanh.com,SUV,Xe	Toyota Fortuner	2.7V 4x4 AT	2014	- 535 Triệu,Số tự động,6b32ce1d-4316-4168-92d1-6cbe1e31798c,,0 Km,Bạc,Xăng	2.7 L,8 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-toyota-fortuner-2.7v-4x4-at-2014-4414142,Lắp ráp trong nước
+2022-06-26 16:18:07.088741,bonbanh.com,SUV,Xe	Mercedes Benz GLC	250 4Matic	2017	- 1 Tỷ 520 Triệu,Số tự động,cdf62964-c7ae-487e-b4d5-b343ccd16b52,,"30,000 Km",Đen,Xăng,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-mercedes_benz-glc-250-4matic-2017-4454129,Lắp ráp trong nước
+2022-06-26 16:18:07.095741,bonbanh.com,SUV,Xe	Mercedes Benz G class	G63 AMG	2014	- 6 Tỷ 950 Triệu,Số tự động,bb493874-a98a-4846-89de-e0970fc57b2d,,"70,000 Km",Đen,Xăng	5.5 L,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-mercedes_benz-g_class-g63-amg-2014-4357334,Nhập khẩu
+2022-06-26 16:18:07.151105,bonbanh.com,SUV,Xe	Mercedes Benz GLC	300 4matic	2020	- 2 Tỷ 350 Triệu,Số tự động,c2f7aab0-2d3e-42bc-a88d-8a320e07d4c6,,"2,700 Km",Xám,Xăng,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-mercedes_benz-glc-300-4matic-2020-4452979,Lắp ráp trong nước
+2022-06-26 16:18:07.176108,bonbanh.com,Sedan,Xe	Mercedes Benz C class	C200	2017	- 1 Tỷ 136 Triệu,Số tự động,e517f9a1-62e4-4afd-9d5b-c24aa7b65fb6,,0 Km,Trắng,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-mercedes_benz-c_class-c200-2017-4197499,Lắp ráp trong nước
+2022-06-26 16:18:07.229105,bonbanh.com,Sedan,Xe	Mercedes Benz C class	C200	2016	- 999 Triệu,Số tự động,97457769-680d-419e-97b4-370804b73a99,,"40,000 Km",Trắng,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-mercedes_benz-c_class-c200-2016-4451491,Lắp ráp trong nước
+2022-06-26 16:18:07.289961,bonbanh.com,Sedan,Xe	Mercedes Benz S class	S450L	2017	- 3 Tỷ 250 Triệu,Số tự động,524e8eeb-e092-4496-89e6-aec65d2772e7,,"25,000 Km",Trắng,Xăng	3.0 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-mercedes_benz-s_class-s450l-2017-3938132,Lắp ráp trong nước
+2022-06-26 16:18:07.307962,bonbanh.com,Sedan,Xe	Mercedes Benz S class	S450L	2019	- 3 Tỷ 780 Triệu,Số tự động,056f5d4f-0222-4db8-8616-3d4615c0b65a,,"11,000 Km",Trắng,Xăng	3.0 L,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-mercedes_benz-s_class-s450l-2019-3938602,Lắp ráp trong nước
+2022-06-26 16:18:07.352974,bonbanh.com,Sedan,Xe	Mercedes Benz S class	S500L	2016	- 2 Tỷ 950 Triệu,Số tự động,6ed52a98-2285-4499-861f-336da275933e,,"46,868 Km",Trắng,Xăng	4.7 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-mercedes_benz-s_class-s500l-2016-4256018,Lắp ráp trong nước
+2022-06-26 16:18:07.381974,bonbanh.com,SUV,Xe	Mercedes Benz GLC	200 4Matic	2022	- 2 Tỷ 129 Triệu,Số tự động,48c9e26f-d7b1-4833-ae80-c20dbd1ca1bf,,0 Km,Đỏ,Xăng	2.0 L,5 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-mercedes_benz-glc-200-4matic-2022-4019877,Lắp ráp trong nước
+2022-06-26 16:18:07.413987,bonbanh.com,SUV,Xe	Toyota Fortuner	Legender 2.4L 4x2 AT	2022	- 1 Tỷ 350 Triệu,Số tự động,3349b721-58c1-4e6e-9e3e-d35469fadc5b,,"5,000 Km",Đen,Dầu	2.4 L,7 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-toyota-fortuner-legender-2.4l-4x2-at-2022-4445582,Lắp ráp trong nước
+2022-06-26 16:18:07.475562,bonbanh.com,SUV,Xe	Porsche Macan	S	2022	- 3 Tỷ 990 Triệu,Số tự động,06c15176-3b38-423c-aba6-711aa228409e,,0 Km,Đen,Xăng	2.9 L,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-porsche-macan-s-2022-4452867,Nhập khẩu
+2022-06-26 16:18:07.505203,bonbanh.com,Sedan,Xe	Mercedes Benz E class	E200 Exclusive	2021	- 2 Tỷ 310 Triệu,Số tự động,9a29bfeb-734b-4cab-bf51-1ef0e6bc276c,,0 Km,Trắng,Xăng	2.0 L,5 chỗ,4 cửa,Xe mới,https://bonbanh.com/xe-mercedes_benz-e_class-e200-exclusive-2021-3729262,Lắp ráp trong nước
+2022-06-26 16:18:07.552921,bonbanh.com,Sedan,Xe	BMW 3 Series	320i	2016	- 895 Triệu,Số tự động,af1ab08b-db4a-4129-9a3c-fd749689233e,,0 Km,Đỏ,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-bmw-3_series-320i-2016-4391090,Nhập khẩu
+2022-06-26 16:18:07.601950,bonbanh.com,Hatchback,Xe	Hyundai i10	Grand 1.2 AT	2019	- 399 Triệu,Số tự động,260cdb30-37ce-433e-8b05-4e8a90401739,,"38,000 Km",Đỏ,Xăng	1.25 L,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-hyundai-i10-grand-1.2-at-2019-4432035,Lắp ráp trong nước
+2022-06-26 16:18:07.631975,bonbanh.com,Sedan,Xe	BMW 5 Series	530i M Sport	2021	- 3 Tỷ 299 Triệu,Số tự động,24be7fec-fcd0-413d-956e-135beae36fe4,,0 Km,Xám,Xăng	2.0 L,5 chỗ,4 cửa,Xe mới,https://bonbanh.com/xe-bmw-5_series-530i-m-sport-2021-3778020,Nhập khẩu
+2022-06-26 16:18:07.702900,bonbanh.com,Sedan,Xe	VinFast Lux A 2.0	2.0 AT	2020	- 735 Triệu,Số tự động,b790ee9a-248a-4f9d-9cd1-6149de7b00d3,,"37,000 Km",Đỏ,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-vinfast-lux_a_2.0-2.0-at-2020-4210702,Lắp ráp trong nước
+2022-06-26 16:18:07.770400,bonbanh.com,SUV,Xe	Ford Everest	Titanium 2.0L 4x4 AT	2021	- 1 Tỷ 399 Triệu,Số tự động,9b3b9ca6-bbb3-4ec6-ba60-415206a77cc0,,"9,000 Km",Đỏ,Dầu	2.0 L,7 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-ford-everest-titanium-2.0l-4x4-at-2021-4447290,Nhập khẩu
+2022-06-26 16:18:07.781402,bonbanh.com,SUV,Xe	BMW X3	xDrive30i xLine	2019	- 2 Tỷ 349 Triệu,Số tự động,11cfa7d4-a307-43b9-9ca7-fc7f4546ef5d,,"13,000 Km",Trắng,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-bmw-x3-xdrive30i-xline-2019-4431862,Nhập khẩu
+2022-06-26 16:18:07.816141,bonbanh.com,Sedan,Xe	VinFast Lux A 2.0	Plus 2.0 AT	2019	- 765 Triệu,Số tự động,ac727401-3a43-4b52-9a5b-c92ba5d0a32e,,"21,000 Km",Đen,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-vinfast-lux_a_2.0-plus-2.0-at-2019-4397039,Lắp ráp trong nước
+2022-06-26 16:18:07.849544,bonbanh.com,Sedan,Xe	Toyota Camry	2.5Q	2022	- 1 Tỷ 549 Triệu,Số tự động,c38a3cd3-6874-45a4-8a3d-92f70d5db783,,"5,000 Km",Đỏ,Xăng	2.5 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-toyota-camry-2.5q-2022-4451102,Nhập khẩu
+2022-06-26 16:18:07.892557,bonbanh.com,SUV,Xe	Mitsubishi Xpander	1.5 MT	2021	- 555 Triệu,Số tay,cb81950c-f88e-4a8d-8c46-2995ea7ccedb,,0 Km,Đen,Xăng	1.5 L,7 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-mitsubishi-xpander-1.5-mt-2021-4331951,Nhập khẩu
+2022-06-26 16:18:07.928569,bonbanh.com,SUV,Xe	Hyundai SantaFe	Premium 2.2L HTRAC	2020	- 1 Tỷ 550 Triệu,Số tự động,ff938497-c523-49b7-8d1a-3eee476286d0,,"19,000 Km",Đỏ,Dầu	2.2 L,7 chỗ,6 cửa,Xe đã dùng,https://bonbanh.com/xe-hyundai-santafe-premium-2.2l-htrac-2020-4445598,Lắp ráp trong nước
+2022-06-26 16:18:07.969579,bonbanh.com,Sedan,Xe	Honda City	RS 1.5 AT	2022	- 599 Triệu,Số tự động,0620a585-ad98-4f8a-a62d-35b8b76e095b,,0 Km,Trắng,Xăng	1.5 L,5 chỗ,4 cửa,Xe mới,https://bonbanh.com/xe-honda-city-rs-1.5-at-2022-3572898,Lắp ráp trong nước
+2022-06-26 16:18:08.033549,bonbanh.com,Van/Minivan,Xe	Ford Transit	Standard MID	2019	- 688 Triệu,Số tay,defa368c-d44d-402c-a7a7-5bc12596f5bf,,"25,000 Km",Nhiều màu,Dầu	2.4 L,16 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-ford-transit-standard-mid-2019-4448865,Lắp ráp trong nước
+2022-06-26 16:18:08.064008,bonbanh.com,Sedan,Xe	Toyota Camry	2.5Q	2022	- 1 Tỷ 540 Triệu,Số tự động,949001ea-186f-424c-9840-42eaca611454,,"5,000 Km",Đỏ,Xăng,5 chỗ,0 cửa,Xe đã dùng,https://bonbanh.com/xe-toyota-camry-2.5q-2022-4452453,Nhập khẩu
+2022-06-26 16:18:08.113211,bonbanh.com,SUV,Xe	Mitsubishi Outlander	2.0 CVT	2022	- 825 Triệu,Số tự động,372948fc-cdac-476a-a30b-6e5c1c40b305,,0 Km,Trắng,Xăng	2.0 L,7 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-mitsubishi-outlander-2.0-cvt-2022-4431980,Lắp ráp trong nước
+2022-06-26 16:18:08.143834,bonbanh.com,SUV,Xe	Toyota Prado	TXL 2.7L	2015	- 1 Tỷ 395 Triệu,Số tự động,c150fe90-37a3-4f38-b3db-e0f0e4e14101,,"88,000 Km",Trắng,Xăng	2.7 L,7 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-toyota-prado-txl-2.7l-2015-4336469,Nhập khẩu
+2022-06-26 16:18:08.190391,bonbanh.com,Sedan,Xe	Audi A6	2.0T	2013	- 888 Triệu,Số tự động,0a5baad3-452e-4eee-934a-97f509663a7e,,"70,000 Km",Trắng,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-audi-a6-2.0t-2013-4344730,Nhập khẩu
+2022-06-26 16:18:08.239401,bonbanh.com,Bán tải / Pickup,Xe	Ford Ranger	Raptor 2.0L 4x4 AT	2022	- 1 Tỷ 202 Triệu,Số tự động,6c5f34a7-e47a-4ddf-98be-333436abcab5,,0 Km,Xanh,Dầu	2.0 L,5 chỗ,4 cửa,Xe mới,https://bonbanh.com/xe-ford-ranger-raptor-2.0l-4x4-at-2022-2762640,Nhập khẩu
+2022-06-26 16:18:08.281430,bonbanh.com,Bán tải / Pickup,Xe	Ford Ranger	XLS 2.2L 4x2 AT	2022	- 662 Triệu,Số tự động,1b674b69-572e-41ef-af9c-e2e5bca78b52,,0 Km,Đen,Dầu	2.2 L,5 chỗ,4 cửa,Xe mới,https://bonbanh.com/xe-ford-ranger-xls-2.2l-4x2-at-2022-2446532,Lắp ráp trong nước
+2022-06-26 16:18:08.314456,bonbanh.com,Sedan,Xe	Kia Rio	1.4 MT	2014	- 290 Triệu,Số tay,3a90cd3a-4a38-4cad-a325-80dcefa064fa,,"88,888 Km",Bạc,Xăng	1.4 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-kia-rio-1.4-mt-2014-4279917,Nhập khẩu
+2022-06-26 16:18:08.345453,bonbanh.com,Hatchback,Xe	Mini Cooper	S 5Dr	2018	- 1 Tỷ 610 Triệu,Số tự động,ef880197-7780-4afe-bbec-fd8720361bf2,,"56,000 Km",Đỏ,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-mini-cooper-s-5dr-2018-4359545,Nhập khẩu
+2022-06-26 16:18:08.384900,bonbanh.com,Sedan,Xe	Mercedes Benz E class	E180	2020	- 1 Tỷ 759 Triệu,Số tự động,31857588-60fe-4411-b01b-dae980da28b6,,0 Km,Trắng,Xăng	1.5 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-mercedes_benz-e_class-e180-2020-4122088,Lắp ráp trong nước
+2022-06-26 16:18:08.426895,bonbanh.com,Bán tải / Pickup,Xe	Ford Ranger	Wildtrak 2.0L 4x4 AT	2022	- 937 Triệu,Số tự động,1ca22671-d938-4c22-a5b0-128b5e6e66f6,,0 Km,Cam,Dầu	2.0 L,5 chỗ,4 cửa,Xe mới,https://bonbanh.com/xe-ford-ranger-wildtrak-2.0l-4x4-at-2022-4271540,Lắp ráp trong nước
+2022-06-26 16:18:08.464894,bonbanh.com,Truck,Xe	Suzuki Super Carry Truck	1.0 MT	2021	- 220 Triệu,Số tay,61fb1406-c422-4b45-a281-cfd08f176fed,,0 Km,Trắng,Xăng	1.0 L,2 chỗ,2 cửa,Xe mới,https://bonbanh.com/xe-suzuki-super_carry_truck-1.0-mt-2021-1508142,Lắp ráp trong nước
+2022-06-26 16:18:08.497845,bonbanh.com,SUV,Xe	VinFast Lux SA 2.0	Nâng cao	2022	- 1 Tỷ 258 Triệu,Số tự động,0314aa98-47d0-4f31-af3f-c020e12d1f38,,0 Km,Xanh,Xăng	2.0 L,7 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-vinfast-lux_sa_2.0-nang-cao-2022-3359901,Lắp ráp trong nước
+2022-06-26 16:18:08.530853,bonbanh.com,Bán tải / Pickup,Xe	Ford Ranger	Wildtrak 3.2L 4x4 AT	2017	- 845 Triệu,Số tự động,27fd4795-20e6-4965-988b-688141b075b6,,"60,000 Km",Vàng,Dầu	3.2 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-ford-ranger-wildtrak-3.2l-4x4-at-2017-4321837,Nhập khẩu
+2022-06-26 16:18:08.580425,bonbanh.com,Sedan,Xe	Toyota Vios	E	2011	- 225 Triệu,Số tay,cf891a3f-0b8b-4ac6-b400-84d4fa9158c7,,"160,000 Km",Đen,Xăng,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-toyota-vios-e-2011-4454380,Lắp ráp trong nước
+2022-06-26 16:18:08.611442,bonbanh.com,Hatchback,Xe	VinFast Fadil	1.4 AT	2021	- 360 Triệu,Số tự động,e65ce8c4-1971-4786-a3ba-ed52004e5467,,"11,000 Km",Trắng,Xăng	1.4 L,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-vinfast-fadil-1.4-at-2021-4446954,Lắp ráp trong nước
+2022-06-26 16:18:08.647443,bonbanh.com,SUV,Xe	Mercedes Benz GLC	200	2020	- 1 Tỷ 695 Triệu,Số tự động,78d42a0c-9bb4-4de6-8b12-aff9abc52f17,,"24,000 Km",Đen,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-mercedes_benz-glc-200-2020-4444201,Lắp ráp trong nước
+2022-06-26 16:18:08.685479,bonbanh.com,Sedan,Xe	Mercedes Benz E class	E200	2018	- 1 Tỷ 695 Triệu,Số tự động,654271d7-e97f-45fe-b420-9ff6f07b2620,,"39,000 Km",Trắng,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-mercedes_benz-e_class-e200-2018-4388418,Lắp ráp trong nước
+2022-06-26 16:18:08.716777,bonbanh.com,Sedan,Xe	BMW 5 Series	520i	2015	- 920 Triệu,Số tự động,d6b21bb2-a771-4876-b137-9d2ac751c419,,"88,000 Km",Đen,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-bmw-5_series-520i-2015-4312100,Nhập khẩu
+2022-06-26 16:18:08.761774,bonbanh.com,SUV,Xe	Mercedes Benz GLC	200	2019	- 1 Tỷ 555 Triệu,Số tự động,ab82a0ec-4c99-4c5e-a57c-d84ecaa5da79,,"30,000 Km",Trắng,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-mercedes_benz-glc-200-2019-4407342,Lắp ráp trong nước
+2022-06-26 16:18:08.857932,bonbanh.com,SUV,Xe	Lexus RX	350	2014	- 1 Tỷ 820 Triệu,Số tự động,6b6651da-f49d-4b9c-a27e-4d08b8296ce6,,"70,000 Km",Trắng,Xăng,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-lexus-rx-350-2014-4454385,Nhập khẩu
+2022-06-26 16:18:08.868933,bonbanh.com,SUV,Xe	Toyota Fortuner	2.4G 4x2 AT	2019	- 1 Tỷ 50 Triệu,Số tự động,d0f9fc75-3260-4dcd-b058-467c007059f2,,"28,000 Km",Đen,Dầu	2.4 L,8 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-toyota-fortuner-2.4g-4x2-at-2019-4450668,Lắp ráp trong nước
+2022-06-26 16:18:08.879934,bonbanh.com,SUV,Xe	Suzuki Ertiga	GL 1.5 MT	2022	- 489 Triệu,Số tay,affcb4bb-7434-4a85-b82f-9ec278aea11a,,0 Km,Trắng,Xăng	1.5 L,7 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-suzuki-ertiga-gl-1.5-mt-2022-3618938,Nhập khẩu
+2022-06-26 16:18:08.966660,bonbanh.com,Van/Minivan,Xe	Kia Morning	Van 1.0 AT	2014	- 220 Triệu,Số tự động,ec6c0a55-8efa-43d4-8f6b-733749f44459,,"60,000 Km",Bạc,Xăng	1.0 L,2 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-kia-morning-van-1.0-at-2014-4352582,Nhập khẩu
+2022-06-26 16:18:08.972661,bonbanh.com,SUV,Xe	Toyota Fortuner	2.4G 4x2 MT	2019	- 965 Triệu,Số tay,739ed0c2-06e1-4ed8-ad4c-b733e94d5b9f,,"49,000 Km",Đen,Dầu	2.4 L,8 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-toyota-fortuner-2.4g-4x2-mt-2019-4441362,Nhập khẩu
+2022-06-26 16:18:08.981660,bonbanh.com,Hatchback,Xe	Honda Brio	G	2022	- 418 Triệu,Số tự động,a683f736-9b24-4710-90e0-3f41ce541022,,0 Km,Bạc,Xăng	1.2 L,5 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-honda-brio-g-2022-529832,Nhập khẩu
+2022-06-26 16:18:09.016679,bonbanh.com,Hatchback,Xe	Toyota Yaris	1.3G	2016	- 495 Triệu,Số tự động,91ed263d-75c1-4be5-b5e6-02d574a24c6e,,"73,000 Km",Đỏ,Xăng	1.3 L,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-toyota-yaris-1.3g-2016-4316955,Nhập khẩu
+2022-06-26 16:18:09.058942,bonbanh.com,SUV,Xe	Toyota Fortuner	2.4G 4x2 AT	2022	- 1 Tỷ 107 Triệu,Số tự động,0fbc669e-1412-4ed9-8963-581ba1f15329,,0 Km,Đen,Dầu	2.4 L,7 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-toyota-fortuner-2.4g-4x2-at-2022-3462132,Lắp ráp trong nước
+2022-06-26 16:18:09.126942,bonbanh.com,SUV,Xe	Mercedes Benz GLC	300 4Matic	2018	- 1 Tỷ 750 Triệu,Số tự động,c66aad24-6024-4a97-8cae-2b08615f02fd,,0 Km,Đen,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-mercedes_benz-glc-300-4matic-2018-4238351,Lắp ráp trong nước
+2022-06-26 16:18:09.194960,bonbanh.com,Sedan,Xe	Toyota Camry	2.2	1996	- 148 Triệu,Số tự động,cf42f67f-36f3-488d-8ba4-0421f896ac22,,0 Km,Trắng,Xăng,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-toyota-camry-2.2-1996-4454374,Nhập khẩu
+2022-06-26 16:18:09.233984,bonbanh.com,SUV,Xe	Toyota Fortuner	2.7V 4x2 AT	2017	- 830 Triệu,Số tự động,ffa27632-1d93-4855-8d3f-08238f8121a7,,"74,000 Km",Đen,Xăng	2.7 L,8 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-toyota-fortuner-2.7v-4x2-at-2017-4435346,Nhập khẩu
+2022-06-26 16:18:09.248981,bonbanh.com,SUV,Xe	Mercedes Benz GLC	200	2020	- 1 Tỷ 695 Triệu,Số tự động,8791f0d1-f5c2-4b72-ac7e-c75d9a24de1d,,"29,000 Km",Đỏ,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-mercedes_benz-glc-200-2020-4383844,Lắp ráp trong nước
+2022-06-26 16:18:09.278876,bonbanh.com,SUV,Xe	Kia Rondo	GAT	2016	- 479 Triệu,Số tự động,c7ce26f1-d504-4c4f-9839-5a0c0b083022,,"27,000 Km",Trắng,Xăng	2.0 L,7 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-kia-rondo-gat-2016-4449454,Lắp ráp trong nước
+2022-06-26 16:18:09.309873,bonbanh.com,SUV,Xe	Mazda CX5	2.5 AT 2WD	2018	- 785 Triệu,Số tự động,20d8d315-7843-4db2-ae0d-b4915328a9b2,,"45,000 Km",Trắng,Xăng	2.5 L,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-mazda-cx5-2.5-at-2wd-2018-4364312,Lắp ráp trong nước
+2022-06-26 16:18:09.351438,bonbanh.com,SUV,Xe	Audi Q7	4.2 AT	2010	- 850 Triệu,Số tự động,cbdada7b-7696-4a61-b036-69c10472e675,,0 Km,Trắng,Xăng	4.2 L,7 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-audi-q7-4.2-at-2010-4235428,Nhập khẩu
+2022-06-26 16:18:09.382001,bonbanh.com,SUV,Xe	Mercedes Benz GLC	200 4Matic	2020	- 1 Tỷ 980 Triệu,Số tự động,29c4bce6-0184-4fed-b63a-b3a30d2776c8,,"2,020 Km",Trắng,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-mercedes_benz-glc-200-4matic-2020-3688704,Lắp ráp trong nước
+2022-06-26 16:18:09.423442,bonbanh.com,Crossover,Xe	Toyota Innova	2.0E	2012	- 325 Triệu,Số tay,0d8421a8-7ee2-453b-aa6e-f087541383c3,,0 Km,Bạc,Xăng	2.0 L,8 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-toyota-innova-2.0e-2012-4404819,Lắp ráp trong nước
+2022-06-26 16:18:09.465442,bonbanh.com,Sedan,Xe	Lexus LS	460L	2008	- 860 Triệu,Số tự động,cea45c6d-a850-48fa-82e1-8e694db23575,,0 Km,Trắng,Xăng	4.6 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-lexus-ls-460l-2008-4451092,Nhập khẩu
+2022-06-26 16:18:09.484442,bonbanh.com,Crossover,Xe	Kia Carens	S SX 2.0 AT	2015	- 425 Triệu,Số tự động,508d307b-be24-4f7b-9b20-55291e0a1e3c,,"6,000 Km",Xanh,Xăng	2.0 L,7 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-kia-carens-s-sx-2.0-at-2015-4433576,Lắp ráp trong nước
+2022-06-26 16:18:09.527442,bonbanh.com,Sedan,Xe	Honda City	RS 1.5 AT	2022	- 604 Triệu,Số tự động,38469724-db05-4f42-9190-6a89222b160a,,0 Km,Đỏ,Xăng	1.5 L,5 chỗ,4 cửa,Xe mới,https://bonbanh.com/xe-honda-city-rs-1.5-at-2022-4402298,Lắp ráp trong nước
+2022-06-26 16:18:09.556267,bonbanh.com,Sedan,Xe	BMW 5 Series	520i luxury line	2021	- 2 Tỷ 539 Triệu,Số tự động,0f3dcf27-938f-46a5-896c-e9ed24de1544,,"2,000 Km",Đen,Xăng,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-bmw-5_series-520i-luxury-line-2021-4454379,Nhập khẩu
+2022-06-26 16:18:09.587267,bonbanh.com,SUV,Xe	Mazda CX5	2.0 Luxury	2020	- 855 Triệu,Số tự động,e71e2590-d548-4e8b-9f0f-5ba1dd6897d6,,"20,000 Km",Đen,Xăng,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-mazda-cx5-2.0-luxury-2020-4454364,Lắp ráp trong nước
+2022-06-26 16:18:09.628269,bonbanh.com,SUV,Xe	Mitsubishi Xpander	1.5 MT	2022	- 510 Triệu,Số tay,b43d4ed9-3244-4c7b-b681-96d2dd16dd6e,,0 Km,Nâu,Xăng	1.5 L,7 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-mitsubishi-xpander-1.5-mt-2022-4177355,Nhập khẩu
+2022-06-26 16:18:09.661286,bonbanh.com,Hatchback,Xe	Kia Morning	LX 1.1 MT	2011	- 118 Triệu,Số tay,15a739ae-6771-4270-b539-ab8c20d6a5f5,,"140,000 Km",Xanh,Xăng	1.1 L,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-kia-morning-lx-1.1-mt-2011-4403111,Lắp ráp trong nước
+2022-06-26 16:18:09.692313,bonbanh.com,SUV,Xe	Mercedes Benz GLE Class	GLE 400 4Matic	2016	- 2 Tỷ 300 Triệu,Số tự động,caec9df9-f7f0-4f01-af1c-b737f7e95cc5,,0 Km,Trắng,Xăng	3.0 L,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-mercedes_benz-gle_class-gle-400-4matic-2016-4416209,Nhập khẩu
+2022-06-26 16:18:09.728289,bonbanh.com,Van/Minivan,Xe	Kia Morning	Van 1.0 AT	2013	- 222 Triệu,Số tự động,0263eed1-728c-47d5-a37a-b113428e665b,,"80,000 Km",Trắng,Xăng	1.0 L,2 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-kia-morning-van-1.0-at-2013-4448914,Nhập khẩu
+2022-06-26 16:18:09.774286,bonbanh.com,Crossover,Xe	Toyota Innova	2019	- 629 Triệu,Số tay,0a13009f-95f5-46ab-91de-8f228e23ffb2,,"70,000 Km",Vàng,Xăng,8 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-toyota-innova--2019-4454344,Nhập khẩu
+2022-06-26 16:18:09.795287,bonbanh.com,SUV,Xe	Toyota Prado	TXL 2.7L	2015	- 1 Tỷ 630 Triệu,Số tự động,94afb581-1a10-43e6-befd-7cd776380851,,"100,000 Km",Đen,Xăng	2.7 L,7 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-toyota-prado-txl-2.7l-2015-4373031,Nhập khẩu
+2022-06-26 16:18:09.850306,bonbanh.com,Bán tải / Pickup,Xe	Chevrolet Colorado	LTZ	2016	- 550 Triệu,Số tự động,17683c52-9d7c-44d1-9617-d37250ac73ed,,"50,000 Km",Đen,Xăng,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-chevrolet-colorado-ltz-2016-4454368,Nhập khẩu
+2022-06-26 16:18:09.859985,bonbanh.com,Van/Minivan,Xe	Chevrolet Spark	Van 1.0 AT	2017	- 239 Triệu,Số tự động,04da735a-9cbe-4e94-acaf-d1dfd793d429,,"91,111 Km",Xám,Xăng	1.0 L,2 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-chevrolet-spark-van-1.0-at-2017-4443659,Nhập khẩu
+2022-06-26 16:18:09.896984,bonbanh.com,SUV,Xe	LandRover Range Rover Evoque	R-Dynamic S	2020	- 2 Tỷ 980 Triệu,Số tự động,ebc0d471-5f8d-4c69-81c1-dc24a3dc75cf,,"6,800 Km",Đỏ,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-landrover-range_rover_evoque-r-dynamic-s-2020-4376130,Nhập khẩu
+2022-06-26 16:18:09.927985,bonbanh.com,Van/Minivan,Xe	Chevrolet Spark	Van 1.0 AT	2011	- 145 Triệu,Số tự động,d40cb7b0-8e7d-4bdf-9984-cb5012df9729,,"70,000 Km",Trắng,Xăng	1.0 L,2 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-chevrolet-spark-van-1.0-at-2011-4427487,Nhập khẩu
+2022-06-26 16:18:09.968984,bonbanh.com,Sedan,Xe	BMW 3 Series	320i Sport Line	2021	- 1 Tỷ 899 Triệu,Số tự động,ea510162-64d0-422a-8ff3-145c770985a5,,0 Km,Xanh,Xăng	2.0 L,5 chỗ,4 cửa,Xe mới,https://bonbanh.com/xe-bmw-3_series-320i-sport-line-2021-4292849,Nhập khẩu
+2022-06-26 16:18:10.006002,bonbanh.com,Hatchback,Xe	Hyundai i10	1.2 AT	2022	- 425 Triệu,Số tự động,fc849f04-6f9e-48aa-a3d8-349d25ff19db,,0 Km,Trắng,Xăng	1.25 L,5 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-hyundai-i10-1.2-at-2022-4379337,Lắp ráp trong nước
+2022-06-26 16:18:10.054028,bonbanh.com,Sedan,Xe	Hyundai Accent	1.4 AT Đặc Biệt	2022	- 542 Triệu,Số tự động,ab54ea13-6976-4051-92f3-51bb3403f256,,0 Km,Trắng,Xăng	1.4 L,5 chỗ,4 cửa,Xe mới,https://bonbanh.com/xe-hyundai-accent-1.4-at-dac-biet-2022-4306775,Lắp ráp trong nước
+2022-06-26 16:18:10.069037,bonbanh.com,SUV,Xe	Toyota Corolla Cross	1.8V	2022	- 846 Triệu,Số tự động,33de2dba-f099-4975-844f-d03b3ba208a1,,0 Km,Đỏ,Xăng	1.8 L,5 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-toyota-corolla_cross-1.8v-2022-3356206,Nhập khẩu
+2022-06-26 16:18:10.132525,bonbanh.com,Bán tải / Pickup,Xe	Ford F150	Limited 3.5 V6	2020	- 4 Tỷ 400 Triệu,Số tự động,6112bb5f-d702-4cc9-9d09-6deb494e91d2,,0 Km,Trắng,Xăng	3.5 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-ford-f150-limited-3.5-v6-2020-4258702,Nhập khẩu
+2022-06-26 16:18:10.212560,bonbanh.com,SUV,Xe	Toyota Land Cruiser	4.5 MT	1999	- 320 Triệu,Số tay,c0b5426e-33b3-4a44-b279-b7a24407c26b,,0 Km,Vàng,Xăng	4.5 L,7 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-toyota-land_cruiser-4.5-mt-1999-4446061,Nhập khẩu
+2022-06-26 16:18:10.252591,bonbanh.com,Bán tải / Pickup,Xe	Mitsubishi Triton	Athlete 4x2 AT	2022	- 780 Triệu,Số tự động,6644507e-8ef0-439d-b6f3-45cc651ba78d,,0 Km,Trắng,Dầu	2.4 L,5 chỗ,4 cửa,Xe mới,https://bonbanh.com/xe-mitsubishi-triton-athlete-4x2-at-2022-4032846,Nhập khẩu
+2022-06-26 16:18:10.258592,bonbanh.com,Sedan,Xe	Toyota Camry	2.0G	2022	- 1 Tỷ 50 Triệu,Số tự động,b0ba8c4f-e8a7-439c-b45c-53f957090344,,0 Km,Đen,Xăng	2.0 L,5 chỗ,4 cửa,Xe mới,https://bonbanh.com/xe-toyota-camry-2.0g-2022-4260494,Nhập khẩu
+2022-06-26 16:18:10.284592,bonbanh.com,Sedan,Xe	Kia Cerato	2.0 AT Premium	2019	- 625 Triệu,Số tự động,eb218cdc-d652-42a8-a6cf-c4aa00a1d24a,,"28,000 Km",Đỏ,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-kia-cerato-2.0-at-premium-2019-4408840,Lắp ráp trong nước
+2022-06-26 16:18:10.317306,bonbanh.com,Crossover,Xe	Hyundai Kona	2.0 ATH	2019	- 625 Triệu,Số tự động,b7ccc8d5-fc92-4271-badf-6e5abd7b7305,,"42,000 Km",Đen,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-hyundai-kona-2.0-ath-2019-4420738,Lắp ráp trong nước
+2022-06-26 16:18:10.357314,bonbanh.com,Hatchback,Xe	Kia Morning	GT-Line	2022	- 424 Triệu,Số tự động,78b58b9a-2a18-427e-99d5-1a4a77a67b07,,0 Km,Trắng,Xăng	1.25 L,5 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-kia-morning-gt-line-2022-3520118,Lắp ráp trong nước
+2022-06-26 16:18:10.396332,bonbanh.com,SUV,Xe	Ford Escape	3.0 V6	2002	- 174 Triệu,Số tự động,e827e6ba-1ea5-4af8-b610-cd97b06fd658,,"160,000 Km",Bạc,Xăng	3.0 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-ford-escape-3.0-v6-2002-4366634,Lắp ráp trong nước
+2022-06-26 16:18:10.434350,bonbanh.com,Bán tải / Pickup,Xe	Ford Ranger	Wildtrak 2.0 L 4x4	2022	- 937 Triệu,Số tự động,44f5b688-e53d-4144-88bf-b276e732ee50,,0 Km,Cam,Dầu,5 chỗ,4 cửa,Xe mới,https://bonbanh.com/xe-ford-ranger-wildtrak-2.0-l-4x4-2022-4454164,Lắp ráp trong nước
+2022-06-26 16:18:10.471419,bonbanh.com,Bán tải / Pickup,Xe	Mazda BT50	Premium 1.9L 4x4 AT	2022	- 799 Triệu,Số tự động,990bc9c8-9483-48cc-bd18-81e1b5e268a2,,0 Km,Đen,Dầu	1.9 L,5 chỗ,4 cửa,Xe mới,https://bonbanh.com/xe-mazda-bt50-premium-1.9l-4x4-at-2022-3963107,Nhập khẩu
+2022-06-26 16:18:10.505421,bonbanh.com,SUV,Xe	Ford Everest	Titanium 2.0L 4x4 AT	2022	- 1 Tỷ 369 Triệu,Số tự động,ffca66bc-f52b-400e-92c2-47024d4d63aa,,0 Km,Vàng,Dầu	2.0 L,7 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-ford-everest-titanium-2.0l-4x4-at-2022-4303613,Nhập khẩu
+2022-06-26 16:18:10.536422,bonbanh.com,Sedan,Xe	Mercedes Benz E class	E200	2017	- 1 Tỷ 490 Triệu,Số tự động,c046d281-5a87-4499-ad59-0d6634755824,,0 Km,Đen,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-mercedes_benz-e_class-e200-2017-4159339,Lắp ráp trong nước
+2022-06-26 16:18:10.579445,bonbanh.com,Bán tải / Pickup,Xe	Ford Ranger	XLS 2.2L 4x2 AT	2016	- 555 Triệu,Số tự động,cab34e87-ce06-4912-9b37-e14db92af78d,,"80,000 Km",Cát,Dầu	2.2 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-ford-ranger-xls-2.2l-4x2-at-2016-4438080,Nhập khẩu
+2022-06-26 16:18:10.614447,bonbanh.com,Sedan,Xe	Mercedes Benz S class	S400L	2017	- 2 Tỷ 690 Triệu,Số tự động,19ea6fac-deb8-44e7-a5d6-3f2908831520,,"5,000 Km",Trắng,Xăng	3.0 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-mercedes_benz-s_class-s400l-2017-4320890,Lắp ráp trong nước
+2022-06-26 16:18:10.661488,bonbanh.com,Bán tải / Pickup,Xe	Chevrolet Colorado	LTZ 2.8L 4x4 AT	2017	- 575 Triệu,Số tự động,e5c375ad-58d9-4752-8bbd-abf21d4fd351,,"80,000 Km",Ghi,Dầu	2.8 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-chevrolet-colorado-ltz-2.8l-4x4-at-2017-4421539,Nhập khẩu
+2022-06-26 16:18:10.692487,bonbanh.com,Crossover,Xe	Toyota Innova	2.0E	2013	- 395 Triệu,Số tay,c430655e-53a3-4fd7-9639-02b080e64bee,,"100,000 Km",Bạc,Xăng	2.0 L,8 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-toyota-innova-2.0e-2013-4408694,Lắp ráp trong nước
+2022-06-26 16:18:10.723489,bonbanh.com,SUV,Xe	Mercedes Benz GLC	300 4Matic	2016	- 1 Tỷ 435 Triệu,Số tự động,faa1eafd-8b0a-4c61-847b-a0252c571c36,,0 Km,Đen,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-mercedes_benz-glc-300-4matic-2016-4328165,Lắp ráp trong nước
+2022-06-26 16:18:10.768545,bonbanh.com,Sedan,Xe	Mercedes Benz C class	C200	2017	- 1 Tỷ 75 Triệu,Số tự động,29810b05-0ac6-403f-b3a2-38fd0460bd7d,,0 Km,Xanh,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-mercedes_benz-c_class-c200-2017-4317575,Lắp ráp trong nước
+2022-06-26 16:18:10.797567,bonbanh.com,Crossover,Xe	Hyundai Tucson	2.0 ATH	2018	- 785 Triệu,Số tự động,2ce5575c-b295-48f5-ba87-de80c2871723,,"38,000 Km",Trắng,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-hyundai-tucson-2.0-ath-2018-4449648,Lắp ráp trong nước
+2022-06-26 16:18:10.848596,bonbanh.com,SUV,Xe	Nissan X trail	2.5 SV 4WD	2016	- 668 Triệu,Số tự động,8ecf2413-ace6-430b-8cad-0763217ce9e9,,"56,000 Km",Bạc,Xăng	2.5 L,7 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-nissan-x_trail-2.5-sv-4wd-2016-4355771,Lắp ráp trong nước
+2022-06-26 16:18:10.895548,bonbanh.com,Sedan,Xe	BMW 5 Series	520i Luxury	2022	- 2 Tỷ 499 Triệu,Số tự động,d386d48c-c7e7-4c2b-90d2-2ce9505be056,,0 Km,Trắng,Xăng	2.0 L,5 chỗ,4 cửa,Xe mới,https://bonbanh.com/xe-bmw-5_series-520i-luxury-2022-3918507,Nhập khẩu
+2022-06-26 16:18:10.907547,bonbanh.com,SUV,Xe	Mitsubishi Outlander	2.0 Premium	2020	- 858 Triệu,Số tự động,e3bdbc3d-1ca8-4575-9628-3f87bd4411b5,,"22,000 Km",Đỏ,Xăng,0 chỗ,0 cửa,Xe đã dùng,https://bonbanh.com/xe-mitsubishi-outlander-2.0-premium-2020-4453221,Lắp ráp trong nước
+2022-06-26 16:18:10.943502,bonbanh.com,Bán tải / Pickup,Xe	Mitsubishi Triton	4x2 AT	2022	- 755 Triệu,Số tự động,07efd1b3-a1c0-4b7a-80cd-e205c0b3d972,,0 Km,Trắng,Dầu	2.4 L,5 chỗ,4 cửa,Xe mới,https://bonbanh.com/xe-mitsubishi-triton-4x2-at-2022-4427199,Nhập khẩu
+2022-06-26 16:18:10.974504,bonbanh.com,Sedan,Xe	Lexus LS	460L	2007	- 1 Tỷ 10 Triệu,Số tự động,344112cd-469f-49a3-9896-1393d3b47be4,,0 Km,Đen,Xăng	4.6 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-lexus-ls-460l-2007-4408432,Nhập khẩu
+2022-06-26 16:18:11.023009,bonbanh.com,SUV,Xe	Jeep Wrangler	Rubicon 2.0 4x4 AT	2021	- 3 Tỷ 688 Triệu,Số tự động,e1fa11e1-4533-4ee1-bfea-50b922e1d9cb,,0 Km,Xanh,Xăng	2.0 L,5 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-jeep-wrangler-rubicon-2.0-4x4-at-2021-4315764,Nhập khẩu
+2022-06-26 16:18:11.055030,bonbanh.com,Bán tải / Pickup,Xe	Ford Ranger	Raptor 2.0L 4x4 AT	2022	- 1 Tỷ 188 Triệu,Số tự động,148d4f34-a14c-467f-bbd3-4f157c683ca4,,0 Km,Ghi,Dầu	2.0 L,5 chỗ,4 cửa,Xe mới,https://bonbanh.com/xe-ford-ranger-raptor-2.0l-4x4-at-2022-4292838,Nhập khẩu
+2022-06-26 16:18:11.091698,bonbanh.com,Sedan,Xe	Mercedes Benz C class	C200	2016	- 969 Triệu,Số tự động,2cf3e957-20d1-4eaa-a493-bb2b16c6cc66,,"43,000 Km",Đỏ,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-mercedes_benz-c_class-c200-2016-4315784,Lắp ráp trong nước
+2022-06-26 16:18:11.127748,bonbanh.com,SUV,Xe	Kia Sorento	Signature 2.2 AT AWD	2021	- 1 Tỷ 268 Triệu,Số tự động,849eeb97-ec32-4f23-9b8b-35d331ad6579,,"29,000 Km",Đỏ,Dầu	2.2 L,6 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-kia-sorento-signature-2.2-at-awd-2021-4440682,Lắp ráp trong nước
+2022-06-26 16:18:11.166926,bonbanh.com,Sedan,Xe	Mercedes Benz E class	E200	2011	- 560 Triệu,Số tự động,42776501-ff46-40d0-b293-6769ae05bab8,,"10,000 Km",Đen,Xăng	1.8 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-mercedes_benz-e_class-e200-2011-4310404,Lắp ráp trong nước
+2022-06-26 16:18:11.206942,bonbanh.com,SUV,Xe	Mercedes Benz GL	GL 500 4Matic	2014	- 2 Tỷ 780 Triệu,Số tự động,3636af60-68dd-4414-819d-121a8dcaf12b,,"42,000 Km",Nâu,Xăng	4.7 L,7 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-mercedes_benz-gl-gl-500-4matic-2014-4236828,Nhập khẩu
+2022-06-26 16:18:11.286943,bonbanh.com,SUV,Xe	Mazda CX8	Luxury	2020	- 990 Triệu,Số tự động,b0e0784e-8fca-4914-a462-e05d1e5582ab,,"42,000 Km",Đỏ,Xăng	2.5 L,7 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-mazda-cx8-luxury-2020-4385259,Lắp ráp trong nước
+2022-06-26 16:18:11.292942,bonbanh.com,Hatchback,Xe	Kia Rio	1.4 AT	2015	- 425 Triệu,Số tự động,ae048a03-4b9a-48ed-adce-4034a89c7f76,,"45,763 Km",Trắng,Xăng	1.4 L,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-kia-rio-1.4-at-2015-4432813,Nhập khẩu
+2022-06-26 16:18:11.314943,bonbanh.com,SUV,Xe	Toyota Fortuner	2.7V 4x4 AT	2020	- 1 Tỷ 148 Triệu,Số tự động,6c3d49e0-6fdb-4c6b-a74d-2a0b2f0737fe,,"22,000 Km",Đen,Xăng	2.7 L,7 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-toyota-fortuner-2.7v-4x4-at-2020-4403571,Nhập khẩu
+2022-06-26 16:18:11.347941,bonbanh.com,SUV,Xe	Lexus LX	570	2010	- 2 Tỷ 580 Triệu,Số tự động,a6ea4133-0f1b-45ed-a8c9-edfda1bfd5bc,,0 Km,Đen,Xăng	5.7 L,7 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-lexus-lx-570-2010-4406117,Nhập khẩu
+2022-06-26 16:18:11.389951,bonbanh.com,Sedan,Xe	Chevrolet Aveo	LTZ 1.4 AT	2018	- 298 Triệu,Số tự động,8999f246-713d-4ef7-a212-d070c78496bf,,"76,000 Km",Đen,Xăng	1.4 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-chevrolet-aveo-ltz-1.4-at-2018-4442756,Lắp ráp trong nước
+2022-06-26 16:18:11.406954,bonbanh.com,Sedan,Xe	Mercedes Benz E class	E300 AMG	2022	- 3 Tỷ 129 Triệu,Số tự động,aeed31e5-77ef-4785-a26c-197fdc6ddab3,,0 Km,Đen,Xăng	2.0 L,5 chỗ,4 cửa,Xe mới,https://bonbanh.com/xe-mercedes_benz-e_class-e300-amg-2022-3729345,Lắp ráp trong nước
+2022-06-26 16:18:11.454974,bonbanh.com,SUV,Xe	VinFast Lux SA 2.0	Cao cấp	2022	- 1 Tỷ 423 Triệu,Số tự động,638b12ad-1d69-4d08-a4f5-b5923c842460,,0 Km,Trắng,Xăng	2.0 L,7 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-vinfast-lux_sa_2.0-cao-cap-2022-4152242,Lắp ráp trong nước
+2022-06-26 16:18:11.491683,bonbanh.com,SUV,Xe	Ford EcoSport	Titanium 1.5 AT	2021	- 618 Triệu,Số tự động,273cf775-78bf-4661-bb6b-377d5b8b247b,,"17,000 Km",Trắng,Xăng	1.5 L,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-ford-ecosport-titanium-1.5-at-2021-4445342,Lắp ráp trong nước
+2022-06-26 16:18:11.528753,bonbanh.com,Van/Minivan,Xe	Ford Transit	Limousine	2022	- 950 Triệu,Số tay,7b94cb20-52b2-48d1-9c15-3310f987a42c,,0 Km,Bạc,Dầu	2.2 L,10 chỗ,4 cửa,Xe mới,https://bonbanh.com/xe-ford-transit-limousine-2022-4320746,Lắp ráp trong nước
+2022-06-26 16:18:11.561526,bonbanh.com,SUV,Xe	Ford Explorer	Limited 2.3L EcoBoost	2022	- 2 Tỷ 366 Triệu,Số tự động,93d20926-04e5-4667-af80-7232725e2755,,0 Km,Đỏ,Xăng	2.3 L,7 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-ford-explorer-limited-2.3l-ecoboost-2022-4374249,Nhập khẩu
+2022-06-26 16:18:11.601528,bonbanh.com,SUV,Xe	Toyota Corolla Cross	1.8HV	2022	- 936 Triệu,Số tự động,9c1faf3b-9261-4f85-85fa-40dfb5d6b399,,0 Km,Đen,Hybrid	1.8 L,5 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-toyota-corolla_cross-1.8hv-2022-4234067,Nhập khẩu
+2022-06-26 16:18:11.669526,bonbanh.com,Hatchback,Xe	Hyundai i10	Grand 1.2 AT	2019	- 388 Triệu,Số tự động,0f87cc2c-5f42-4c7c-9434-f9e53e24b72c,,"40,000 Km",Đỏ,Xăng	1.25 L,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-hyundai-i10-grand-1.2-at-2019-4432545,Lắp ráp trong nước
+2022-06-26 16:18:11.702530,bonbanh.com,Sedan,Xe	Toyota Corolla altis	G	2014	- 545 Triệu,Số tự động,76fff99a-164e-4b3d-96d0-e7f136457770,,"110,000 Km",Đen,Xăng,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-toyota-corolla_altis-g-2014-4452764,Lắp ráp trong nước
+2022-06-26 16:18:11.744528,bonbanh.com,Sedan,Xe	BMW 5 Series	520i	2012	- 698 Triệu,Số tự động,16afb062-873c-49c6-97e2-c580e91c69ae,,"110,000 Km",Vàng,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-bmw-5_series-520i-2012-4262734,Nhập khẩu
+2022-06-26 16:18:11.750529,bonbanh.com,SUV,Xe	Toyota Fortuner	2.7V 4x2 AT	2019	- 975 Triệu,Số tự động,482c0cfe-6c77-40da-8fae-9cbc7771a7cd,,"60,000 Km",Đen,Xăng	2.7 L,8 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-toyota-fortuner-2.7v-4x2-at-2019-4419219,Nhập khẩu
+2022-06-26 16:18:11.794526,bonbanh.com,Bán tải / Pickup,Xe	Ford Ranger	Wildtrak 3.2L 4x4 AT	2016	- 760 Triệu,Số tự động,39a5a138-37cb-458e-aca0-ceeacc9a85d7,,"87,000 Km",Cam,Dầu	3.2 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-ford-ranger-wildtrak-3.2l-4x4-at-2016-4450642,Nhập khẩu
+2022-06-26 16:18:11.814987,bonbanh.com,SUV,Xe	Toyota Corolla Cross	1.8 V	2020	- 889 Triệu,Số tự động,5a5459ae-e078-45b7-9510-005278975089,,"23,000 Km",Đỏ,Xăng,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-toyota-corolla_cross-1.8--v-2020-4454114,Nhập khẩu
+2022-06-26 16:18:11.885988,bonbanh.com,Sedan,Xe	Mercedes Benz E class	E200	2017	- 1 Tỷ 519 Triệu,Số tự động,d1a0e26e-a6f4-4c58-8bd8-65a28b3c95f7,,"31,000 Km",Đen,Xăng	2.0 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-mercedes_benz-e_class-e200-2017-4272334,Lắp ráp trong nước
+2022-06-26 16:18:11.893986,bonbanh.com,SUV,Xe	Lexus RX	450h	2010	- 1 Tỷ 280 Triệu,Số tự động,1a20e12e-8b03-4625-b19a-496f3f0b7a61,,"99,000 Km",Đen,Hybrid	3.5 L,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-lexus-rx-450h-2010-4408418,Nhập khẩu
+2022-06-26 16:18:11.929985,bonbanh.com,SUV,Xe	VinFast Lux SA 2.0	Plus 2.0 AT	2021	- 1 Tỷ 30 Triệu,Số tự động,c3c49ac9-de46-4824-ab46-5e0a124df33e,,"20,000 Km",Trắng,Xăng	2.0 L,7 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-vinfast-lux_sa_2.0-plus-2.0-at-2021-4426891,Lắp ráp trong nước
+2022-06-26 16:18:11.960986,bonbanh.com,Crossover,Xe	Hyundai Creta	Tiêu chuẩn 1.5 AT	2022	- 620 Triệu,Số tự động,8e06d786-76e7-4bb4-a4dd-1ccf645ee897,,0 Km,Trắng,Xăng	1.5 L,5 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-hyundai-creta-tieu-chuan-1.5-at-2022-4344162,Nhập khẩu
+2022-06-26 16:18:11.991985,bonbanh.com,SUV,Xe	Toyota Corolla Cross	1.8V	2022	- 846 Triệu,Số tự động,948c9326-56ef-4914-be00-da056b6b0563,,0 Km,Xanh,Xăng	1.8 L,5 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-toyota-corolla_cross-1.8v-2022-4244377,Nhập khẩu
+2022-06-26 16:18:12.023988,bonbanh.com,SUV,Xe	Mitsubishi Outlander	Premium 2.0 CVT	2022	- 950 Triệu,Số tự động,099e223c-eea3-4ea6-84c4-3c550e57abbb,,0 Km,Đỏ,Xăng	2.0 L,7 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-mitsubishi-outlander-premium-2.0-cvt-2022-4437141,Lắp ráp trong nước
+2022-06-26 16:18:12.087986,bonbanh.com,Crossover,Xe	Toyota Innova	G 2.0 AT	2022	- 870 Triệu,Số tự động,5be236b5-b073-4af9-bef9-82b949d0a7c1,,0 Km,Trắng,Xăng	2.0 L,8 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-toyota-innova-g-2.0-at-2022-3505258,Lắp ráp trong nước
+2022-06-26 16:18:12.116985,bonbanh.com,SUV,Xe	Toyota Fortuner	2.8V 4x4 AT	2019	- 1 Tỷ 157 Triệu,Số tự động,a0d29c25-19da-4cd8-afb5-630e9e8f8cbb,,"81,000 Km",Trắng,Dầu	2.8 L,8 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-toyota-fortuner-2.8v-4x4-at-2019-4422344,Nhập khẩu
+2022-06-26 16:18:12.148986,bonbanh.com,Bán tải / Pickup,Xe	Ford Ranger	Wildtrak 3.2L 4x4 AT	2016	- 765 Triệu,Số tự động,434c0101-1a5d-4f10-8e13-6cfa357f8f57,,"80,000 Km",Cam,Dầu	3.2 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-ford-ranger-wildtrak-3.2l-4x4-at-2016-4399318,Nhập khẩu
+2022-06-26 16:18:12.402744,bonbanh.com,Bán tải / Pickup,Xe	Ford Ranger	XLS 2.2L 4x2 AT	2022	- 635 Triệu,Số tự động,24753600-8ee0-41e3-ab20-0809ad8426fe,,0 Km,Đỏ,Dầu	2.2 L,5 chỗ,4 cửa,Xe mới,https://bonbanh.com/xe-ford-ranger-xls-2.2l-4x2-at-2022-3713928,Lắp ráp trong nước
+2022-06-26 16:18:12.442744,bonbanh.com,Sedan,Xe	Chevrolet Aveo	LT 1.5 MT	2015	- 230 Triệu,Số tay,66247c47-4cb6-4cdd-913d-f19896a18f8d,,"42,000 Km",Bạc,Xăng	1.5 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-chevrolet-aveo-lt-1.5-mt-2015-4415498,Lắp ráp trong nước
+2022-06-26 16:18:12.568479,bonbanh.com,Crossover,Xe	Kia Seltos	Premium 1.4 AT	2021	- 759 Triệu,Số tự động,ad95b279-7c8f-4cae-9507-307b20f39d22,,0 Km,Trắng,Xăng	1.4 L,5 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-kia-seltos-premium-1.4-at-2021-4068442,Lắp ráp trong nước
+2022-06-26 16:18:12.598480,bonbanh.com,Hatchback,Xe	Honda Brio	RS	2021	- 450 Triệu,Số tự động,8373fbdc-3325-44af-bb37-335502995400,,0 Km,Đỏ,Xăng	1.2 L,5 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-honda-brio-rs-2021-4161586,Nhập khẩu
+2022-06-26 16:18:12.660478,bonbanh.com,Sedan,Xe	BMW 5 Series	530i	2018	- 2 Tỷ 260 Triệu,Số tự động,ed600584-4d08-47c8-82a2-f0aa69dcfee0,,"1,990 Km",Đen,Xăng,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-bmw-5_series-530i-2018-4452674,Nhập khẩu
+2022-06-26 16:18:12.707479,bonbanh.com,SUV,Xe	Mercedes Benz G class	G63 AMG	2021	- 13 Tỷ 790 Triệu,Số tự động,c378e20f-5137-4e3d-bac1-5635bcd8fe1d,,"5,000 Km",Xám,Xăng	4.0 L,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-mercedes_benz-g_class-g63-amg-2021-4452749,Nhập khẩu
+2022-06-26 16:18:12.739478,bonbanh.com,SUV,Xe	Ford Everest	Titanium 2.0L 4x2 AT	2022	- 1 Tỷ 140 Triệu,Số tự động,a42f9554-1bae-4628-871d-9457cff539a5,,0 Km,Trắng,Dầu	2.0 L,7 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-ford-everest-titanium-2.0l-4x2-at-2022-4387953,Nhập khẩu
+2022-06-26 16:18:12.784477,bonbanh.com,Crossover,Xe	Hyundai Tucson	1.6 AT Turbo HTRAC Đặc biệt	2022	- 1 Tỷ 20 Triệu,Số tự động,f60bf804-9194-49d9-872c-c85e51273590,,0 Km,Xanh,Xăng	1.6 L,5 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-hyundai-tucson-1.6-at-turbo-htrac-dac-biet-2022-4198236,Lắp ráp trong nước
+2022-06-26 16:18:12.832477,bonbanh.com,Hatchback,Xe	Suzuki Swift	GLX 1.2 AT	2018	- 498 Triệu,Số tự động,841bd11d-230a-4573-8b57-b1f050c51058,,"20,000 Km",Xanh,Xăng	1.2 L,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-suzuki-swift-glx-1.2-at-2018-4442349,Nhập khẩu
+2022-06-26 16:18:12.959106,bonbanh.com,Sedan,Xe	Mercedes Benz S class	400	2014	- 2 Tỷ 50 Triệu,Số tự động,dcfcc02d-41cc-4b46-bf20-5c844e0c6497,,0 Km,Trắng,Xăng,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-mercedes_benz-s_class-400-2014-4454353,Lắp ráp trong nước
+2022-06-26 16:18:13.006615,bonbanh.com,Sedan,Xe	Mercedes Benz S class	S500L	2014	- 2 Tỷ 465 Triệu,Số tự động,3ad093b9-369e-4b51-b480-727f5d7a9133,,0 Km,Trắng,Xăng	4.7 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-mercedes_benz-s_class-s500l-2014-4279295,Lắp ráp trong nước
+2022-06-26 16:18:13.067713,bonbanh.com,Sedan,Xe	Nissan Sunny	XL	2018	- 315 Triệu,Số tay,da09cc42-bded-446b-8830-2be20f30fa3e,,"71,000 Km",Trắng,Xăng	1.5 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-nissan-sunny-xl-2018-4442181,Lắp ráp trong nước
+2022-06-26 16:18:13.100713,bonbanh.com,SUV,Xe	Mazda CX5	2.0 AT	2019	- 775 Triệu,Số tự động,3a001e0f-2320-4320-ada1-2f246668e870,,"20,000 Km",Đen,Xăng	2.0 L,5 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-mazda-cx5-2.0-at-2019-4369729,Lắp ráp trong nước
+2022-06-26 16:18:13.161713,bonbanh.com,Bán tải / Pickup,Xe	Toyota Hilux	2.8L 4x4 AT	2022	- 913 Triệu,Số tự động,c2a18775-8a7f-4458-86b5-53a9f79240cf,,0 Km,Cam,Dầu	2.8 L,5 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-toyota-hilux-2.8l-4x4-at-2022-4447318,Nhập khẩu
+2022-06-26 16:18:13.225286,bonbanh.com,Van/Minivan,Xe	Toyota Sienna	XLE 3.5	2011	- 1 Tỷ 250 Triệu,Số tự động,14baec8f-4072-4325-852e-87f3d551f467,,"46,713 Km",Ghi,Xăng	3.5 L,7 chỗ,5 cửa,Xe đã dùng,https://bonbanh.com/xe-toyota-sienna-xle-3.5-2011-4335894,Nhập khẩu
+2022-06-26 16:18:13.303342,bonbanh.com,Sedan,Xe	Toyota Camry	2.5Q	2019	- 1 Tỷ 140 Triệu,Số tự động,db1181ea-b2a2-4366-94cd-50ac2ce59737,,"22,000 Km",Đen,Xăng	2.5 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-toyota-camry-2.5q-2019-4440637,Nhập khẩu
+2022-06-26 16:18:13.365374,bonbanh.com,Sedan,Xe	Hyundai Elantra	1.6 MT	2021	- 570 Triệu,Số tay,c973b750-6883-42cd-a74e-3d4232ec1e12,,0 Km,Trắng,Xăng	1.6 L,5 chỗ,4 cửa,Xe mới,https://bonbanh.com/xe-hyundai-elantra-1.6-mt-2021-4033424,Lắp ráp trong nước
+2022-06-26 16:18:13.411396,bonbanh.com,Crossover,Xe	Kia Sonet	Deluxe 1.5 AT	2022	- 554 Triệu,Số tự động,f17762d1-95d1-4692-b0f8-d7786a8ee80a,,0 Km,Đỏ,Xăng	1.5 L,5 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-kia-sonet-deluxe-1.5-at-2022-4256484,Lắp ráp trong nước
+2022-06-26 16:18:13.507676,bonbanh.com,Sedan,Xe	Mazda 2	1.5 AT	2015	- 410 Triệu,Số tự động,e6f95580-a53c-4dee-896c-9ef08335e9c3,,"38,000 Km",Ghi,Xăng	1.5 L,5 chỗ,4 cửa,Xe đã dùng,https://bonbanh.com/xe-mazda-2-1.5-at-2015-4429048,Lắp ráp trong nước
+2022-06-26 16:18:13.513678,bonbanh.com,Crossover,Xe	Honda HRV	RS	2022	- 871 Triệu,Số tự động,b7dd9d1d-75e2-411c-9646-36b4409b4a5c,,0 Km,Đen,Xăng	1.5 L,5 chỗ,5 cửa,Xe mới,https://bonbanh.com/xe-honda-hrv-rs-2022-4439641,Nhập khẩu

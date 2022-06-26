@@ -19,10 +19,8 @@ class MediatedOtoItem:
     so_cua: Optional[str]
     so_cho_ngoi: Optional[int]
     nhien_lieu: Optional[str]
-    he_thong_nap_nhien_lieu: Optional[str]
     hop_so: Optional[str]
     dan_dong: Optional[str]
-    tieu_thu_nhien_lieu: Optional[str]
     dung_tich_xi_lanh: Optional[str]
 
     # Tiền xử lý tạm thời ở đây.

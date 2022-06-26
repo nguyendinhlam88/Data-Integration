@@ -1,7 +1,8 @@
 import scrapy
 from pkg_resources import yield_lines
 from ..items import CarmudiItem
-
+from datetime import datetime
+import uuid
 
 class CarmudiSpider(scrapy.Spider):
     name = 'carmudi'
@@ -17,6 +18,10 @@ class CarmudiSpider(scrapy.Spider):
 
     def parse_ad(self, response):
         item = CarmudiItem()
+        item['id'] = str(uuid.uuid4())
+        item['url'] = response.url
+        item['crawled_date'] = datetime.now()
+        item['domain'] = self.allowed_domains[0]
         item['gia'] = response.xpath('//div[@class="price-tag"]/@data-price').get()
         item['dong_xe'] = response.xpath(
             '//*[contains(concat( " ", @class, " " ), concat( " ", "feature-item", " " )) and (((count(preceding-sibling::*) + 1) = 2) and parent::*)]//span/text()').extract()[
