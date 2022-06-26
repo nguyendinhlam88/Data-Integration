@@ -35,7 +35,7 @@ class BonbanhSpider(scrapy.Spider):
         item['hop_so'] = info[10].xpath('.//text()').extract_first()
 
         next_page = 'https://bonbanh.com/oto/page,' + str(BonbanhSpider.page_number)
-        if BonbanhSpider.page_number <= 15:
+        if BonbanhSpider.page_number <= 5000:
             BonbanhSpider.page_number += 1
             yield response.follow(next_page, callback=self.parse)
         yield item
