@@ -1,7 +1,7 @@
 import scrapy
 from ..items import ChototItem
-
-
+from datetime import datetime
+import uuid
 class ChototSpider(scrapy.Spider):
     name = 'chotot'
     page_number = 2
@@ -20,6 +20,10 @@ class ChototSpider(scrapy.Spider):
 
     def parse_ad(self, response):
         item = ChototItem()
+        item['id'] = str(uuid.uuid4())
+        item['domain'] = self.allowed_domains[0]
+        item['crawled_date'] = datetime.now()
+        item['url'] = response.url
         item['gia'] = response.xpath('//span[contains(@itemprop, "price")]/text()').extract_first().replace(' đ', '')
         item['hang'] = response.xpath('//span[contains(@itemprop, "carbrand")]/text()').extract_first()
         item['dong_xe'] = response.xpath('//span[contains(@itemprop, "carmodel")]/text()').extract_first()
@@ -33,7 +37,7 @@ class ChototSpider(scrapy.Spider):
         item['so_cho_ngoi'] = response.xpath('//span[contains(@itemprop, "carseat")]/text()').extract_first()
 
         next_page = 'https://xe.chotot.com/mua-ban-oto?page=' + str(ChototSpider.page_number)
-        if ChototSpider.page_number <= 10000:
+        if ChototSpider.page_number <= 15:
             ChototSpider.page_number += 1
             yield response.follow(url=next_page, callback=self.parse)
         yield item
