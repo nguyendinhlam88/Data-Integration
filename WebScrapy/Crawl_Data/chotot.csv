@@ -1,534 +1,281 @@
-dong_xe,gia,hang,hop_so,kieu_dang,km_da_di,nam_sx,nhien_lieu,so_cho_ngoi,tinh_trang,xuat_xu
-Accent,118.000.000,Hyundai,Tự động,Sedan,,2022,Xăng,5,Mới,Hàn Quốc
-Grand i10,345.000.000,Hyundai,Tự động,Hatchback,73000,2016,Xăng,5,Đã sử dụng,Ấn Độ
-Crown,52.000.000,Toyota,Tự động,,1234,1982,Xăng,,Đã sử dụng,
-ES,1.892.000.000,Lexus,Tự động,Sedan,30000,2018,Xăng,5,Đã sử dụng,
-Lux,730.000.000,Vinfast,Tự động,Sedan,,2022,Xăng,5,Mới,Việt Nam
-Transit,595.000.000,Ford,Số sàn,Minivan (MPV),78000,2017,Dầu,10,Đã sử dụng,Việt Nam
-Ranger,815.000.000,Ford,Tự động,Pick-up (bán tải),56899,2017,Dầu,5,Đã sử dụng,
-Camry,1.005.000.000,Toyota,Tự động,Sedan,56000,2020,Xăng,5,Đã sử dụng,Thái Lan
-Corolla Cross,746.000.000,Toyota,Tự động,SUV / Cross over,,2022,Xăng,5,Đã sử dụng,Thái Lan
-GL Class,750.000.000,Mercedes Benz,Tự động,SUV / Cross over,78000,2009,Xăng,7,Đã sử dụng,Đức
-City,415.000.000,Honda,Tự động,Sedan,70000,2016,Xăng,5,Đã sử dụng,
-BT 50,655.000.000,Mazda,Tự động,SUV / Cross over,1,2021,Dầu,5,Đã sử dụng,Nước khác
-X5,2.260.000.000,BMW,Tự động,SUV / Cross over,60000,2016,Xăng,7,Đã sử dụng,Đức
-CR V,735.000.000,Honda,Tự động,SUV / Cross over,30000,2016,Xăng,5,Đã sử dụng,
-Rondo,545.000.000,Kia,Tự động,Minivan (MPV),60000,2016,Dầu,7,Đã sử dụng,Việt Nam
-Escape,188.000.000,Ford,Tự động,SUV / Cross over,100000,2004,Xăng,5,Đã sử dụng,Việt Nam
-Lux,920.000.000,Vinfast,Tự động,Sedan,21000,2019,Xăng,5,Đã sử dụng,Việt Nam
-Civic,710.000.000,Honda,Tự động,,,2022,Xăng,,Mới,
-3,669.000.000,Mazda,Tự động,,,2022,Xăng,5,Mới,Việt Nam
-VFe34,590.000.000,Vinfast,Tự động,SUV / Cross over,,2022,Điện,5,Mới,Việt Nam
-Dòng khác,160.000.000,BMW,Tự động,Sedan,150000,2003,Xăng,5,Đã sử dụng,Đức
-Insight,399.000.000,Honda,Tự động,Hatchback,115000,2009,Động cơ Hybrid,4,Đã sử dụng,Nhật Bản
-Hi lander,220.000.000,Isuzu,Tự động,Sedan,20000,2007,Dầu,8,Đã sử dụng,Nhật Bản
-3,635.000.000,Mazda,Tự động,Sedan,,2022,Xăng,5,Mới,Nhật Bản
-Fortuner,1.020.000.000,Toyota,Tự động,SUV / Cross over,30000,2019,Dầu,7,Đã sử dụng,
-Morning,245.000.000,Kia,Tự động,,900000,2010,Xăng,5,Đã sử dụng,Hàn Quốc
-Ranger,550.000.000,Ford,Tự động,Pick-up (bán tải),130000,2014,Dầu,5,Đã sử dụng,
-Doblo,102.000.000,Fiat,Tự động,,160000,2004,Xăng,,Đã sử dụng,Nước khác
-Lux,1.099.000.000,Vinfast,Tự động,SUV / Cross over,20000,2020,Xăng,5,Đã sử dụng,Việt Nam
-Hilux,770.000.000,Toyota,Tự động,Pick-up (bán tải),9000,2021,Dầu,5,Đã sử dụng,Thái Lan
-C Class,1.620.000.000,Mercedes Benz,Tự động,Sedan,7500,2022,Xăng,5,Đã sử dụng,Nhật Bản
-Dòng khác,260.000.000,Volvo,Tự động,Sedan,100000,2000,Xăng,5,Đã sử dụng,Nước khác
-City,490.000.000,Honda,Tự động,Sedan,31000,2019,Xăng,5,Đã sử dụng,Việt Nam
-3,480.000.000,Mazda,Tự động,Hatchback,60000,2016,Xăng,5,Đã sử dụng,Việt Nam
-6,940.000.000,Mazda,Tự động,,15000,2021,Xăng,,Đã sử dụng,
-Spark,224.000.000,Chevrolet,Tự động,Hatchback,82000,2013,Xăng,5,Đã sử dụng,Việt Nam
-Accent,296.000.000,Hyundai,Số sàn,Sedan,90000,2012,Xăng,5,Đã sử dụng,
-E Class,2.470.000.000,Mercedes Benz,Tự động,,,2022,Xăng,,Mới,
-Vios,525.000.000,Toyota,Tự động,Sedan,38000,2019,Xăng,5,Đã sử dụng,Việt Nam
-3,385.000.000,Mazda,Tự động,Sedan,68000,2013,Xăng,5,Đã sử dụng,Việt Nam
-Fortuner,490.000.000,Toyota,Tự động,SUV / Cross over,100000,2013,Xăng,7,Đã sử dụng,Việt Nam
-Mondeo,300.000.000,Ford,Tự động,,26000,2005,Xăng,,Đã sử dụng,
-Xpander,565.000.000,Mitsubishi,Tự động,Minivan (MPV),40000,2019,Xăng,5,Đã sử dụng,Nhật Bản
-Captiva,335.000.000,Chevrolet,Tự động,SUV / Cross over,65000,2009,Xăng,7,Đã sử dụng,Mỹ
-Focus,588.000.000,Ford,Tự động,Sedan,68000,2018,Xăng,5,Đã sử dụng,Việt Nam
-Elantra,676.000.000,Hyundai,Tự động,Sedan,22000,2020,Xăng,5,Đã sử dụng,Việt Nam
-Transit,815.000.000,Ford,Số sàn,,,2021,,,Mới,
-Santa Fe,1.450.000.000,Hyundai,Tự động,SUV / Cross over,9000,2021,Dầu,7,Đã sử dụng,Việt Nam
-Lux,881.695.000,Vinfast,Tự động,,,2022,Xăng,5,Mới,Việt Nam
-Lux,999.000.000,Vinfast,Tự động,SUV / Cross over,50000,2019,Xăng,5,Đã sử dụng,Việt Nam
-107,30.000.000,Peugeot,Số sàn,Sedan,137888,1990,Xăng,4,Đã sử dụng,Nước khác
-GLC,1.685.000.000,Mercedes Benz,Tự động,SUV / Cross over,36000,2018,Xăng,5,Đã sử dụng,
-3 Series,688.000.000,BMW,Tự động,Sedan,80000,2014,Xăng,5,Đã sử dụng,Đức
-C Class,1.049.000.000,Mercedes Benz,Tự động,Sedan,60000,2016,Xăng,5,Đã sử dụng,Việt Nam
-Macan,3.990.000.000,Porsche,Tự động,SUV / Cross over,5000,2022,Xăng,5,Đã sử dụng,
-Carnival,1.200.000.000,Kia,Tự động,,10000,2021,Xăng,,Đã sử dụng,
-Tucson,720.000.000,Hyundai,Tự động,SUV / Cross over,50000,2016,Xăng,5,Đã sử dụng,Hàn Quốc
-Zinger,209.000.000,Mitsubishi,Số sàn,SUV / Cross over,130000,2009,Xăng,8,Đã sử dụng,
-Fortuner,1.199.000.000,Toyota,Tự động,SUV / Cross over,5800,2022,Dầu,7,Đã sử dụng,Việt Nam
-GS,718.000.000,Lexus,Tự động,,93,2008,Xăng,,Đã sử dụng,
-Focus,152.000.000,Ford,Số sàn,Sedan,140000,2005,Xăng,5,Đã sử dụng,Việt Nam
-3,599.000.000,Mazda,Tự động,Sedan,18000,2019,Xăng,5,Đã sử dụng,Việt Nam
-GLE Class,3.099.000.000,Mercedes Benz,Tự động,SUV / Cross over,42000,2017,Xăng,5,Đã sử dụng,Mỹ
-Accord,47.000.000,Honda,Số sàn,,180000,1988,Xăng,,Đã sử dụng,
-Escape,295.000.000,Ford,Tự động,SUV / Cross over,130000,2009,Xăng,5,Đã sử dụng,
-Ranger,865.000.000,Ford,Tự động,Pick-up (bán tải),20,2021,Dầu,5,Đã sử dụng,Thái Lan
-3 Series,188.000.000,BMW,Tự động,Sedan,8888,2003,Xăng,5,Đã sử dụng,
-Corolla Altis,719.000.000,Toyota,Tự động,Sedan,,2022,Xăng,5,Mới,Thái Lan
-Hilux,775.000.000,Toyota,Tự động,Pick-up (bán tải),8000,2021,Dầu,,Đã sử dụng,Thái Lan
-CR V,995.000.000,Honda,5,SUV / Cross over,7000,2021,Xăng,7,Đã sử dụng,
-Tucson,785.000.000,Hyundai,Tự động,SUV / Cross over,38000,2018,Xăng,5,Đã sử dụng,
-Vios,545.000.000,Toyota,Tự động,,10000,2021,Xăng,,Đã sử dụng,
-Grand i10,179.000.000,Hyundai,Tự động,Hatchback,172,2011,Xăng,5,Đã sử dụng,Ấn Độ
-Q7,2.000.000.000,Audi,Tự động,SUV / Cross over,58000,2017,Xăng,7,Đã sử dụng,Đức
-Escape,335.000.000,Ford,Tự động,SUV / Cross over,89895,2010,Xăng,5,Đã sử dụng,Mỹ
-Santa Fe,455.000.000,Hyundai,Tự động,SUV / Cross over,91000,2010,Xăng,7,Đã sử dụng,Hàn Quốc
-CX 3,210.000.000,Mazda,Tự động,SUV / Cross over,,2021,Xăng,5,Mới,Thái Lan
-CX 5,588.000.000,Mazda,Tự động,SUV / Cross over,68000,2015,Xăng,5,Đã sử dụng,Việt Nam
-CX 5,839.000.000,Mazda,Tự động,SUV / Cross over,,2022,Xăng,5,Mới,Việt Nam
-Veracruz,270.000.000,Hyundai,Tự động,SUV / Cross over,180000,2007,Xăng,7,Đã sử dụng,Hàn Quốc
-Ranger,595.000.000,Ford,Tự động,Pick-up (bán tải),69000,2017,Dầu,5,Đã sử dụng,Thái Lan
-Q7,850.000.000,Audi,Tự động,,79000,2009,Xăng,,Đã sử dụng,
-Fortuner,505.000.000,Toyota,Tự động,,86000,2013,Xăng,,Đã sử dụng,
-Ranger,555.000.000,Ford,Số sàn,Pick-up (bán tải),75000,2015,Dầu,5,Đã sử dụng,Thái Lan
-Ranger,823.000.000,Ford,Tự động,Pick-up (bán tải),51000,2017,Dầu,5,Đã sử dụng,Thái Lan
-Lacetti,230.000.000,Daewoo,Số sàn,Sedan,90000,2010,Xăng,5,Đã sử dụng,Hàn Quốc
-Starex,132.000.000,Hyundai,Số sàn,Van,80000,2004,Dầu,6,Đã sử dụng,Hàn Quốc
-Ranger,695.000.000,Ford,Tự động,,44500,2020,Dầu,,Đã sử dụng,
-City,575.000.000,Honda,Tự động,Sedan,40000,2021,Xăng,5,Đã sử dụng,Việt Nam
-6,826.000.000,Mazda,Tự động,Sedan,16000,2020,Xăng,5,Đã sử dụng,Nước khác
-Corolla Altis,615.000.000,Toyota,Số sàn,,17000,2020,Xăng,,Đã sử dụng,
-Elantra,425.000.000,Hyundai,Tự động,Sedan,900000,2013,Xăng,5,Đã sử dụng,Hàn Quốc
-C Class,1.049.000.000,Mercedes Benz,Tự động,Sedan,60000,2016,Xăng,5,Đã sử dụng,Việt Nam
-Yaris,350.000.000,Toyota,Tự động,Hatchback,85000,2011,Xăng,5,Đã sử dụng,Nhật Bản
-Captiva,545.000.000,Chevrolet,Tự động,SUV / Cross over,52000,2016,Xăng,7,Đã sử dụng,
-Everest,1.193.000.000,Ford,Tự động,SUV / Cross over,,2022,Xăng,7,Mới,Thái Lan
-CR V,930.000.000,Honda,Tự động,,26000,2018,Xăng,,Đã sử dụng,
-E Class,850.000.000,Mercedes Benz,Tự động,Sedan,83456,2014,Xăng,5,Đã sử dụng,Việt Nam
-Rush,570.000.000,Toyota,Tự động,Minivan (MPV),50000,2018,Xăng,7,Đã sử dụng,
-3,550.000.000,Mazda,Tự động,Sedan,42000,2017,Xăng,5,Đã sử dụng,
-Camry,255.000.000,Toyota,Tự động,Sedan,115000,2003,Xăng,5,Đã sử dụng,Nhật Bản
-Zinger,275.000.000,Mitsubishi,Tự động,SUV / Cross over,110000,2010,Xăng,7,Đã sử dụng,Việt Nam
-3,639.000.000,Mazda,Tự động,,30000,2020,Xăng,,Đã sử dụng,
-5 Series,880.000.000,BMW,Tự động,,100000,2015,Xăng,,Đã sử dụng,
-i20,430.000.000,Hyundai,Tự động,,50000,2015,Xăng,,Đã sử dụng,
-Fortuner,1.115.000.000,Toyota,Tự động,,,2022,Dầu,7,Đã sử dụng,Việt Nam
-Tucson,895.000.000,Hyundai,Tự động,SUV / Cross over,13000,2021,Xăng,5,Đã sử dụng,Hàn Quốc
-Vios,445.000.000,Toyota,Tự động,,50000,2018,Xăng,,Đã sử dụng,
-Innova,370.000.000,Toyota,Số sàn,Sedan,98000,2014,Xăng,8,Đã sử dụng,Việt Nam
-GLK Class,920.000.000,Mercedes Benz,Tự động,SUV / Cross over,100000,2014,Xăng,5,Đã sử dụng,
-Lux,799.000.000,Vinfast,Tự động,Sedan,7000,2021,Xăng,5,Đã sử dụng,Việt Nam
-Rondo,476.000.000,Kia,Tự động,Minivan (MPV),101000,2016,Xăng,7,Đã sử dụng,Việt Nam
-HS,805.000.000,MG,Tự động,SUV / Cross over,800,2021,Xăng,7,Đã sử dụng,Trung Quốc
-Sonet,499.000.000,Kia,Tự động,,,2022,Xăng,,Mới,
-Navara,385.000.000,Nissan,Tự động,Pick-up (bán tải),150000,2012,Dầu,5,Đã sử dụng,Việt Nam
-Grand i10,350.000.000,Hyundai,Tự động,Hatchback,50000,2015,Xăng,5,Đã sử dụng,Hàn Quốc
-Rondo,520.000.000,Kia,Tự động,Minivan (MPV),88888,2016,Dầu,7,Đã sử dụng,Hàn Quốc
-Santa Fe,1.028.000.000,Hyundai,Tự động,SUV / Cross over,7000,2021,Xăng,7,Đã sử dụng,
-Q7,1.379.000.000,Audi,Tự động,SUV / Cross over,39000,2014,Xăng,7,Đã sử dụng,Đức
-Explorer,1.450.000.000,Ford,Tự động,SUV / Cross over,56000,2017,Xăng,8,Đã sử dụng,Mỹ
-6,860.000.000,Mazda,Tự động,Sedan,15000,2020,Xăng,5,Đã sử dụng,Nước khác
-Elantra,599.000.000,Hyundai,Tự động,,50000,2018,Xăng,,Đã sử dụng,
-3008,1.100.000.000,Peugeot,Tự động,SUV / Cross over,,2022,Xăng,5,Mới,Việt Nam
-Everest,1.165.000.000,Ford,Tự động,SUV / Cross over,18000,2021,Dầu,7,Đã sử dụng,Thái Lan
-CR V,1.048.000.000,Honda,Tự động,,,2022,Xăng,,Mới,
-Everest,179.000.000,Ford,Số sàn,,120000,2005,Xăng,,Đã sử dụng,
-RX,1.230.000.000,Lexus,Tự động,SUV / Cross over,100000,2010,Xăng,5,Đã sử dụng,Nhật Bản
-C Class,1.450.000.000,Mercedes Benz,Tự động,Sedan,800,2020,Xăng,5,Đã sử dụng,Việt Nam
-C Class,975.000.000,Mercedes Benz,Tự động,Sedan,55555,2015,Xăng,5,Đã sử dụng,Việt Nam
-Fortuner,575.000.000,Toyota,Tự động,SUV / Cross over,83000,2013,Xăng,7,Đã sử dụng,
-Ranger,835.000.000,Ford,Tự động,Pick-up (bán tải),48800,2018,Dầu,5,Đã sử dụng,Thái Lan
-Grand i10,223.000.000,Hyundai,Tự động,Hatchback,46149,2011,Xăng,5,Đã sử dụng,Ấn Độ
-Camry,695.000.000,Toyota,Tự động,Sedan,80,2014,Xăng,5,Đã sử dụng,
-C Class,930.000.000,Mercedes Benz,Tự động,Sedan,100000,2014,Xăng,5,Đã sử dụng,Đức
-Vios,479.000.000,Toyota,Tự động,,46000,2019,Xăng,,Đã sử dụng,
-Sedona,1.038.000.000,Kia,Tự động,,22000,2020,Dầu,7,Đã sử dụng,
-Fortuner,1.160.000.000,Toyota,Tự động,SUV / Cross over,20000,2021,Dầu,7,Đã sử dụng,Việt Nam
-Xpander,648.000.000,Mitsubishi,Tự động,SUV / Cross over,,2022,Xăng,7,Mới,Nước khác
-Accent,468.000.000,Hyundai,Tự động,Sedan,26,2018,Xăng,5,Đã sử dụng,
-Spark,178.000.000,Chevrolet,Số sàn,,38560,2018,Xăng,,Đã sử dụng,Việt Nam
-Ranger,662.000.000,Ford,Tự động,Pick-up (bán tải),,2022,Dầu,5,Mới,Việt Nam
-Panamera,1.450.000.000,Porsche,Tự động,Sedan,58000,2010,Xăng,4,Đã sử dụng,Đức
-C Class,1.395.000.000,Mercedes Benz,Tự động,Sedan,30000,2018,Xăng,5,Đã sử dụng,Việt Nam
-3,719.000.000,Mazda,Tự động,,3000,2021,Xăng,,Đã sử dụng,
-Ranger,617.000.000,Ford,Số sàn,Pick-up (bán tải),,2022,Dầu,5,Mới,Việt Nam
-Aveo,268.000.000,Chevrolet,Tự động,Sedan,60000,2016,Xăng,5,Đã sử dụng,Việt Nam
-Getz,149.000.000,Hyundai,Số sàn,,170000,2009,Xăng,,Đã sử dụng,
-Jolie,125.000.000,Mitsubishi,Số sàn,SUV / Cross over,21421,2004,Xăng,7,Đã sử dụng,Nhật Bản
-406,550.000.000,Peugeot,Tự động,Sedan,234000,2016,Xăng,5,Đã sử dụng,Mỹ
-Escape,165.000.000,Ford,Tự động,SUV / Cross over,150000,2003,Xăng,5,Đã sử dụng,Việt Nam
-Cruze,258.000.000,Chevrolet,Số sàn,,92600,2011,Xăng,5,Đã sử dụng,Việt Nam
-Morning,155.000.000,Kia,Số sàn,Hatchback,200000,2016,Xăng,5,Đã sử dụng,
-Innova,325.000.000,Toyota,Tự động,Minivan (MPV),120000,2009,Xăng,8,Đã sử dụng,Việt Nam
-Fortuner,975.000.000,Toyota,Tự động,SUV / Cross over,60000,2019,Dầu,7,Đã sử dụng,Việt Nam
-Ranger,515.000.000,Ford,Số sàn,Pick-up (bán tải),69123,2016,Dầu,5,Đã sử dụng,Thái Lan
-Camry,575.000.000,Toyota,Tự động,Sedan,3000,2013,Xăng,5,Đã sử dụng,
-Cerato,420.000.000,Kia,Số sàn,,678500,2018,Xăng,,Đã sử dụng,
-City,485.000.000,Honda,Tự động,Sedan,52000,2019,Xăng,5,Đã sử dụng,
-Carens,392.000.000,Kia,Tự động,SUV / Cross over,38000,2013,Xăng,7,Đã sử dụng,Việt Nam
-Yaris,425.000.000,Toyota,Tự động,,70000,2015,Xăng,,Đã sử dụng,
-Magnus,148.000.000,Daewoo,Tự động,Sedan,98000,2005,Xăng,5,Đã sử dụng,Việt Nam
-VFe34,590.000.000,Vinfast,Tự động,SUV / Cross over,,2022,Điện,5,Mới,Việt Nam
-Fortuner,610.000.000,Toyota,Tự động,SUV / Cross over,28000,2015,Xăng,7,Đã sử dụng,Việt Nam
-VFe34,590.000.000,Vinfast,Tự động,SUV / Cross over,,2022,Điện,5,Mới,Việt Nam
-Ranger,599.000.000,Ford,Tự động,Pick-up (bán tải),70000,2018,Dầu,5,Đã sử dụng,Thái Lan
-Civic,320.000.000,Honda,Tự động,,140000,2008,Xăng,,Đã sử dụng,
-Ranger,775.000.000,Ford,Tự động,Pick-up (bán tải),66000,2016,Dầu,5,Đã sử dụng,Thái Lan
-Morning,178.000.000,Kia,Số sàn,Hatchback,102361,2011,Xăng,5,Đã sử dụng,Hàn Quốc
-Wigo,258.000.000,Toyota,Số sàn,Hatchback,9999,2018,Xăng,5,Đã sử dụng,Nước khác
-C Class,1.359.000.000,Mercedes Benz,Tự động,Sedan,40000,2017,Xăng,5,Đã sử dụng,
-3,350.000.000,Mazda,Tự động,,58000,2011,Xăng,,Đã sử dụng,
-Innova,640.000.000,Toyota,Tự động,Minivan (MPV),110000,2017,Xăng,8,Đã sử dụng,Việt Nam
-Santa Fe,1.129.000.000,Hyundai,Tự động,SUV / Cross over,18000,2020,Xăng,5,Đã sử dụng,Việt Nam
-Fortuner,720.000.000,Toyota,Số sàn,SUV / Cross over,166000,2016,Dầu,7,Đã sử dụng,Việt Nam
-Vios,523.000.000,Toyota,Tự động,Sedan,34000,2019,Xăng,5,Đã sử dụng,Việt Nam
-Elantra,545.000.000,Hyundai,Tự động,Sedan,30000,2019,Xăng,5,Đã sử dụng,Việt Nam
-Cerato,348.000.000,Kia,Tự động,Sedan,12700,2009,Xăng,5,Đã sử dụng,
-Grand Starex,960.000.000,Hyundai,Tự động,SUV / Cross over,50000,2017,Xăng,9,Đã sử dụng,Hàn Quốc
-C Class,1.025.000.000,Mercedes Benz,Tự động,Sedan,40000,2016,Xăng,5,Đã sử dụng,
-Sedona,1.155.000.000,Kia,Tự động,SUV / Cross over,28000,2021,Xăng,7,Đã sử dụng,Việt Nam
-ES,2.550.000.000,Lexus,Tự động,Sedan,,2022,Xăng,5,Mới,Nhật Bản
-Ranger,789.000.000,Ford,Tự động,Pick-up (bán tải),127000,2018,Dầu,5,Đã sử dụng,
-C Class,999.000.000,Mercedes Benz,Tự động,Sedan,40000,2016,Xăng,5,Đã sử dụng,
-Ranger,485.000.000,Ford,Tự động,Pick-up (bán tải),85000,2013,Xăng,5,Đã sử dụng,Thái Lan
-CX 5,695.000.000,Mazda,Tự động,SUV / Cross over,51000,2017,Xăng,5,Đã sử dụng,
-Land Cruiser,4.850.000.000,Toyota,Tự động,,35000,2019,Xăng,,Đã sử dụng,
-CX 5,935.000.000,Mazda,Tự động,SUV / Cross over,52996,2019,Xăng,5,Đã sử dụng,
-Triton,650.000.000,Mitsubishi,Tự động,Pick-up (bán tải),,2022,Xăng,5,Mới,Thái Lan
-City,445.000.000,Honda,Tự động,Sedan,56000,2017,Xăng,5,Đã sử dụng,Việt Nam
-Ranger,795.000.000,Ford,Tự động,Pick-up (bán tải),46000,2019,Dầu,5,Đã sử dụng,Thái Lan
-Ranger,829.000.000,Ford,Tự động,Pick-up (bán tải),31000,2020,Dầu,5,Đã sử dụng,Thái Lan
-Santa Fe,1.559.000.000,Hyundai,Tự động,SUV / Cross over,8000,2022,Dầu,7,Đã sử dụng,Việt Nam
-K5,965.000.000,Kia,Tự động,Sedan,10000,2022,Xăng,5,Đã sử dụng,
-LX,9.900.000.000,Lexus,Tự động,,10000,2021,Xăng,,Đã sử dụng,
-Dòng khác,2.470.000.000,Hãng khác,Tự động,,,2022,Xăng,,Mới,
-RX,4.030.000.000,Lexus,Tự động,SUV / Cross over,18000,2020,Xăng,8,Đã sử dụng,Nhật Bản
-C Class,1.595.000.000,Mercedes Benz,Tự động,Sedan,40000,2019,Xăng,5,Đã sử dụng,Việt Nam
-Ranger,765.000.000,Ford,Tự động,Pick-up (bán tải),12000,2021,Dầu,5,Đã sử dụng,Thái Lan
-3,590.000.000,Mazda,Tự động,Sedan,40000,2019,Xăng,5,Đã sử dụng,
-Vios,521.000.000,Toyota,Tự động,Sedan,,2022,Xăng,5,Mới,Việt Nam
-Ranger,795.000.000,Ford,Tự động,Pick-up (bán tải),68000,2017,Dầu,5,Đã sử dụng,Thái Lan
-Attrage,378.000.000,Mitsubishi,Số sàn,,,2022,Xăng,,Mới,
-Carens,210.000.000,Kia,Số sàn,,48,2009,Xăng,7,Đã sử dụng,
-CX 5,578.000.000,Mazda,Tự động,SUV / Cross over,68000,2015,Xăng,5,Đã sử dụng,
-Morning,189.000.000,Kia,Số sàn,Hatchback,52000,2015,Xăng,5,Đã sử dụng,Hàn Quốc
-Dòng khác,850.000.000,BMW,Tự động,,12345,2015,Xăng,,Đã sử dụng,
-Grand i10,290.000.000,Hyundai,Tự động,,6,2014,Xăng,,Đã sử dụng,
-Camry,1.315.000.000,Toyota,Tự động,Sedan,10000,2021,Xăng,5,Đã sử dụng,Việt Nam
-Tucson,900.000.000,Hyundai,Tự động,SUV / Cross over,19000,2019,Xăng,5,Đã sử dụng,
-Corolla Altis,550.000.000,Toyota,Tự động,Sedan,110000,2014,Xăng,5,Đã sử dụng,Việt Nam
-XL 7,589.000.000,Suzuki,Tự động,Kiểu dáng khác,11000,2021,Xăng,7,Đã sử dụng,Thái Lan
-Ranger,590.000.000,Ford,Tự động,Pick-up (bán tải),70000,2016,Dầu,5,Đã sử dụng,Thái Lan
-Vios,312.000.000,Toyota,Số sàn,Sedan,62000,2017,Xăng,5,Đã sử dụng,Việt Nam
-Alphard,3.900.000.000,Toyota,Tự động,Kiểu dáng khác,38000,2018,Xăng,6,Đã sử dụng,Nước khác
-Highlander,799.000.000,Toyota,Tự động,SUV / Cross over,80000,2011,Xăng,7,Đã sử dụng,Nước khác
-Ranger,485.000.000,Ford,Tự động,Pick-up (bán tải),88000,2013,Dầu,5,Đã sử dụng,Thái Lan
-Xpander,532.000.000,Mitsubishi,Số sàn,Minivan (MPV),,2021,Xăng,7,Mới,Nước khác
-Morning,138.000.000,Kia,Số sàn,Hatchback,12000,2012,Xăng,5,Đã sử dụng,Việt Nam
-C Class,295.000.000,Mercedes Benz,Tự động,Sedan,160000,2007,Xăng,4,Đã sử dụng,Việt Nam
-Explorer,1.880.000.000,Ford,Tự động,SUV / Cross over,16000,2019,Xăng,2,Đã sử dụng,Mỹ
-GX,2.690.000.000,Lexus,Tự động,SUV / Cross over,76000,2014,Xăng,8,Đã sử dụng,
-Transit,638.000.000,Ford,Số sàn,Minivan (MPV),52000,2018,Dầu,16,Đã sử dụng,Việt Nam
-Morning,249.000.000,Kia,Tự động,Hatchback,23000,2018,Xăng,5,Đã sử dụng,Việt Nam
-Outlander,765.000.000,Mitsubishi,Tự động,SUV / Cross over,38000,2018,Xăng,7,Đã sử dụng,Việt Nam
-Everest,935.000.000,Ford,Tự động,SUV / Cross over,19000,2019,Dầu,7,Đã sử dụng,Thái Lan
-Accord,1.329.000.000,Honda,Tự động,Sedan,,2022,Xăng,5,Mới,Thái Lan
-Colorado,645.000.000,Chevrolet,Tự động,,60000,2017,Xăng,,Đã sử dụng,Thái Lan
-Trailblazer,785.000.000,Chevrolet,Tự động,SUV / Cross over,40000,2018,Dầu,7,Đã sử dụng,Thái Lan
-Ranger,642.000.000,Ford,Số sàn,,,2022,Dầu,,Mới,
-Everest,310.000.000,Ford,Số sàn,SUV / Cross over,150000,2008,Dầu,7,Đã sử dụng,Việt Nam
-Cerato,598.000.000,Kia,Tự động,Sedan,45000,2019,Xăng,5,Đã sử dụng,
-Fadil,350.000.000,Vinfast,Tự động,Hatchback,7000,2021,Xăng,5,Đã sử dụng,
-Morning,33.000.000,Kia,Tự động,Hatchback,73000,2014,Xăng,,Đã sử dụng,Hàn Quốc
-Vios,312.000.000,Toyota,Số sàn,Sedan,65321,2016,Xăng,5,Đã sử dụng,Việt Nam
-Corolla Altis,550.000.000,Toyota,Tự động,Sedan,9300,2015,Xăng,5,Đã sử dụng,
-Dmax,385.000.000,Isuzu,Số sàn,Pick-up (bán tải),100000,2014,Dầu,5,Đã sử dụng,Thái Lan
-Accent,468.000.000,Hyundai,Tự động,Sedan,30000,2019,Xăng,5,Đã sử dụng,
-Elantra,596.000.000,Hyundai,Tự động,Sedan,5000,2018,Xăng,5,Đã sử dụng,
-Lux,1.168.000.000,Vinfast,Tự động,SUV / Cross over,22000,2020,Xăng,7,Đã sử dụng,Việt Nam
-3 Series,980.000.000,BMW,Tự động,Sedan,50000,2016,Xăng,4,Đã sử dụng,Đức
-,515.000.000,MG,Tự động,,,2021,Xăng,,Mới,
-Grand i10,110.000.000,Hyundai,Bán tự động,Sedan,,2022,Xăng,,Mới,
-Innova,180.000.000,Toyota,Số sàn,,200000,trước năm 1980,Xăng,,Đã sử dụng,
-Zace,139.000.000,Toyota,Số sàn,,200000,2001,Xăng,8,Đã sử dụng,
-Accent,498.000.000,Hyundai,Tự động,Sedan,33000,2019,Xăng,5,Đã sử dụng,Việt Nam
-RX,1.150.000.000,Lexus,Tự động,SUV / Cross over,65000,2010,Động cơ Hybrid,5,Đã sử dụng,Nhật Bản
-Sorento,600.000.000,Kia,Tự động,SUV / Cross over,81000,2015,Xăng,5,Đã sử dụng,Việt Nam
-Corolla Cross,746.000.000,Toyota,Tự động,SUV / Cross over,,2022,Xăng,5,Mới,Thái Lan
-2008,769.000.000,Peugeot,Tự động,SUV / Cross over,,2022,Xăng,5,Mới,Việt Nam
-Fortuner,616.000.000,Toyota,Tự động,SUV / Cross over,87000,2016,Xăng,7,Đã sử dụng,
-Fortuner,375.000.000,Toyota,Tự động,SUV / Cross over,10000,2009,Xăng,7,Đã sử dụng,Việt Nam
-Santa Fe,1.030.000.000,Hyundai,Tự động,SUV / Cross over,,2022,Xăng,,Mới,
-Accord,298.000.000,Honda,Tự động,Sedan,1,2006,Xăng,,Đã sử dụng,Đài Loan
-7 Series,3.100.000.000,BMW,Tự động,Sedan,30000,2018,Xăng,5,Đã sử dụng,Đức
-Tucson,1.100.000.000,Hyundai,Tự động,SUV / Cross over,,2022,Dầu,5,Mới,Việt Nam
-i30,285.000.000,Hyundai,Tự động,Sedan,1,2010,Xăng,5,Đã sử dụng,Hàn Quốc
-City,495.000.000,Honda,Tự động,Sedan,60000,2019,Xăng,5,Đã sử dụng,Việt Nam
-Accent,505.000.000,Hyundai,Tự động,Sedan,,2022,Xăng,5,Mới,Việt Nam
-3,789.000.000,Mazda,Tự động,Sedan,,2022,Xăng,5,Mới,Việt Nam
-Corolla Altis,575.000.000,Toyota,Tự động,,65000,2017,Xăng,,Đã sử dụng,
-Outlander,725.000.000,Mitsubishi,Tự động,SUV / Cross over,50000,2016,Xăng,7,Đã sử dụng,Nhật Bản
-Ranger,560.000.000,Ford,Tự động,Pick-up (bán tải),91000,2016,Xăng,5,Đã sử dụng,Thái Lan
-5 Series,1.120.000.000,BMW,Tự động,Sedan,70000,2015,Xăng,5,Đã sử dụng,Đức
-Forte,355.000.000,Kia,Tự động,Sedan,72510,2012,Xăng,5,Đã sử dụng,Việt Nam
-Ranger,620.000.000,Ford,Tự động,Pick-up (bán tải),53000,2017,Dầu,5,Đã sử dụng,Thái Lan
-Camry,545.000.000,Toyota,Tự động,Sedan,60000,2012,Xăng,5,Đã sử dụng,Việt Nam
-3008,720.000.000,Peugeot,Tự động,SUV / Cross over,34000,2018,Xăng,5,Đã sử dụng,Nước khác
-Fiesta,310.000.000,Ford,Tự động,Hatchback,78,2013,Xăng,5,Đã sử dụng,Mỹ
-Lanos,135.000.000,Daewoo,Tự động,Sedan,100000,2005,Xăng,5,Đã sử dụng,Hàn Quốc
-Wigo,338.000.000,Toyota,Tự động,Hatchback,18000,2019,Xăng,5,Đã sử dụng,Nước khác
-Tucson,875.000.000,Hyundai,Tự động,SUV / Cross over,,2022,Xăng,5,Mới,Việt Nam
-VFe34,590.000.000,Vinfast,Tự động,SUV / Cross over,,2022,Điện,5,Mới,Việt Nam
-Fortuner,868.000.000,Toyota,Số sàn,SUV / Cross over,68000,2017,Dầu,7,Đã sử dụng,Nước khác
-Tucson,445.000.000,Hyundai,Tự động,SUV / Cross over,122222,2010,Xăng,5,Đã sử dụng,Hàn Quốc
-CX 5,945.000.000,Mazda,Tự động,SUV / Cross over,20000,2020,Xăng,5,Đã sử dụng,
-Grandis,350.000.000,Mitsubishi,Tự động,Minivan (MPV),120000,2009,Xăng,5,Đã sử dụng,Việt Nam
-Civic,325.000.000,Honda,Tự động,Sedan,100000,2010,Xăng,5,Đã sử dụng,Việt Nam
-Veloz,648.000.000,Toyota,Tự động,Minivan (MPV),,2022,Xăng,7,Mới,Nước khác
-Sunny,290.000.000,Nissan,Tự động,Sedan,100000,2013,Xăng,5,Đã sử dụng,Việt Nam
-Focus,225.000.000,Ford,Tự động,,100,2007,Xăng,,Đã sử dụng,
-Fiesta,268.000.000,Ford,Tự động,Hatchback,9000,2012,Xăng,5,Đã sử dụng,Việt Nam
-Innova,309.000.000,Toyota,Số sàn,Sedan,,2011,Xăng,7,Đã sử dụng,Nhật Bản
-CR V,675.000.000,Honda,Tự động,SUV / Cross over,65000,2015,Xăng,5,Đã sử dụng,Việt Nam
-Lacetti,155.000.000,Daewoo,Số sàn,Sedan,86423,2008,Xăng,5,Đã sử dụng,
-Accent,455.000.000,Hyundai,Tự động,Sedan,56000,2018,Xăng,5,Đã sử dụng,
-Fortuner,575.000.000,Toyota,Tự động,SUV / Cross over,60000,2015,Xăng,8,Đã sử dụng,Việt Nam
-Grand i10,235.000.000,Hyundai,Số sàn,Hatchback,8000,2015,Xăng,5,Đã sử dụng,Ấn Độ
-LX,2.390.000.000,Lexus,Tự động,SUV / Cross over,100000,2009,Xăng,8,Đã sử dụng,Nhật Bản
-Cruze,365.000.000,Chevrolet,Số sàn,Sedan,50000,2016,Xăng,5,Đã sử dụng,Việt Nam
-Innova,485.000.000,Toyota,Tự động,Minivan (MPV),68,2015,Xăng,8,Đã sử dụng,Việt Nam
-Dmax,370.000.000,Isuzu,Số sàn,,110200,2010,Dầu,,Đã sử dụng,
-Ranger,825.000.000,Ford,Tự động,Pick-up (bán tải),59000,2019,Dầu,5,Đã sử dụng,Thái Lan
-i30,290.000.000,Hyundai,Tự động,Hatchback,80000,2009,Xăng,5,Đã sử dụng,
-Creta,670.000.000,Hyundai,Tự động,SUV / Cross over,,2022,Xăng,5,Mới,Nước khác
-Pajero Sport,779.000.000,Mitsubishi,Tự động,SUV / Cross over,79000,2017,Xăng,7,Đã sử dụng,Nhật Bản
-Civic,835.000.000,Honda,Tự động,Sedan,9000,2021,Xăng,5,Đã sử dụng,Thái Lan
-Carnival,1.119.000.000,Kia,Tự động,SUV / Cross over,,2022,Dầu,7,Mới,Việt Nam
-Fortuner,970.000.000,Toyota,Tự động,SUV / Cross over,45000,2019,Dầu,7,Đã sử dụng,Việt Nam
-BT 50,422.000.000,Mazda,Số sàn,Pick-up (bán tải),125000,2013,Dầu,5,Đã sử dụng,Thái Lan
-Escape,340.000.000,Ford,Tự động,SUV / Cross over,51000,2009,Xăng,5,Đã sử dụng,Mỹ
-Lacetti,225.000.000,Daewoo,Tự động,Sedan,100000,2009,Xăng,5,Đã sử dụng,
-Grand i10,325.000.000,Hyundai,Số sàn,Hatchback,65000,2019,Xăng,5,Đã sử dụng,Việt Nam
-Vios,325.000.000,Toyota,Số sàn,Sedan,68000,2017,Xăng,5,Đã sử dụng,Việt Nam
-S Class,599.000.000,Mercedes Benz,Tự động,,110000,2007,Xăng,,Đã sử dụng,
-Grand i10,259.000.000,Hyundai,Số sàn,Hatchback,110000,2016,Xăng,5,Đã sử dụng,Ấn Độ
-Santa Fe,1.570.000.000,Hyundai,Tự động,SUV / Cross over,6000,2022,Xăng,5,Đã sử dụng,Việt Nam
-Lux,1.080.000.000,Vinfast,Tự động,,1000,2022,Xăng,7,Đã sử dụng,
-Rush,655.000.000,Toyota,Tự động,SUV / Cross over,15000,2021,Xăng,7,Đã sử dụng,Nước khác
-Wigo,333.000.000,Toyota,Tự động,Hatchback,34000,2018,Xăng,5,Đã sử dụng,
-Tucson,479.000.000,Hyundai,Tự động,SUV / Cross over,90000,2012,Xăng,5,Đã sử dụng,Hàn Quốc
-VFe34,590.000.000,Vinfast,Tự động,SUV / Cross over,,2022,Điện,5,Mới,Việt Nam
-Fortuner,1.130.000.000,Toyota,Tự động,SUV / Cross over,70000,2018,Dầu,7,Đã sử dụng,
-City,475.000.000,Honda,Tự động,Sedan,50000,2018,Xăng,5,Đã sử dụng,
-Accent,500.000.000,Hyundai,Tự động,Sedan,,2022,Xăng,5,Mới,Việt Nam
-Cerato,618.000.000,Kia,Tự động,Sedan,6000,2020,Xăng,5,Đã sử dụng,Việt Nam
-C Class,1.380.000.000,Mercedes Benz,Tự động,Sedan,20000,2021,Xăng,5,Đã sử dụng,
-Ranger,642.000.000,Ford,Số sàn,Pick-up (bán tải),,2022,Dầu,5,Mới,Việt Nam
-Transit,680.000.000,Ford,Số sàn,Kiểu dáng khác,27000,2020,Dầu,16,Đã sử dụng,
-C Class,1.199.000.000,Mercedes Benz,Tự động,Sedan,6,2016,Xăng,5,Đã sử dụng,Việt Nam
-C Class,188.000.000,Mercedes Benz,Tự động,Sedan,167890,2004,Xăng,5,Đã sử dụng,Việt Nam
-E Class,290.000.000,Mercedes Benz,Tự động,,9999,2006,Xăng,5,Đã sử dụng,Việt Nam
-Accent,426.000.000,Hyundai,Số sàn,Sedan,,2022,Xăng,5,Mới,Việt Nam
-City,475.000.000,Honda,Tự động,Sedan,50000,2019,Xăng,5,Đã sử dụng,Nhật Bản
-Ranger,662.000.000,Ford,Tự động,Pick-up (bán tải),,2022,Dầu,5,Mới,Việt Nam
-6,768.000.000,Mazda,Tự động,Sedan,43000,2019,Xăng,5,Đã sử dụng,
-XL 7,555.000.000,Suzuki,Tự động,Minivan (MPV),,2022,Xăng,7,Mới,
-Camry,835.000.000,Toyota,Tự động,Sedan,30000,2018,Xăng,5,Đã sử dụng,Thái Lan
-Seltos,735.000.000,Kia,Tự động,SUV / Cross over,20000,2020,Xăng,5,Đã sử dụng,
-Everest,1.159.000.000,Ford,Tự động,SUV / Cross over,52000,2021,Dầu,7,Đã sử dụng,Thái Lan
-Lux,750.000.000,Vinfast,Tự động,Sedan,,2022,Xăng,5,Mới,Việt Nam
-3 Series,925.000.000,BMW,Tự động,Sedan,85000,2016,Xăng,4,Đã sử dụng,
-Land Cruiser,265.000.000,Toyota,Số sàn,SUV / Cross over,185,trước năm 1980,Dầu,4,Đã sử dụng,Nhật Bản
-Ranger,829.000.000,Ford,Tự động,Pick-up (bán tải),84309,2017,Dầu,5,Đã sử dụng,Thái Lan
-Spark,210.000.000,Chevrolet,Tự động,Hatchback,46000,2013,Xăng,5,Đã sử dụng,Việt Nam
-Sunny,305.000.000,Nissan,Tự động,Sedan,90000,2014,Xăng,5,Đã sử dụng,
-E Class,2.099.000.000,Mercedes Benz,Tự động,Sedan,,2022,Xăng,5,Mới,Việt Nam
-CD5,65.000.000,Kia,Số sàn,Kiểu dáng khác,35000,2004,Xăng,4,Đã sử dụng,Hàn Quốc
-Camry,520.000.000,Toyota,Tự động,Sedan,75000,2011,Xăng,5,Đã sử dụng,
-Everest,1.392.000.000,Ford,Tự động,SUV / Cross over,,2022,Dầu,7,Đã sử dụng,Thái Lan
-Ranger,582.000.000,Ford,Tự động,,11000,2017,Xăng,5,Đã sử dụng,Thái Lan
-Passat,370.000.000,Volkswagen,Bán tự động,Sedan,72000,2010,Xăng,4,Đã sử dụng,Đức
-Vios,425.000.000,Toyota,Tự động,Sedan,45000,2017,Xăng,5,Đã sử dụng,Việt Nam
-Dòng khác,1.000.000.000,Hãng khác,Tự động,,1,2015,,,Đã sử dụng,
-Everest,1.050.000.000,Ford,Tự động,SUV / Cross over,53000,2019,Dầu,7,Đã sử dụng,
-Almera,539.000.000,Nissan,Tự động,,,2022,Xăng,5,Mới,
-Ranger,669.000.000,Ford,Số sàn,Pick-up (bán tải),57000,2019,Dầu,5,Đã sử dụng,Thái Lan
-Seltos,715.000.000,Kia,Tự động,,4000,2021,Xăng,,Đã sử dụng,Việt Nam
-Kona,580.000.000,Hyundai,Tự động,,45000,2019,Xăng,,Đã sử dụng,
-Vios,483.000.000,Toyota,Số sàn,,,2022,Xăng,,Mới,
-Civic,290.000.000,Honda,Số sàn,Sedan,106000,2010,Xăng,5,Đã sử dụng,Việt Nam
-CX 8,1.079.000.000,Mazda,Tự động,SUV / Cross over,,2022,Xăng,7,Mới,Việt Nam
-IS,1.279.000.000,Lexus,Tự động,Coupe (2 cửa),61233,2010,Xăng,4,Đã sử dụng,Nhật Bản
-Sonata,446.000.000,Hyundai,Tự động,Sedan,100000,2012,Xăng,5,Đã sử dụng,Hàn Quốc
-Everest,1.095.000.000,Ford,Tự động,SUV / Cross over,25000,2019,Dầu,7,Đã sử dụng,Thái Lan
-Vios,315.000.000,Toyota,Số sàn,Sedan,62000,2016,Xăng,5,Đã sử dụng,Việt Nam
-CX 5,875.000.000,Mazda,Tự động,SUV / Cross over,30000,2020,Xăng,5,Đã sử dụng,
-Aveo,268.000.000,Chevrolet,Số sàn,Sedan,62865,2016,Xăng,5,Đã sử dụng,Việt Nam
-5,452.000.000,MG,Tự động,Sedan,15000,2022,Xăng,5,Đã sử dụng,Thái Lan
-6,690.000.000,Mazda,Tự động,Sedan,60,2018,Xăng,5,Đã sử dụng,Việt Nam
-XL 7,599.900.000,Suzuki,Tự động,Minivan (MPV),,2022,Xăng,7,Mới,Nước khác
-Dòng khác,45.000.000,Suzuki,Số sàn,Minivan (MPV),120000,2005,Xăng,8,Đã sử dụng,Việt Nam
-Lanos,53.000.000,Daewoo,Tự động,,99999,2003,Xăng,5,Đã sử dụng,Hàn Quốc
-Avanza,528.000.000,Toyota,Tự động,SUV / Cross over,,2022,Xăng,7,Mới,Nước khác
-Morning,339.000.000,Kia,Tự động,Hatchback,3800,2019,Xăng,5,Đã sử dụng,
-Focus,510.000.000,Ford,Tự động,Sedan,5500,2016,Xăng,5,Đã sử dụng,
-Morning,320.000.000,Kia,Tự động,Hatchback,400000,2019,Xăng,5,Đã sử dụng,
-Lux,750.000.000,Vinfast,Tự động,Sedan,,2022,Xăng,5,Đã sử dụng,Việt Nam
-Hilux,890.000.000,Toyota,Tự động,Pick-up (bán tải),31000,2019,Dầu,5,Đã sử dụng,Thái Lan
-Dòng khác,85.000.000,Daihatsu,Số sàn,,40000,2004,Dầu,,Đã sử dụng,
-Innova,660.000.000,Toyota,Số sàn,Minivan (MPV),86000,2019,Xăng,8,Đã sử dụng,Việt Nam
-X4,1.990.000.000,BMW,Tự động,,40000,2017,Xăng,,Đã sử dụng,
-Range Rover Evoque,1.165.000.000,LandRover,Tự động,SUV / Cross over,30000,2014,Xăng,8,Đã sử dụng,
-Innova,68.686.868,Toyota,Tự động,,6868,2016,Xăng,,Đã sử dụng,
-Santa Fe,1.119.000.000,Hyundai,Tự động,SUV / Cross over,43000,2019,Dầu,7,Đã sử dụng,Việt Nam
-Corolla Cross,865.000.000,Toyota,Tự động,SUV / Cross over,18000,2020,Xăng,5,Đã sử dụng,Thái Lan
-Land Cruiser,4.750.000.000,Toyota,Tự động,SUV / Cross over,30000,2019,Xăng,7,Đã sử dụng,Nhật Bản
-S Class,3.180.000.000,Mercedes Benz,Tự động,Sedan,30000,2016,Xăng,5,Đã sử dụng,
-CR V,1.118.000.000,Honda,Tự động,SUV / Cross over,,2022,Xăng,7,Đã sử dụng,Việt Nam
-Sportage,425.000.000,Kia,Tự động,,97000,2010,Xăng,,Đã sử dụng,
-Morning,270.000.000,Kia,Tự động,Hatchback,100,2011,Xăng,5,Đã sử dụng,Hàn Quốc
-K3,764.000.000,Kia,Tự động,,,2022,Xăng,,Mới,
-Corolla Altis,570.000.000,Toyota,Tự động,Sedan,5800,2015,Xăng,5,Đã sử dụng,
-Focus,630.000.000,Ford,Tự động,Hatchback,37000,2018,Xăng,5,Đã sử dụng,Việt Nam
-Wagon R+,70.000.000,Suzuki,Số sàn,,123456,2003,Xăng,,Đã sử dụng,
-Nubira,35.000.000,Daewoo,Số sàn,Sedan,50000,2001,Xăng,5,Đã sử dụng,Việt Nam
-2,594.000.000,Mazda,Tự động,Hatchback,,2022,Xăng,5,Mới,Thái Lan
-Avanza,548.000.000,Toyota,Tự động,Minivan (MPV),,2022,Xăng,7,Đã sử dụng,Nước khác
-CX 8,1.050.000.000,Mazda,Tự động,SUV / Cross over,24565,2020,Xăng,7,Đã sử dụng,Việt Nam
-Pajero Sport,839.000.000,Mitsubishi,Tự động,SUV / Cross over,25000,2019,Xăng,7,Đã sử dụng,Thái Lan
-Pajero Sport,549.000.000,Mitsubishi,Tự động,SUV / Cross over,67000,2016,Xăng,8,Đã sử dụng,Việt Nam
-Cruze,415.000.000,Chevrolet,Tự động,Sedan,60000,2017,Xăng,5,Đã sử dụng,Việt Nam
-C Class,1.160.000.000,Mercedes Benz,Tự động,Sedan,50000,2016,Xăng,5,Đã sử dụng,Việt Nam
-K3,559.000.000,Kia,Tự động,Sedan,,2022,Xăng,5,Đã sử dụng,Việt Nam
-Forte,258.000.000,Kia,Số sàn,,50000,2011,Xăng,,Đã sử dụng,
-Ranger,1.315.000.000,Ford,Tự động,,36000,2019,Dầu,,Đã sử dụng,
-Innova,740.000.000,Toyota,Số sàn,Minivan (MPV),,2022,Xăng,8,Mới,Việt Nam
-S Class,2.090.000.000,Mercedes Benz,Tự động,,65000,2014,Xăng,,Đã sử dụng,
-Gentra,125.000.000,Daewoo,Số sàn,Sedan,14252,2008,Xăng,5,Đã sử dụng,
-Xpander,588.000.000,Mitsubishi,Tự động,Minivan (MPV),,2022,Xăng,7,Mới,Nước khác
-Vios,485.000.000,Toyota,Tự động,Sedan,30000,2019,Xăng,5,Đã sử dụng,Việt Nam
-Kona,668.000.000,Hyundai,Tự động,SUV / Cross over,21000,2019,Xăng,5,Đã sử dụng,Việt Nam
-6,725.000.000,Mazda,Tự động,,24179,2018,Xăng,,Đã sử dụng,
-Ranger,780.000.000,Ford,Tự động,Pick-up (bán tải),39000,2019,Dầu,5,Đã sử dụng,Thái Lan
-CX 3,649.000.000,Mazda,Tự động,SUV / Cross over,,2022,Xăng,5,Mới,Thái Lan
-Rio,390.000.000,Kia,Tự động,,90000,2014,Xăng,,Đã sử dụng,
-Sorento,1.166.000.000,Kia,Tự động,SUV / Cross over,10000,2020,Xăng,7,Đã sử dụng,Việt Nam
-Camry,1.070.000.000,Toyota,Tự động,Sedan,,2022,Xăng,5,Mới,Thái Lan
-EcoSport,598.000.000,Ford,Tự động,SUV / Cross over,3800,2020,Xăng,5,Đã sử dụng,Việt Nam
-Camry,1.185.000.000,Toyota,Tự động,Sedan,25000,2019,Xăng,5,Đã sử dụng,
-XL 7,565.000.000,Suzuki,Tự động,,30000,2020,Xăng,,Đã sử dụng,
-Magnus,118.000.000,Daewoo,Tự động,Sedan,190000,2007,Xăng,5,Đã sử dụng,Việt Nam
-Escape,154.000.000,Ford,Số sàn,,92,2003,Xăng,,Đã sử dụng,
-CX 5,935.000.000,Mazda,Tự động,SUV / Cross over,50000,2019,Xăng,5,Đã sử dụng,Việt Nam
-E Class,1.368.000.000,Mercedes Benz,Tự động,Sedan,48000,2017,Xăng,5,Đã sử dụng,
-Tucson,925.000.000,Hyundai,Tự động,SUV / Cross over,,2022,Dầu,5,Mới,Việt Nam
-EcoSport,598.000.000,Ford,Tự động,SUV / Cross over,3800,2020,Xăng,5,Đã sử dụng,Việt Nam
-Ranger,582.000.000,Ford,Tự động,Pick-up (bán tải),74400,2017,Xăng,5,Đã sử dụng,Thái Lan
-Gentra,98.000.000,Daewoo,Số sàn,Sedan,160000,2007,Xăng,5,Đã sử dụng,Việt Nam
-Camry,1.185.000.000,Toyota,Tự động,Sedan,,2022,Xăng,5,Mới,Thái Lan
-Raize,555.000.000,Toyota,Tự động,,,2022,Xăng,,Mới,
-Sunny,340.000.000,Nissan,Tự động,,50000,2017,Xăng,,Đã sử dụng,
-CR V,672.000.000,Honda,Tự động,SUV / Cross over,58000,2016,Xăng,5,Đã sử dụng,Việt Nam
-Spark,75.000.000,Chevrolet,Số sàn,,1500,2009,Xăng,,Đã sử dụng,
-Lacetti,229.000.000,Daewoo,Số sàn,Sedan,65000,2009,Xăng,5,Đã sử dụng,Hàn Quốc
-Civic,252.000.000,Honda,Tự động,Sedan,123456,2008,Xăng,4,Đã sử dụng,Việt Nam
-Ranger,628.000.000,Ford,Bán tự động,Pick-up (bán tải),,2022,Dầu,5,Mới,Việt Nam
-Land Cruiser,4.850.000.000,Toyota,Tự động,,30000,2019,Xăng,,Đã sử dụng,
-7 Series,1.430.000.000,BMW,Tự động,Sedan,60000,2013,Xăng,5,Đã sử dụng,Đức
-Santa Fe,1.290.000.000,Hyundai,Tự động,SUV / Cross over,5600,2021,Dầu,7,Đã sử dụng,Việt Nam
-Ranger,569.000.000,Ford,Số sàn,Pick-up (bán tải),50000,2017,Dầu,5,Đã sử dụng,Thái Lan
-Corona,25.000.000,Toyota,Số sàn,,2000,trước năm 1980,Xăng,,Đã sử dụng,
-Everest,335.000.000,Ford,Số sàn,SUV / Cross over,135000,2009,Dầu,7,Đã sử dụng,Mỹ
-Innova,770.000.000,Toyota,Tự động,Minivan (MPV),30700,2019,Xăng,8,Đã sử dụng,Việt Nam
-Fortuner,850.000.000,Toyota,Tự động,SUV / Cross over,100000,2017,Xăng,7,Đã sử dụng,
-Carens,360.000.000,Kia,Tự động,Minivan (MPV),78000,2013,Xăng,7,Đã sử dụng,Việt Nam
-Prado,889.000.000,Toyota,Tự động,SUV / Cross over,110000,2010,Xăng,8,Đã sử dụng,Nhật Bản
-Elantra,625.000.000,Hyundai,Tự động,Sedan,13000,2018,Xăng,5,Đã sử dụng,Việt Nam
-Camry,1.220.000.000,Toyota,Tự động,Sedan,25000,2020,Xăng,5,Đã sử dụng,Thái Lan
-EcoSport,598.000.000,Ford,Tự động,SUV / Cross over,3800,2020,Xăng,5,Đã sử dụng,Việt Nam
-Everest,1.145.000.000,Ford,Tự động,SUV / Cross over,37999,2020,Dầu,,Đã sử dụng,
-Everest,1.193.000.000,Ford,Tự động,SUV / Cross over,,2022,Dầu,7,Mới,Thái Lan
-CX 5,799.000.000,Mazda,Tự động,SUV / Cross over,20000,2017,Xăng,5,Đã sử dụng,Việt Nam
-Land Cruiser,4.850.000.000,Toyota,Tự động,SUV / Cross over,63000,2016,Xăng,8,Đã sử dụng,Nhật Bản
-Cerato,320.000.000,Kia,Tự động,Hatchback,110000,2009,Xăng,5,Đã sử dụng,Hàn Quốc
-CX 5,839.000.000,Mazda,Tự động,SUV / Cross over,,2022,Xăng,5,Mới,Việt Nam
-Camry,600.000.000,Toyota,Tự động,Sedan,140000,2010,Xăng,5,Đã sử dụng,Thái Lan
-Innova,358.000.000,Toyota,Tự động,Minivan (MPV),89,2014,Xăng,7,Đã sử dụng,
-Fiesta,310.000.000,Ford,Tự động,Hatchback,80000,2014,Xăng,5,Đã sử dụng,
-City,539.000.000,Honda,Tự động,,39000,2019,Xăng,4,Đã sử dụng,
-Dòng khác,60.000.000,Peugeot,Số sàn,Kiểu dáng khác,55678,1989,Xăng,4,Đã sử dụng,Nước khác
-S Class,4.569.000.000,Mercedes Benz,Tự động,Sedan,14000,2020,Xăng,5,Đã sử dụng,Việt Nam
-E Class,1.730.000.000,Mercedes Benz,Tự động,Sedan,30000,2019,Xăng,5,Đã sử dụng,
-Dòng khác,48.000.000,Hãng khác,Tự động,Sedan,30000,2010,Xăng,5,Đã sử dụng,Đài Loan
-Ranger,7.100.000,Ford,Tự động,Pick-up (bán tải),20000,2020,Dầu,5,Đã sử dụng,Thái Lan
-Escape,196.000.000,Ford,Tự động,SUV / Cross over,130000,2006,Xăng,5,Đã sử dụng,
-Xpander,648.000.000,Mitsubishi,Tự động,Minivan (MPV),,2022,Xăng,7,Mới,
-Tucson,785.000.000,Hyundai,Tự động,SUV / Cross over,39000,2017,Xăng,5,Đã sử dụng,Việt Nam
-City,447.000.000,Honda,Tự động,,126000,2018,Xăng,,Đã sử dụng,
-Civic,639.000.000,Honda,Tự động,Sedan,70000,2017,Xăng,5,Đã sử dụng,
-Fortuner,406.000.000,Toyota,Tự động,SUV / Cross over,115000,2009,Xăng,7,Đã sử dụng,Việt Nam
-Legend,257.000.000,Honda,Tự động,Sedan,80000,1998,Xăng,5,Đã sử dụng,Nhật Bản
-Lux,750.000.000,Vinfast,Tự động,Sedan,,2022,Xăng,5,Đã sử dụng,Việt Nam
-GLE Class,3.290.000.000,Mercedes Benz,Tự động,Coupe (2 cửa),35000,2019,Xăng,5,Đã sử dụng,Đức
-Macan,4.350.000.000,Porsche,Tự động,SUV / Cross over,,2022,Xăng,5,Mới,Đức
-Fadil,352.000.000,Vinfast,Tự động,Hatchback,,2022,Xăng,5,Mới,Việt Nam
-Land Cruiser,850.000.000,Toyota,Số sàn,Coupe (2 cửa),5945,trước năm 1980,Dầu,5,Đã sử dụng,Nhật Bản
-Fortuner,815.000.000,Toyota,Số sàn,SUV / Cross over,80000,2017,Dầu,7,Đã sử dụng,Nhật Bản
-Captiva,500.000.000,Chevrolet,Tự động,SUV / Cross over,67000,2016,Xăng,7,Đã sử dụng,
-Dòng khác,74.000.000,Hãng khác,Số sàn,,56,2004,Xăng,7,Đã sử dụng,Nhật Bản
-Spark,85.000.000,Chevrolet,Số sàn,Hatchback,,2008,Xăng,5,Đã sử dụng,Việt Nam
-Vios,468.000.000,Toyota,Số sàn,Sedan,49000,2020,Xăng,5,Đã sử dụng,Việt Nam
-Vios,275.000.000,Toyota,Số sàn,Sedan,86868,2013,Xăng,5,Đã sử dụng,Việt Nam
-Santa Fe,359.000.000,Hyundai,Tự động,,,2022,Xăng,,Mới,
-Matiz,82.000.000,Daewoo,Số sàn,Hatchback,120000,2007,Xăng,5,Đã sử dụng,
-Ranger,565.000.000,Ford,Tự động,Pick-up (bán tải),80000,2016,Dầu,5,Đã sử dụng,Thái Lan
-Spark,125.000.000,Chevrolet,Tự động,Hatchback,80000,2015,Xăng,5,Đã sử dụng,Việt Nam
-Tucson,928.000.000,Hyundai,Tự động,SUV / Cross over,35000,2019,Dầu,5,Đã sử dụng,Việt Nam
-3,375.000.000,Mazda,Tự động,Sedan,80000,2014,Xăng,4,Đã sử dụng,Việt Nam
-Triton,905.000.000,Mitsubishi,Tự động,Pick-up (bán tải),,2022,Dầu,5,Đã sử dụng,Nhật Bản
-Sorento,818.000.000,Kia,Tự động,SUV / Cross over,33000,2019,Xăng,7,Đã sử dụng,Việt Nam
-Corolla Altis,765.000.000,Toyota,Tự động,Sedan,,2022,Xăng,5,Mới,Thái Lan
-Xpander,550.000.000,Mitsubishi,Số sàn,Minivan (MPV),1400,2021,Xăng,7,Đã sử dụng,
-Dòng khác,195.000.000,Suzuki,Tự động,,750000,2017,Xăng,,Đã sử dụng,
-Zace,195.000.000,Toyota,Số sàn,Minivan (MPV),150000,2005,Xăng,8,Đã sử dụng,Việt Nam
-Fortuner,710.000.000,Toyota,Số sàn,SUV / Cross over,70000,2015,Dầu,7,Đã sử dụng,Việt Nam
-G37,1.400.000.000,Infiniti,Tự động,Coupe (2 cửa),49000,2009,Xăng,4,Đã sử dụng,
-K3,674.000.000,Kia,Tự động,Sedan,,2022,Xăng,5,Mới,Việt Nam
-Kona,583.999.999,Hyundai,Tự động,SUV / Cross over,5,2019,Xăng,5,Đã sử dụng,Việt Nam
-Fortuner,545.000.000,Toyota,Tự động,SUV / Cross over,90000,2014,Xăng,7,Đã sử dụng,
-Rush,580.000.000,Toyota,Tự động,SUV / Cross over,40000,2019,Xăng,5,Đã sử dụng,
-Corolla Cross,846.000.000,Toyota,Tự động,SUV / Cross over,,2022,Xăng,5,Đã sử dụng,Thái Lan
-Forester,860.000.000,Subaru,Tự động,SUV / Cross over,30000,2019,Xăng,5,Đã sử dụng,Thái Lan
-Innova,640.000.000,Toyota,Số sàn,Minivan (MPV),37000,2019,Xăng,8,Đã sử dụng,Việt Nam
-Morning,240.000.000,Kia,Số sàn,Hatchback,56868,2016,Xăng,5,Đã sử dụng,Việt Nam
-Cruze,263.000.000,Chevrolet,Tự động,Sedan,96,2011,Xăng,5,Đã sử dụng,Việt Nam
-2008,849.000.000,Peugeot,Tự động,SUV / Cross over,,2022,Xăng,5,Mới,Việt Nam
-Civic,815.000.000,Honda,Tự động,Sedan,29000,2019,Xăng,5,Đã sử dụng,
-Cerato,606.000.000,Kia,Tự động,Sedan,28000,2019,Xăng,5,Đã sử dụng,Việt Nam
-Camry,839.000.000,Toyota,Tự động,Sedan,89000,2016,Xăng,5,Đã sử dụng,Việt Nam
-EcoSport,398.000.000,Ford,Tự động,SUV / Cross over,125000,2014,Xăng,5,Đã sử dụng,Việt Nam
-Vios,499.000.000,Toyota,Tự động,,22000,2019,Xăng,,Đã sử dụng,
-Sorento,489.000.000,Kia,Tự động,SUV / Cross over,80000,2013,Xăng,7,Đã sử dụng,
-Everest,1.150.000.000,Ford,Tự động,SUV / Cross over,36000,2020,Dầu,7,Đã sử dụng,
-Solati,1.300.000.000,Hyundai,Số sàn,Minivan (MPV),,2020,Dầu,10,Mới,Hàn Quốc
-Vios,586.000.000,Toyota,Tự động,Sedan,,2022,Xăng,5,Mới,Việt Nam
-C Class,398.000.000,Mercedes Benz,Tự động,,123,2011,Xăng,,Đã sử dụng,Đức
-Camry,645.000.000,Toyota,Tự động,Sedan,43000,2014,Xăng,5,Đã sử dụng,Việt Nam
-Spark,72.000.000,Chevrolet,Số sàn,Hatchback,1000000,2009,Xăng,5,Đã sử dụng,Việt Nam
-Innova,635.000.000,Toyota,Số sàn,,63000,2019,Xăng,,Đã sử dụng,
-Fortuner,1.248.000.000,Toyota,Tự động,,,2022,Xăng,,Mới,
-Ranger,937.000.000,Ford,Tự động,Pick-up (bán tải),,2022,Dầu,5,Mới,Việt Nam
-Triton,220.000.000,Mitsubishi,Số sàn,,200,2011,Xăng,,Đã sử dụng,
-CX-30,812.000.000,Mazda,Tự động,SUV / Cross over,,2022,Xăng,5,Mới,Nhật Bản
-Transit,845.000.000,Ford,Số sàn,Minivan (MPV),,2022,Dầu,16,Mới,Việt Nam
-Vios,535.000.000,Toyota,Tự động,,22000,2020,Xăng,5,Đã sử dụng,
-Fortuner,539.000.000,Toyota,Tự động,SUV / Cross over,80000,2014,Xăng,7,Đã sử dụng,
-Aveo,268.000.000,Chevrolet,Số sàn,Sedan,23000,2018,Xăng,5,Đã sử dụng,
-RX,3.485.000.000,Lexus,Tự động,SUV / Cross over,4600,2021,Xăng,5,Đã sử dụng,Nhật Bản
-7 Series,799.000.000,BMW,Tự động,Sedan,70000,2010,Xăng,4,Đã sử dụng,Đức
-Elantra,676.000.000,Hyundai,Tự động,Sedan,22000,2020,Xăng,5,Đã sử dụng,Việt Nam
-Santa Fe,1.340.000.000,Hyundai,Tự động,SUV / Cross over,,2022,Dầu,7,Mới,Việt Nam
-Spark,165.000.000,Chevrolet,Số sàn,Hatchback,48000,2017,Xăng,5,Đã sử dụng,Việt Nam
-Carnival,1.199.000.000,Kia,Tự động,Minivan (MPV),,2022,Xăng,7,Mới,Việt Nam
-Corolla Altis,728.000.000,Toyota,Tự động,Sedan,16000,2021,Xăng,5,Đã sử dụng,Việt Nam
-CR V,865.000.000,Honda,Tự động,SUV / Cross over,46000,2018,Xăng,7,Đã sử dụng,Thái Lan
-Camry,297.000.000,Toyota,Tự động,,180000,2005,Xăng,,Đã sử dụng,Nhật Bản
-Ranger,535.000.000,Ford,Số sàn,Pick-up (bán tải),51000,2015,Dầu,5,Đã sử dụng,Thái Lan
-Ranger,686.000.000,Ford,Tự động,Pick-up (bán tải),44000,2019,Xăng,5,Đã sử dụng,Thái Lan
-EcoSport,535.000.000,Ford,Tự động,SUV / Cross over,42000,2019,Xăng,5,Đã sử dụng,Việt Nam
-5 Series,2.350.000.000,BMW,Tự động,Sedan,50000,2018,Xăng,5,Đã sử dụng,
-i30,295.000.000,Hyundai,Tự động,,102368,2009,Xăng,,Đã sử dụng,Hàn Quốc
-EcoSport,529.000.000,Ford,Tự động,SUV / Cross over,30000,2018,Xăng,5,Đã sử dụng,
-Land Cruiser,545.000.000,Toyota,Tự động,SUV / Cross over,123,2005,Xăng,8,Đã sử dụng,Việt Nam
+crawled_date,domain,dong_xe,gia,hang,hop_so,id,kieu_dang,km_da_di,nam_sx,nhien_lieu,so_cho_ngoi,tinh_trang,url,xuat_xu
+2022-06-26 16:18:52.021300,xe.chotot.com,Lanos,48.000.000,Daewoo,Số sàn,8d48d640-9d0c-4136-90a2-ab6f4b4ad0d4,,5,2001,Xăng,,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-huyen-trang-bom-dong-nai/96358805.htm,
+2022-06-26 16:18:52.208155,xe.chotot.com,Morning,312.000.000,Kia,Tự động,f1f3d9cc-249e-4017-bbad-5b602993d46d,,60000,2017,Xăng,,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-go-vap-tp-ho-chi-minh/96358819.htm,
+2022-06-26 16:18:52.942432,xe.chotot.com,3,625.000.000,Mazda,Tự động,0a80cc2c-bf8c-4a7c-ad2b-3b7d80234057,Sedan,,2022,Xăng,5,Mới,https://xe.chotot.com/mua-ban-oto-quan-hong-bang-hai-phong/96299487.htm,Việt Nam
+2022-06-26 16:18:52.964434,xe.chotot.com,5 Series,895.000.000,BMW,Tự động,8b9efc4e-9e5c-42f5-8523-64bc35a89cf1,Sedan,70000,2014,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-thanh-pho-thu-duc-tp-ho-chi-minh/96265769.htm,Đức
+2022-06-26 16:18:53.037575,xe.chotot.com,Accord,369.000.000,Honda,Tự động,d6421ff3-4512-49fa-82e5-0a8b48fc6551,Sedan,72000,2008,Xăng,4,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-thanh-pho-thu-duc-tp-ho-chi-minh/95854200.htm,Mỹ
+2022-06-26 16:18:53.043573,xe.chotot.com,E Class,1.450.000.000,Mercedes Benz,Tự động,73364b1d-7fff-43fc-8367-dfdbf6434f31,Sedan,42000,2017,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-cau-giay-ha-noi/92446702.htm,Việt Nam
+2022-06-26 16:18:53.098230,xe.chotot.com,Kona,575.000.000,Hyundai,Tự động,d6da4c1d-749f-4de8-af6d-fc5fb35e6b3c,SUV / Cross over,36000,2018,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-thanh-xuan-ha-noi/95883751.htm,Việt Nam
+2022-06-26 16:18:53.518862,xe.chotot.com,Cruze,330.000.000,Chevrolet,Số sàn,b0a7d363-ab26-4621-896b-1e57c06ceda8,Sedan,66000,2016,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-nam-tu-liem-ha-noi/93424553.htm,Việt Nam
+2022-06-26 16:18:53.525863,xe.chotot.com,CX 5,839.000.000,Mazda,Tự động,ae8ac226-727e-4bb1-8f24-9084429fbb9a,SUV / Cross over,,2022,Xăng,,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-thanh-pho-thu-duc-tp-ho-chi-minh/94963865.htm,Nhật Bản
+2022-06-26 16:18:53.925301,xe.chotot.com,Innova,390.000.000,Toyota,Số sàn,ca6f8d1b-d4c1-436d-be9f-48148bd21a63,Minivan (MPV),73000,2016,Xăng,8,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-tan-binh-tp-ho-chi-minh/96343806.htm,Việt Nam
+2022-06-26 16:18:54.232702,xe.chotot.com,Fortuner,1.248.000.000,Toyota,Tự động,366d5004-bf9f-4f6c-a9fa-c95ca65c2977,SUV / Cross over,,2022,Dầu,7,Mới,https://xe.chotot.com/mua-ban-oto-quan-go-vap-tp-ho-chi-minh/95348065.htm,Việt Nam
+2022-06-26 16:18:54.239701,xe.chotot.com,Sunny,215.000.000,Nissan,Số sàn,0d45ad56-6220-46ff-a7c5-5428cf50bea2,Sedan,230000,2014,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-huyen-nga-son-thanh-hoa/95095654.htm,
+2022-06-26 16:18:54.276032,xe.chotot.com,Transit,635.000.000,Ford,Số sàn,8b949f81-7c83-4984-abd4-342141cc1609,Van,125000,2019,Dầu,16,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-huyen-cu-chi-tp-ho-chi-minh/95456555.htm,
+2022-06-26 16:18:54.339119,xe.chotot.com,Vios,345.000.000,Toyota,Tự động,542cbcc3-2d15-4c14-9eeb-ac6b308b00ae,Sedan,110000,2011,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-long-bien-ha-noi/95798475.htm,Việt Nam
+2022-06-26 16:18:54.529265,xe.chotot.com,K3,695.000.000,Kia,Tự động,e9fa447d-46c6-4a67-b6aa-34369232e8e2,Sedan,1000,2022,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-go-vap-tp-ho-chi-minh/95987335.htm,Việt Nam
+2022-06-26 16:18:54.810997,xe.chotot.com,VFe34,590.000.000,Vinfast,Tự động,e5e5d90a-cc7c-4623-bb5d-535208896e05,SUV / Cross over,,2022,Điện,5,Mới,https://xe.chotot.com/mua-ban-oto-quan-binh-thanh-tp-ho-chi-minh/96276445.htm,Việt Nam
+2022-06-26 16:18:57.255547,xe.chotot.com,Morning,248.000.000,Kia,Tự động,67a25328-1b44-47dd-b34f-3a3b44c4bea0,Hatchback,89000,2015,Xăng,2,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-dong-da-ha-noi/96188409.htm,Hàn Quốc
+2022-06-26 16:18:58.032680,xe.chotot.com,Sorento,1.250.000.000,Kia,Tự động,665198e6-b126-4b08-9fe0-233cb0a94a14,SUV / Cross over,14000,2021,Dầu,7,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-cau-giay-ha-noi/96299352.htm,Việt Nam
+2022-06-26 16:18:58.039682,xe.chotot.com,Innova,590.000.000,Toyota,Số sàn,51392c0b-e7f0-48fe-8f3b-d7d83145e5c0,Minivan (MPV),54000,2018,Xăng,8,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-huyen-cu-chi-tp-ho-chi-minh/90874131.htm,Việt Nam
+2022-06-26 16:18:58.082727,xe.chotot.com,Optima,595.000.000,Kia,Tự động,3dbc4eb8-3a6e-48d4-996c-06a36830c5f9,Sedan,80000,2015,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-long-bien-ha-noi/95915981.htm,
+2022-06-26 16:18:59.297147,xe.chotot.com,Morning,329.000.000,Kia,Tự động,1d991c12-65f1-49d2-9c8a-a89ef4c8b6e8,Hatchback,39000,2019,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-thanh-xuan-ha-noi/95555305.htm,Hàn Quốc
+2022-06-26 16:18:59.344914,xe.chotot.com,Focus,520.000.000,Ford,Tự động,cfb80cf5-58d7-42c2-b582-d211ad6b76cc,Hatchback,36000,2018,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-thanh-xuan-ha-noi/95836691.htm,
+2022-06-26 16:18:59.500427,xe.chotot.com,Transit,185.000.000,Ford,Số sàn,4d0fc752-b4f2-42f0-a6e9-4ef064c97ab5,Van,350000,2007,Dầu,16,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-huyen-cu-chi-tp-ho-chi-minh/95957416.htm,
+2022-06-26 16:19:00.727806,xe.chotot.com,Macan,5.950.000.000,Porsche,Tự động,7c4d7250-6c19-4249-8eb6-2ba27cea92c5,SUV / Cross over,10000,2020,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-cau-giay-ha-noi/94369246.htm,Đức
+2022-06-26 16:19:00.758809,xe.chotot.com,RX,640.000.000,Lexus,Tự động,851a816d-2b4a-4a3d-8bb7-af44435d2724,SUV / Cross over,59000,2008,Xăng,8,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-tan-phu-tp-ho-chi-minh/96358312.htm,
+2022-06-26 16:19:01.052325,xe.chotot.com,Aveo,268.000.000,Chevrolet,Số sàn,c039a2d1-6746-4f8c-9539-890d37d9913f,Sedan,62865,2016,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-ha-dong-ha-noi/96243831.htm,Việt Nam
+2022-06-26 16:19:01.225074,xe.chotot.com,Camry,465.000.000,Toyota,Tự động,a764f0b5-11f0-4e90-bd33-66c3519b0b70,Sedan,120000,2010,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-thanh-xuan-ha-noi/94095570.htm,Việt Nam
+2022-06-26 16:19:01.675637,xe.chotot.com,,300.000.000,,,48ceb232-1246-4506-84e3-ab91f79f24c4,,,,,,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-dong-da-ha-noi/84981544.htm,
+2022-06-26 16:19:01.799851,xe.chotot.com,Land Cruiser,700.000.000,Toyota,Số sàn,fc05f876-b202-468c-b110-e44bddcf6b7b,,192000,2004,Xăng,7,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-thanh-pho-thu-duc-tp-ho-chi-minh/95874221.htm,
+2022-06-26 16:19:02.298089,xe.chotot.com,Innova,719.000.000,Toyota,Tự động,05cc603d-7ec1-4cbf-b298-99a53a2437da,Minivan (MPV),66000,2018,Xăng,7,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-binh-tan-tp-ho-chi-minh/96284968.htm,
+2022-06-26 16:19:02.344538,xe.chotot.com,Yaris,589.000.000,Toyota,Tự động,70f23d49-bafa-40cb-84b7-a45f8ed5cdf6,Hatchback,80000,2018,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-hoang-mai-ha-noi/89439642.htm,Thái Lan
+2022-06-26 16:19:02.436852,xe.chotot.com,Corolla Altis,240.000.000,Toyota,Số sàn,6c5b3f52-ec55-4a16-96b3-1aef04e08817,Sedan,120000,2004,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-huyen-soc-son-ha-noi/95252683.htm,Việt Nam
+2022-06-26 16:19:03.089345,xe.chotot.com,3 Series,945.000.000,BMW,Tự động,b8ea27e7-c188-4b68-b626-b142ae2e8ddc,Sedan,74500,2012,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-1-tp-ho-chi-minh/95920332.htm,
+2022-06-26 16:19:03.096350,xe.chotot.com,Vios,515.000.000,Toyota,Tự động,dcb787d1-4fba-4fc6-9d22-65c06964d7da,Sedan,58000,2019,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-thanh-xuan-ha-noi/94128913.htm,Việt Nam
+2022-06-26 16:19:03.121350,xe.chotot.com,Fadil,352.000.000,Vinfast,Tự động,dfed2871-0d67-43b2-8644-fc8d5a4d2941,Hatchback,,2022,Xăng,5,Mới,https://xe.chotot.com/mua-ban-oto-quan-binh-tan-tp-ho-chi-minh/84789923.htm,Việt Nam
+2022-06-26 16:19:03.127351,xe.chotot.com,Premacy,165.000.000,Mazda,Tự động,7434dfc0-5686-426c-99f3-72b9e042a2d1,SUV / Cross over,120000,2003,Xăng,7,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-cau-giay-ha-noi/96287673.htm,Việt Nam
+2022-06-26 16:19:04.405730,xe.chotot.com,Triton,638.000.000,Mitsubishi,Tự động,349a53a6-881f-47ce-9e46-41bc1e9c7a02,Pick-up (bán tải),,2022,Dầu,4,Mới,https://xe.chotot.com/mua-ban-oto-quan-long-bien-ha-noi/96260793.htm,Thái Lan
+2022-06-26 16:19:04.521623,xe.chotot.com,Morning,196.000.000,Kia,Tự động,8943fa99-2590-4457-87ed-9584233c253c,Hatchback,110000,2011,Xăng,2,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-bac-tu-liem-ha-noi/96199560.htm,Hàn Quốc
+2022-06-26 16:19:04.621635,xe.chotot.com,E Class,1.499.000.000,Mercedes Benz,Tự động,8f5ee769-d365-43bc-abb1-a6fef6387542,Sedan,22000,2017,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-7-tp-ho-chi-minh/95824717.htm,Việt Nam
+2022-06-26 16:19:05.882666,xe.chotot.com,ES,2.640.000.000,Lexus,Tự động,5d9a98c5-f761-486b-ab24-2234c85eba86,Sedan,,2022,Xăng,5,Mới,https://xe.chotot.com/mua-ban-oto-quan-1-tp-ho-chi-minh/95688666.htm,Nhật Bản
+2022-06-26 16:19:05.888666,xe.chotot.com,Ranger,937.000.000,Ford,Tự động,a97f5d91-8661-4bf8-9763-a4d05f62c877,Pick-up (bán tải),,2022,Dầu,5,Mới,https://xe.chotot.com/mua-ban-oto-quan-tan-phu-tp-ho-chi-minh/80691990.htm,Thái Lan
+2022-06-26 16:19:05.928666,xe.chotot.com,Corolla,415.000.000,Toyota,Tự động,43e69fc0-a364-4896-b552-9c471b0bc6ea,Sedan,110000,2010,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-nam-tu-liem-ha-noi/95026502.htm,Đài Loan
+2022-06-26 16:19:06.069652,xe.chotot.com,Captiva,235.000.000,Chevrolet,Tự động,71c33145-1f8e-4464-9eba-f609131b4868,SUV / Cross over,10000,2007,Xăng,7,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-12-tp-ho-chi-minh/96355982.htm,
+2022-06-26 16:19:07.015712,xe.chotot.com,Vios,438.000.000,Toyota,Tự động,d3941f81-9360-47ae-b4ec-f0463707a766,Sedan,60000,2014,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-huyen-soc-son-ha-noi/94927904.htm,Việt Nam
+2022-06-26 16:19:07.030709,xe.chotot.com,Camry,88.000.000,Toyota,Tự động,e212f72a-475f-4dce-bbc9-6a588729a168,Sedan,150000,1995,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-ha-dong-ha-noi/96332483.htm,Nhật Bản
+2022-06-26 16:19:07.169711,xe.chotot.com,Vios,523.000.000,Toyota,Tự động,e83a3e19-f047-4c8a-a172-0af180a87340,Sedan,34000,2019,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-binh-tan-tp-ho-chi-minh/95801740.htm,Việt Nam
+2022-06-26 16:19:07.185712,xe.chotot.com,K3,420.000.000,Kia,Tự động,6cf74964-9db8-46e3-90ee-39a3e3576d64,Sedan,80000,2014,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-huyen-chau-thanh-tien-giang/95317128.htm,
+2022-06-26 16:19:07.293825,xe.chotot.com,Camry,142.000.000,Toyota,Tự động,7ec572f3-661c-413a-8e64-0dd3534b2fe5,,237,1992,Xăng,,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-thanh-pho-thu-duc-tp-ho-chi-minh/96356020.htm,Nhật Bản
+2022-06-26 16:19:07.309909,xe.chotot.com,Fiesta,255.000.000,Ford,Tự động,99d429c4-c2b4-4d9c-8402-a43f6e4240fc,Hatchback,61000,2011,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-thanh-pho-vung-tau-ba-ria-vung-tau/96294260.htm,
+2022-06-26 16:19:08.035433,xe.chotot.com,K3,455.000.000,Kia,Tự động,3de34479-906d-40a9-8112-71fbd349b7b0,Sedan,90000,2015,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-nam-tu-liem-ha-noi/96252579.htm,Việt Nam
+2022-06-26 16:19:08.052432,xe.chotot.com,Rondo,465.000.000,Kia,Số sàn,4a207941-2d9c-4ccb-9888-1ff14027b75d,Minivan (MPV),48000,2019,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-go-vap-tp-ho-chi-minh/95692551.htm,Việt Nam
+2022-06-26 16:19:08.183430,xe.chotot.com,Rio,350.000.000,Kia,Số sàn,7f6248d8-8e3c-4806-876b-dfc4ac8c4ab3,Sedan,148000,2017,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-thanh-pho-thuan-an-binh-duong/96328309.htm,Hàn Quốc
+2022-06-26 16:19:08.579996,xe.chotot.com,Pickup,430.000.000,Mazda,Số sàn,e77a05e1-87fb-4738-a91a-e23aeafa9199,Pick-up (bán tải),190000,2014,Dầu,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-huyen-hoc-mon-tp-ho-chi-minh/96356143.htm,Thái Lan
+2022-06-26 16:19:09.256509,xe.chotot.com,Sorento,465.000.000,Kia,Tự động,e890c229-b425-46e5-b600-46fc754cd320,SUV / Cross over,80000,2012,Xăng,7,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-cau-giay-ha-noi/96355816.htm,
+2022-06-26 16:19:09.397878,xe.chotot.com,3 Series,285.000.000,BMW,Tự động,1c3708b9-1f47-4f71-9a21-7dfb376f2fd5,,100000,2007,Xăng,,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-12-tp-ho-chi-minh/95803704.htm,
+2022-06-26 16:19:10.770887,xe.chotot.com,Escape,175.000.000,Ford,Tự động,f1f40c0b-d51d-4c5b-af7d-14a86e977842,SUV / Cross over,160000,2002,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-thanh-pho-thu-duc-tp-ho-chi-minh/94665468.htm,Việt Nam
+2022-06-26 16:19:10.832918,xe.chotot.com,CX 5,695.000.000,Mazda,Tự động,be0c4b23-ae16-4353-9538-1afa11065443,SUV / Cross over,51000,2017,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-cam-le-da-nang/96303652.htm,
+2022-06-26 16:19:10.927053,xe.chotot.com,Focus,445.000.000,Ford,Tự động,8eb5e6e8-101a-467e-a450-edfd60e30b5d,Hatchback,70000,2015,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-huyen-hoa-thanh-tay-ninh/96041115.htm,Việt Nam
+2022-06-26 16:19:11.997766,xe.chotot.com,Camry,49.000.000,Toyota,Tự động,5384aa85-c551-4884-8446-34055c372a63,Sedan,123456,1987,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-thanh-pho-tay-ninh-tay-ninh/94932371.htm,Nhật Bản
+2022-06-26 16:19:12.043817,xe.chotot.com,Fortuner,720.000.000,Toyota,Số sàn,9b07b862-9f43-4b07-9675-5a4624f906dc,SUV / Cross over,166000,2016,Dầu,7,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-thanh-pho-vi-thanh-hau-giang/96041693.htm,Việt Nam
+2022-06-26 16:19:12.051819,xe.chotot.com,Triton,509.000.000,Mitsubishi,Tự động,2bce485d-1827-4e33-99ee-ca20fbe4e3c4,Pick-up (bán tải),87000,2017,Dầu,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-hoang-mai-ha-noi/94290786.htm,Thái Lan
+2022-06-26 16:19:12.325459,xe.chotot.com,Almera,539.000.000,Nissan,Tự động,e30e0eba-c4ed-48b7-a34d-3a09626facf0,Sedan,,2022,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-10-tp-ho-chi-minh/93786008.htm,Thái Lan
+2022-06-26 16:19:12.507153,xe.chotot.com,5 Series,679.000.000,BMW,Tự động,50cea217-4b45-461b-adcb-add5f3e231da,Sedan,70000,2010,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-long-bien-ha-noi/96300812.htm,
+2022-06-26 16:19:12.622962,xe.chotot.com,Ranger,725.000.000,Ford,Tự động,4fbec78d-737a-4da3-96e2-c9ab774927d7,Pick-up (bán tải),59000,2017,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-binh-thanh-tp-ho-chi-minh/96355869.htm,Thái Lan
+2022-06-26 16:19:12.982061,xe.chotot.com,Sonata,272.000.000,Hyundai,Số sàn,ec4515b0-90e1-46e3-80d2-1647fa21d7b9,Sedan,88000,2009,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-thanh-pho-thu-duc-tp-ho-chi-minh/96355892.htm,Hàn Quốc
+2022-06-26 16:19:13.265748,xe.chotot.com,Morning,158.000.000,Kia,Tự động,55f65534-a1ea-4167-b729-3555b3ccb8c5,Hatchback,120000,2009,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-bac-tu-liem-ha-noi/96236922.htm,Hàn Quốc
+2022-06-26 16:19:13.467973,xe.chotot.com,Grand i10,240.000.000,Hyundai,Số sàn,68361291-9194-4b8f-ac7d-cbcaa7d4be97,Hatchback,180000,2014,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-huyen-nam-sach-hai-duong/96355919.htm,Ấn Độ
+2022-06-26 16:19:13.697685,xe.chotot.com,C Class,930.000.000,Mercedes Benz,Tự động,47a95e34-0b59-482f-9e2b-b6e0e4f7efaf,Sedan,100000,2014,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-tan-phu-tp-ho-chi-minh/96221249.htm,Đức
+2022-06-26 16:19:13.885832,xe.chotot.com,Ranger,518.000.000,Ford,Số sàn,8a3f89e2-1d6c-4459-93f4-81e27f7b0d27,Pick-up (bán tải),93000,2017,Dầu,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-thanh-pho-bien-hoa-dong-nai/96355550.htm,Thái Lan
+2022-06-26 16:19:14.256090,xe.chotot.com,Ranger,555.000.000,Ford,Tự động,a86876c2-3c28-4789-88dd-5341512b8520,Pick-up (bán tải),92000,2015,Xăng,4,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-go-vap-tp-ho-chi-minh/95934931.htm,Thái Lan
+2022-06-26 16:19:14.630601,xe.chotot.com,3,475.000.000,Mazda,Tự động,d7981c70-3293-49d3-b2e5-4e5a9178fd6c,Hatchback,80000,2015,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-huyen-dak-ha-kon-tum/96355588.htm,
+2022-06-26 16:19:15.893338,xe.chotot.com,Elantra,460.000.000,Hyundai,Số sàn,0fd00acb-d0af-48f3-825b-6a5837f5080a,Sedan,52000,2019,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-nam-tu-liem-ha-noi/96236770.htm,Việt Nam
+2022-06-26 16:19:15.989297,xe.chotot.com,Everest,1.375.000.000,Ford,Tự động,7e05e99a-1308-4c71-af53-dd93d4551497,SUV / Cross over,7900,2021,Dầu,7,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-long-bien-ha-noi/95055906.htm,Thái Lan
+2022-06-26 16:19:16.496967,xe.chotot.com,GLC Class,1.859.000.000,Mercedes Benz,Tự động,317618cb-a25c-4e0d-a8de-8fbd114afff1,SUV / Cross over,,2022,Xăng,5,Mới,https://xe.chotot.com/mua-ban-oto-quan-long-bien-ha-noi/95808557.htm,Việt Nam
+2022-06-26 16:19:17.122880,xe.chotot.com,3 Series,295.000.000,BMW,Tự động,e4a3f6c7-0f18-4ff0-85e7-c5ca6f033af4,Sedan,86658,2009,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-thanh-pho-thuan-an-binh-duong/93412239.htm,Đức
+2022-06-26 16:19:17.202892,xe.chotot.com,Focus,395.000.000,Ford,Tự động,e6ff48ae-b15f-4b97-bae0-3e94f4fa9f45,Sedan,72000,2013,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-hoang-mai-ha-noi/94344860.htm,Việt Nam
+2022-06-26 16:19:17.389588,xe.chotot.com,Vios,518.000.000,Toyota,Tự động,4c35b2c7-3734-4057-afc5-0c05cd2a9a4e,Sedan,38000,2020,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-thanh-pho-thu-duc-tp-ho-chi-minh/93644199.htm,Việt Nam
+2022-06-26 16:19:17.756957,xe.chotot.com,Xpander,525.000.000,Mitsubishi,Số sàn,25406764-672c-4621-85f4-38a0048b4887,Minivan (MPV),,2021,Xăng,7,Mới,https://xe.chotot.com/mua-ban-oto-quan-hoang-mai-ha-noi/96355670.htm,
+2022-06-26 16:19:17.793596,xe.chotot.com,RX,630.000.000,Lexus,Tự động,3f22722b-0b93-49f4-9b7b-b738e3084d7e,SUV / Cross over,56000,2007,Xăng,7,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-huyen-hoa-thanh-tay-ninh/96355691.htm,Nước khác
+2022-06-26 16:19:17.856027,xe.chotot.com,Fortuner,490.000.000,Toyota,Tự động,722c305d-e9a5-464d-87be-127c2c69cbc7,SUV / Cross over,100000,2013,Xăng,7,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-nam-tu-liem-ha-noi/95559423.htm,Việt Nam
+2022-06-26 16:19:17.997024,xe.chotot.com,Fortuner,619.000.000,Toyota,Tự động,7105573f-b05a-4d86-abb1-9c605ab6d358,SUV / Cross over,68000,2016,Xăng,7,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-hoang-mai-ha-noi/88261647.htm,Việt Nam
+2022-06-26 16:19:18.402268,xe.chotot.com,Civic,345.000.000,Honda,Tự động,b425ca48-6978-4592-8ad7-b9f28b0f7840,Sedan,40000,2009,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-cau-giay-ha-noi/95844215.htm,
+2022-06-26 16:19:18.530036,xe.chotot.com,Jolie,179.000.000,Mitsubishi,Số sàn,9f365271-0d1c-46b4-a5dd-a2e6ed5e5755,SUV / Cross over,12000,2006,Xăng,8,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-cai-rang-can-tho/93251627.htm,Nhật Bản
+2022-06-26 16:19:19.155590,xe.chotot.com,Camry,42.000.000,Toyota,Số sàn,121dd76e-7dc5-43cd-b0ee-3028f02bd6ba,,123456,1985,Xăng,,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-huyen-hoc-mon-tp-ho-chi-minh/96107737.htm,
+2022-06-26 16:19:19.160590,xe.chotot.com,Lux,930.000.000,Vinfast,Tự động,1ce059ba-0855-4eac-8b21-ae4871a7f271,SUV / Cross over,12000,2020,Xăng,7,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-huyen-gia-lam-ha-noi/96355778.htm,
+2022-06-26 16:19:19.296720,xe.chotot.com,Camry,665.000.000,Toyota,Tự động,951dcc14-2dfc-41ed-9c49-b47ec2578d72,Sedan,20000,2013,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-cau-giay-ha-noi/96355301.htm,
+2022-06-26 16:19:19.716849,xe.chotot.com,Camry,425.000.000,Toyota,Tự động,802b25c7-c14a-46ec-a1b4-ff4496fae9b0,Sedan,90000,2008,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-cau-giay-ha-noi/95866934.htm,
+2022-06-26 16:19:21.097557,xe.chotot.com,,85.000.000,Smart,Số sàn,7c1d22c7-996e-40f1-8f3a-5020187c3af6,,91000,2004,Xăng,,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-nam-tu-liem-ha-noi/96356223.htm,Đức
+2022-06-26 16:19:21.128990,xe.chotot.com,Xpander,565.000.000,Mitsubishi,Tự động,143f1fae-7f47-448c-84a5-2725fd5b886c,SUV / Cross over,43000,2019,Xăng,7,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-12-tp-ho-chi-minh/96356207.htm,Ấn Độ
+2022-06-26 16:19:21.614375,xe.chotot.com,Vios,435.000.000,Toyota,Tự động,5b547248-549a-4308-9079-ea4aee7162b2,Sedan,36000,2019,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-thanh-pho-thu-duc-tp-ho-chi-minh/96313596.htm,Thái Lan
+2022-06-26 16:19:22.422047,xe.chotot.com,Kona,595.000.000,Hyundai,Tự động,247f9e0b-0edc-4531-9d8d-2699bcbb4130,SUV / Cross over,41000,2018,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-cam-le-da-nang/96121194.htm,Hàn Quốc
+2022-06-26 16:19:22.715637,xe.chotot.com,3 Series,650.000.000,BMW,Tự động,7702f914-9949-4a7d-9b82-c879eaadf5ad,,,2013,Xăng,,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-thanh-pho-thu-duc-tp-ho-chi-minh/96356309.htm,
+2022-06-26 16:19:22.905325,xe.chotot.com,Camry,415.000.000,Toyota,Tự động,3634215a-b66c-4ed9-927e-48572143a8a1,Sedan,92000,2008,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-12-tp-ho-chi-minh/95469479.htm,Việt Nam
+2022-06-26 16:19:22.934323,xe.chotot.com,Grand i10,182.000.000,Hyundai,Số sàn,28c584c8-f706-41b3-922e-703e91b0c269,Hatchback,6886,2014,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-huyen-nho-quan-ninh-binh/95074523.htm,
+2022-06-26 16:19:23.075086,xe.chotot.com,Hiace,185.000.000,Toyota,Số sàn,851279f4-c33b-424b-a2dd-0d40927099a4,Van,120000,2007,Xăng,10,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-12-tp-ho-chi-minh/85726686.htm,Nhật Bản
+2022-06-26 16:19:23.081084,xe.chotot.com,City,485.000.000,Honda,Tự động,581deae7-368b-42e8-a9f6-cfc22b355a59,Sedan,40000,2018,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-nam-tu-liem-ha-noi/96318175.htm,Việt Nam
+2022-06-26 16:19:23.615757,xe.chotot.com,Navara,535.000.000,Nissan,Tự động,771d2a9a-d10e-4720-a924-9066a5419f77,Pick-up (bán tải),58000,2017,Dầu,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-long-bien-ha-noi/96301188.htm,
+2022-06-26 16:19:23.678250,xe.chotot.com,Triton,665.000.000,Mitsubishi,Tự động,7139c8fd-26d7-4b02-b3a1-8dedc28af56d,Pick-up (bán tải),16000,2021,Dầu,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-thanh-xuan-ha-noi/95498085.htm,Thái Lan
+2022-06-26 16:19:23.741795,xe.chotot.com,Innova,715.000.000,Toyota,Số sàn,af5770c9-4de1-4735-bde6-0e1907c4f1c8,Minivan (MPV),123000,2020,Xăng,8,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-7-tp-ho-chi-minh/95553861.htm,Việt Nam
+2022-06-26 16:19:24.316992,xe.chotot.com,RX,3.240.000.000,Lexus,Tự động,6511b73f-0c87-4502-be96-6197c62dbeb2,SUV / Cross over,,2022,Xăng,5,Mới,https://xe.chotot.com/mua-ban-oto-quan-cau-giay-ha-noi/67065446.htm,Nhật Bản
+2022-06-26 16:19:24.500869,xe.chotot.com,Camry,420.000.000,Toyota,Tự động,0e847f09-941c-4bcd-b211-3e909d4edea7,Sedan,86000,2009,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-12-tp-ho-chi-minh/96356434.htm,
+2022-06-26 16:19:24.921365,xe.chotot.com,Cerato,610.000.000,Kia,Tự động,798e9c37-a3a3-4ea5-876c-34765dc84a02,,30000,2019,Xăng,,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-tan-phu-tp-ho-chi-minh/94348195.htm,
+2022-06-26 16:19:24.997358,xe.chotot.com,Rush,569.000.000,Toyota,Tự động,01c6e088-76d6-494c-98c0-3dff4a165d8a,SUV / Cross over,57000,2018,Xăng,7,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-binh-tan-tp-ho-chi-minh/96295695.htm,
+2022-06-26 16:19:26.551267,xe.chotot.com,Vios,525.000.000,Toyota,Tự động,3d225007-7d9f-4477-85cd-bbfd886a22cd,Sedan,38000,2019,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-huyen-soc-son-ha-noi/94870569.htm,Việt Nam
+2022-06-26 16:19:26.692383,xe.chotot.com,EcoSport,370.000.000,Ford,Số sàn,92ec7749-9533-426e-aa72-aa55c65d0c47,SUV / Cross over,100000,2017,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-6-tp-ho-chi-minh/96195347.htm,Việt Nam
+2022-06-26 16:19:27.394140,xe.chotot.com,Xpander,588.000.000,Mitsubishi,Tự động,ae0c5c61-892f-4e6a-bf6e-5cbea7192dda,Minivan (MPV),,2022,Xăng,7,Mới,https://xe.chotot.com/mua-ban-oto-quan-long-bien-ha-noi/96296138.htm,Nước khác
+2022-06-26 16:19:27.627800,xe.chotot.com,Ranger,555.000.000,Ford,Tự động,bd898352-efd5-47f4-9842-1581f8131d61,Pick-up (bán tải),80000,2016,Dầu,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-long-bien-ha-noi/96356448.htm,Việt Nam
+2022-06-26 16:19:27.847117,xe.chotot.com,Ranger,855.000.000,Ford,Tự động,79120d97-2192-47b4-9eef-51072c3f62ab,Pick-up (bán tải),23000,2019,Dầu,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-thanh-xuan-ha-noi/96356472.htm,
+2022-06-26 16:19:27.971118,xe.chotot.com,Ranger,715.000.000,Ford,Tự động,022f53a5-e739-4267-be5d-09548d1bd5ac,Pick-up (bán tải),240000,2020,Dầu,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-nam-tu-liem-ha-noi/96014525.htm,Thái Lan
+2022-06-26 16:19:28.035601,xe.chotot.com,Soluto,365.000.000,Kia,Tự động,d717d2dc-3aa1-4bdf-adb8-7f6e857cb123,Sedan,170000,2019,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-huyen-luc-ngan-bac-giang/95571435.htm,Việt Nam
+2022-06-26 16:19:28.139599,xe.chotot.com,Xpander,525.000.000,Mitsubishi,Số sàn,0b87e1de-f2d2-495a-a16d-c7943e15523e,Minivan (MPV),,2021,Xăng,7,Mới,https://xe.chotot.com/mua-ban-oto-quan-hoang-mai-ha-noi/95380820.htm,Thái Lan
+2022-06-26 16:19:28.841853,xe.chotot.com,Cerato,593.000.000,Kia,Tự động,57088f8e-6169-48be-8547-67d03af92bb9,Sedan,39000,2019,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-cau-giay-ha-noi/96331686.htm,
+2022-06-26 16:19:28.849848,xe.chotot.com,C Class,1.199.000.000,Mercedes Benz,Tự động,20760ac7-3f1c-48dc-9c30-900504b1df23,Sedan,45000,2016,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-thanh-xuan-ha-noi/96211112.htm,
+2022-06-26 16:19:28.862850,xe.chotot.com,Veloz,688.000.000,Toyota,Tự động,af251bd3-d606-45f6-bb0b-66c9a4cbfc69,Minivan (MPV),,2022,Xăng,7,Mới,https://xe.chotot.com/mua-ban-oto-huyen-binh-chanh-tp-ho-chi-minh/96286173.htm,Nước khác
+2022-06-26 16:19:28.968942,xe.chotot.com,Spark,224.000.000,Chevrolet,Tự động,90daaddd-dcd9-465b-974f-81b7861399fa,Hatchback,82000,2013,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-thanh-pho-thu-dau-mot-binh-duong/95941065.htm,Việt Nam
+2022-06-26 16:19:29.425320,xe.chotot.com,City,490.000.000,Honda,Tự động,44224c7e-ef25-4877-aaa0-7263b07bf447,Sedan,31000,2019,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-bac-tu-liem-ha-noi/94431410.htm,Việt Nam
+2022-06-26 16:19:29.551131,xe.chotot.com,1 Series,788.000.000,BMW,Tự động,4d6ca2e6-f8c8-46bd-9e81-c4fdc202e51f,Hatchback,26000,2014,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-7-tp-ho-chi-minh/96049497.htm,Đức
+2022-06-26 16:19:30.110939,xe.chotot.com,Corolla Altis,719.000.000,Toyota,Tự động,088230b3-f531-4f7f-bd05-3bda92fd8ed1,Sedan,,2022,Xăng,5,Mới,https://xe.chotot.com/mua-ban-oto-quan-long-bien-ha-noi/96147501.htm,Thái Lan
+2022-06-26 16:19:30.156978,xe.chotot.com,626,125.000.000,Mazda,Số sàn,2342660e-8bc3-445b-9252-656103a54300,,200000,2000,Xăng,,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-10-tp-ho-chi-minh/96148475.htm,Nhật Bản
+2022-06-26 16:19:31.795676,xe.chotot.com,5,885.000.000,Mazda,Tự động,87d40b75-3af0-4845-999b-b28682be3fe5,SUV / Cross over,8000,2020,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-hai-an-hai-phong/96170834.htm,Việt Nam
+2022-06-26 16:19:32.061917,xe.chotot.com,Sprinter,215.000.000,Mercedes Benz,Số sàn,dd789d9c-6025-41d1-bca9-c9ac828415ff,Van,250000,2008,Dầu,6,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-huyen-cu-chi-tp-ho-chi-minh/96270704.htm,
+2022-06-26 16:19:32.590484,xe.chotot.com,CR V,998.000.000,Honda,Tự động,bf15e9c3-9817-4126-aad9-b3ecf81b592c,SUV / Cross over,,2022,Xăng,7,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-hai-chau-da-nang/94628260.htm,Việt Nam
+2022-06-26 16:19:32.760525,xe.chotot.com,BT 50,475.000.000,Mazda,Số sàn,0742c7d9-5f29-4faa-bfee-951342a6b4da,Pick-up (bán tải),75000,2016,Dầu,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-binh-tan-tp-ho-chi-minh/95572255.htm,Việt Nam
+2022-06-26 16:19:32.977746,xe.chotot.com,Cruze,420.000.000,Chevrolet,Tự động,a0fc1183-d62a-4f3f-bcbd-a411b4b7bf26,Sedan,38000,2017,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-nam-tu-liem-ha-noi/93288356.htm,Việt Nam
+2022-06-26 16:19:33.192944,xe.chotot.com,Morning,199.000.000,Kia,Tự động,9095689e-ca50-4e72-82bd-ccb7b27ddae0,Hatchback,100000,2008,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-cau-giay-ha-noi/95844888.htm,
+2022-06-26 16:19:33.319926,xe.chotot.com,Colorado,545.000.000,Chevrolet,Tự động,4fb70eba-234d-457b-bc9b-d3d06010106e,Pick-up (bán tải),50000,2018,Dầu,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-bac-tu-liem-ha-noi/95813845.htm,Thái Lan
+2022-06-26 16:19:33.927821,xe.chotot.com,Fortuner,535.000.000,Toyota,Số sàn,c5fc0d0e-7813-47f7-b92c-cf6f6996970d,SUV / Cross over,99000,2010,Dầu,7,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-huyen-bac-tan-uyen-binh-duong/96337036.htm,Nhật Bản
+2022-06-26 16:19:34.006164,xe.chotot.com,Morning,213.000.000,Kia,Số sàn,e264d99e-f0de-42a0-844a-ceea7bee45bc,Hatchback,6000,2017,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-dong-da-ha-noi/95155858.htm,Hàn Quốc
+2022-06-26 16:19:34.069476,xe.chotot.com,Accent,509.000.000,Hyundai,Tự động,ace9751e-b4d8-4cef-b994-29752edf7b73,Sedan,25000,2019,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-cau-giay-ha-noi/96307523.htm,Việt Nam
+2022-06-26 16:19:34.428064,xe.chotot.com,Cruze,409.000.000,Chevrolet,Tự động,83899ecb-c12e-489a-8ee5-19b32076c119,Sedan,46000,2017,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-thanh-pho-thu-duc-tp-ho-chi-minh/95249116.htm,Mỹ
+2022-06-26 16:19:34.444067,xe.chotot.com,Ranger,860.000.000,Ford,Tự động,a7775b82-c17b-460d-9597-e55313054adc,Pick-up (bán tải),23000,2019,Dầu,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-thanh-xuan-ha-noi/96356652.htm,Thái Lan
+2022-06-26 16:19:34.658680,xe.chotot.com,City,435.000.000,Honda,Tự động,a784a7da-00c1-4fa0-9afd-c5c5aa8fb302,Sedan,20000,2016,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-thanh-pho-thu-duc-tp-ho-chi-minh/96065010.htm,Thái Lan
+2022-06-26 16:19:35.286342,xe.chotot.com,2,488.000.000,Mazda,Tự động,784812db-f26d-45c2-b461-236827b87374,Sedan,29000,2019,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-thanh-pho-thu-duc-tp-ho-chi-minh/94893187.htm,Nước khác
+2022-06-26 16:19:35.749675,xe.chotot.com,Xpander,505.000.000,Mitsubishi,Số sàn,a76226ff-9355-402c-8e96-088988547a1f,Minivan (MPV),,2021,Xăng,7,Mới,https://xe.chotot.com/mua-ban-oto-quan-bac-tu-liem-ha-noi/95655710.htm,Ấn Độ
+2022-06-26 16:19:35.919523,xe.chotot.com,Innova,379.000.000,Toyota,Số sàn,2c143da9-abf5-4dcf-ae9e-80ff3d46e993,,67,2015,Xăng,,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-huyen-cu-chi-tp-ho-chi-minh/95684881.htm,
+2022-06-26 16:19:37.070914,xe.chotot.com,Sunny,220.000.000,Nissan,Tự động,7cfe849c-b4d1-4712-95b9-ff45c94226f5,Sedan,500000,2014,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-thanh-pho-ha-long-quang-ninh/96356794.htm,Việt Nam
+2022-06-26 16:19:37.789098,xe.chotot.com,C Class,410.000.000,Mercedes Benz,Tự động,d7b25a69-f830-413b-82b8-e796d41f5558,,80000,2010,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-thanh-pho-thu-duc-tp-ho-chi-minh/96012716.htm,
+2022-06-26 16:19:37.795095,xe.chotot.com,Dòng khác,78.000.000,Mekong,Số sàn,17a68673-b5b9-47f6-8a00-740bfcf53b39,Kiểu dáng khác,123456,2008,Dầu,7,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-thanh-pho-thu-duc-tp-ho-chi-minh/96357407.htm,Việt Nam
+2022-06-26 16:19:38.087760,xe.chotot.com,Camry,650.000.000,Toyota,Tự động,a8742d28-7c50-4c8f-87aa-667496afc4ce,Sedan,68000,2015,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-thanh-pho-bien-hoa-dong-nai/93152852.htm,
+2022-06-26 16:19:38.120777,xe.chotot.com,Morning,235.000.000,Kia,Tự động,a0ed1f38-63ed-47b0-8501-ffcb96f1ef54,Hatchback,98000,2011,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-huyen-soc-son-ha-noi/95008998.htm,Việt Nam
+2022-06-26 16:19:38.124778,xe.chotot.com,Corona,100.000.000,Toyota,Số sàn,d6a50382-6c9b-4e9a-9f75-10551f4f2b65,Sedan,10000,1993,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-huyen-phong-dien-can-tho/96357457.htm,Nhật Bản
+2022-06-26 16:19:38.351645,xe.chotot.com,Morning,359.000.000,Kia,Số sàn,943ed0a3-db0d-49d7-8b2b-0b44040d4503,Hatchback,,2022,Xăng,5,Mới,https://xe.chotot.com/mua-ban-oto-thanh-pho-thuan-an-binh-duong/96357447.htm,Hàn Quốc
+2022-06-26 16:19:38.915719,xe.chotot.com,,520.000.000,Hyundai,Tự động,95f4ba28-9593-46ea-a8ee-668601721e85,Coupe (2 cửa),686868,2013,Xăng,4,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-thanh-pho-thu-duc-tp-ho-chi-minh/96312171.htm,Hàn Quốc
+2022-06-26 16:19:39.022580,xe.chotot.com,i20,425.000.000,Hyundai,Tự động,7d7c9362-37d7-40c4-ac2b-2d865ba436f5,SUV / Cross over,86000,2015,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-nam-tu-liem-ha-noi/96357365.htm,
+2022-06-26 16:19:39.251684,xe.chotot.com,Sprinter,175.000.000,Mercedes Benz,Số sàn,40b9838e-dd02-445d-b126-9ad7a2b289fc,Van,250000,2007,Dầu,6,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-huyen-cu-chi-tp-ho-chi-minh/91801176.htm,
+2022-06-26 16:19:39.505517,xe.chotot.com,CX 5,555.000.000,Mazda,Tự động,355fa884-30b4-41bf-b3d9-87889656c203,SUV / Cross over,70000,2012,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-hai-an-hai-phong/96332769.htm,Nhật Bản
+2022-06-26 16:19:39.565584,xe.chotot.com,Cruze,380.000.000,Chevrolet,Tự động,31b4daed-d5db-40e3-b23e-36a027900b1a,Sedan,540000,2016,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-thanh-pho-bien-hoa-dong-nai/96330033.htm,Mỹ
+2022-06-26 16:19:39.647584,xe.chotot.com,Ranger,485.000.000,Ford,Tự động,f78d43de-9e95-4010-a470-3a5e41147630,Pick-up (bán tải),103000,2017,Dầu,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-tan-binh-tp-ho-chi-minh/96335494.htm,Thái Lan
+2022-06-26 16:19:40.446644,xe.chotot.com,Xpander,630.000.000,Mitsubishi,Tự động,b64dd1fc-e1e1-4e80-9b15-425c34f05e8b,Minivan (MPV),,2021,Xăng,7,Mới,https://xe.chotot.com/mua-ban-oto-thanh-pho-thu-dau-mot-binh-duong/95649956.htm,
+2022-06-26 16:19:40.774080,xe.chotot.com,Triton,650.000.000,Mitsubishi,Tự động,51f4a2a8-6ea4-4a2f-9884-6a723bfd556c,Pick-up (bán tải),,2022,Dầu,5,Mới,https://xe.chotot.com/mua-ban-oto-thanh-pho-bien-hoa-dong-nai/86491262.htm,Thái Lan
+2022-06-26 16:19:41.115701,xe.chotot.com,3,495.000.000,Mazda,Tự động,c2ffba40-8ff7-47c4-b83d-c62f765ab91b,Sedan,56000,2015,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-cau-giay-ha-noi/95867030.htm,
+2022-06-26 16:19:42.220669,xe.chotot.com,Morning,339.000.000,Kia,Tự động,25170920-cdbb-48c8-b83b-d6e0aecccb3b,Hatchback,50000,2017,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-hoang-mai-ha-noi/96225804.htm,Việt Nam
+2022-06-26 16:19:42.792392,xe.chotot.com,Coupe,295.000.000,Hyundai,Tự động,a96368cc-b242-46ed-9c0a-a4e8544d8b21,Coupe (2 cửa),12345,2007,Xăng,4,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-thanh-pho-thu-duc-tp-ho-chi-minh/94814893.htm,Hàn Quốc
+2022-06-26 16:19:42.951266,xe.chotot.com,Corolla Altis,728.000.000,Toyota,Tự động,667fe289-d49e-4c11-8d8a-a655afa91e6f,Sedan,16000,2021,Xăng,5,Đã sử dụng,https://xe.chotot.com/95153527.htm,Việt Nam
+2022-06-26 16:19:43.052676,xe.chotot.com,Corolla Altis,439.000.000,Toyota,Tự động,57244932-62e0-4856-b60e-4336b193bd72,,11000,2011,Xăng,,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-hoang-mai-ha-noi/96263861.htm,
+2022-06-26 16:19:43.629580,xe.chotot.com,Ranger,835.000.000,Ford,Tự động,628ac0f4-4326-4f9c-b3cb-5fc0da8bf652,Pick-up (bán tải),79000,2017,Dầu,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-tan-phu-tp-ho-chi-minh/91468699.htm,Thái Lan
+2022-06-26 16:19:43.635576,xe.chotot.com,Zace,175.000.000,Toyota,Số sàn,880db31f-0728-4930-9746-0d21f08870c5,,160000,2003,Xăng,,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-thanh-pho-bien-hoa-dong-nai/95362535.htm,
+2022-06-26 16:19:44.070258,xe.chotot.com,Gentra,149.000.000,Daewoo,Số sàn,35c7abfd-77a7-4008-83f1-62b2a2799777,,130000,2009,Xăng,,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-7-tp-ho-chi-minh/96357946.htm,
+2022-06-26 16:19:44.160290,xe.chotot.com,CR V,660.000.000,Honda,Tự động,6a66f989-60fe-4617-89df-d35a946e834b,SUV / Cross over,110000,2015,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-bac-tu-liem-ha-noi/94909037.htm,Việt Nam
+2022-06-26 16:19:44.241150,xe.chotot.com,Transit,235.000.000,Ford,Số sàn,05fa90b6-8006-4da0-9964-4bac5a68b25b,Van,250000,2009,Dầu,7,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-huyen-cu-chi-tp-ho-chi-minh/95486235.htm,
+2022-06-26 16:19:44.394302,xe.chotot.com,3,695.000.000,Mazda,Tự động,c4686a6e-388b-4225-b60f-8a9fd042b085,Sedan,8000,2021,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-hai-an-hai-phong/96172777.htm,Việt Nam
+2022-06-26 16:19:44.861984,xe.chotot.com,Cruze,305.000.000,Chevrolet,Số sàn,68558713-f29a-41b2-b2f8-510659ca1de0,,85000,2015,Xăng,,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-hai-chau-da-nang/96118937.htm,
+2022-06-26 16:19:44.941189,xe.chotot.com,Corolla Altis,260.000.000,Toyota,Số sàn,2a7ddf03-34f6-4cdb-98a1-794ce5a306af,Sedan,123,2007,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-thanh-pho-bien-hoa-dong-nai/96358034.htm,
+2022-06-26 16:19:45.177719,xe.chotot.com,Morning,335.000.000,Kia,Tự động,e205942a-b173-4bc7-bd48-98e7fe1c305f,Hatchback,16000,2017,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-bac-tu-liem-ha-noi/93425632.htm,Việt Nam
+2022-06-26 16:19:45.567826,xe.chotot.com,Dòng khác,9.999.999,Kia,Tự động,2c8156da-7474-4cab-92c3-a299927ac018,,,2022,Xăng,,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-binh-tan-tp-ho-chi-minh/96358067.htm,
+2022-06-26 16:19:45.800634,xe.chotot.com,Attrage,380.000.000,Mitsubishi,Số sàn,a545c652-3fde-483b-b71f-8c45e98009c0,Sedan,,2022,Xăng,,Mới,https://xe.chotot.com/mua-ban-oto-quan-hai-chau-da-nang/96005288.htm,Thái Lan
+2022-06-26 16:19:46.441841,xe.chotot.com,LX,9.500.000.000,Lexus,Tự động,15e0d2c0-cde7-4a0e-9aad-9e9935e15472,SUV / Cross over,3000,2021,Xăng,7,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-nam-tu-liem-ha-noi/96179377.htm,Nhật Bản
+2022-06-26 16:19:46.985318,xe.chotot.com,Innova,255.000.000,Toyota,Số sàn,afb7a930-b730-4d07-8957-f1d77e4c1c44,Minivan (MPV),19,2009,Xăng,8,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-thanh-pho-soc-trang-soc-trang/96358081.htm,Việt Nam
+2022-06-26 16:19:47.620226,xe.chotot.com,Everest,220.000.000,Ford,Số sàn,71f6ea79-b69d-4fbe-99ef-2d89b2b4840b,SUV / Cross over,148000,2006,Dầu,7,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-huyen-binh-chanh-tp-ho-chi-minh/96270915.htm,
+2022-06-26 16:19:47.871324,xe.chotot.com,Rush,580.000.000,Toyota,Tự động,fcbf18a3-b937-4b7e-8610-b73689c51ba1,SUV / Cross over,40000,2019,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-long-bien-ha-noi/96072826.htm,
+2022-06-26 16:19:48.686303,xe.chotot.com,Lacetti,158.000.000,Daewoo,Số sàn,8cd5324b-d54f-434e-aaf5-6741c22c9116,,120000,2010,Xăng,,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-hai-ba-trung-ha-noi/88735739.htm,Việt Nam
+2022-06-26 16:19:48.818861,xe.chotot.com,Lux,735.000.000,Vinfast,Tự động,d7e04301-f91d-45aa-b556-11e1c60abc8a,Sedan,,2022,Xăng,5,Mới,https://xe.chotot.com/mua-ban-oto-quan-bac-tu-liem-ha-noi/96199331.htm,Việt Nam
+2022-06-26 16:19:48.851883,xe.chotot.com,Swift,355.000.000,Suzuki,Tự động,75f39eb5-51a3-448d-b7a5-76436e309f3c,Hatchback,68000,2015,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-cau-giay-ha-noi/96222179.htm,
+2022-06-26 16:19:48.865883,xe.chotot.com,Spark,198.000.000,Chevrolet,Tự động,27dd3ca3-357d-4c81-ab0e-3db341a151f8,Hatchback,59000,2014,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-le-chan-hai-phong/96358101.htm,Việt Nam
+2022-06-26 16:19:49.007096,xe.chotot.com,Innova,285.000.000,Toyota,Số sàn,c6a32ee1-c361-4985-8773-55292f69ca74,Minivan (MPV),105000,2008,Xăng,8,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-huyen-hoa-thanh-tay-ninh/96278144.htm,
+2022-06-26 16:19:49.303880,xe.chotot.com,Captiva,605.000.000,Chevrolet,Tự động,175cd4e1-bf0c-46f5-98dd-bbb293a3dd9d,SUV / Cross over,36000,2018,Xăng,7,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-nam-tu-liem-ha-noi/93983050.htm,Việt Nam
+2022-06-26 16:19:49.349943,xe.chotot.com,Cayenne,795.000.000,Porsche,Tự động,51ed84be-42e1-4b90-af36-e6f3dcb6be93,SUV / Cross over,87500,2009,Xăng,8,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-phu-nhuan-tp-ho-chi-minh/87296576.htm,Nước khác
+2022-06-26 16:19:49.505359,xe.chotot.com,Navara,479.000.000,Nissan,Tự động,12884357-9ab0-449b-8f9a-4b85d36b0f1b,Pick-up (bán tải),60000,2017,Dầu,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-go-vap-tp-ho-chi-minh/96180473.htm,
+2022-06-26 16:19:50.001238,xe.chotot.com,Ranger,818.000.000,Ford,Tự động,1d7adb90-83de-42a2-b630-1ab037bc837f,Pick-up (bán tải),65000,2017,Dầu,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-bac-tu-liem-ha-noi/94372878.htm,Thái Lan
+2022-06-26 16:19:50.072316,xe.chotot.com,Q7,1.320.000.000,Audi,Tự động,93ab2472-17cb-4a6e-8b73-aefc01caea74,SUV / Cross over,49000,2014,Xăng,7,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-phu-nhuan-tp-ho-chi-minh/85615598.htm,Nước khác
+2022-06-26 16:19:50.170953,xe.chotot.com,CR V,750.000.000,Honda,Tự động,99555aa0-3d32-42cb-acf6-047f149c5182,SUV / Cross over,66000,2017,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-bac-tu-liem-ha-noi/96262529.htm,Việt Nam
+2022-06-26 16:19:50.499595,xe.chotot.com,Civic,290.000.000,Honda,Tự động,4b350b16-b09d-4af1-91eb-b5511646bd6b,Sedan,12,2009,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-huyen-soc-son-ha-noi/96021170.htm,
+2022-06-26 16:19:50.734946,xe.chotot.com,Vios,498.000.000,Toyota,Tự động,48e1c7d9-fc5b-48bd-8a5a-ce73db5ebbc8,Sedan,14000,2020,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-thanh-pho-thu-duc-tp-ho-chi-minh/94954312.htm,Việt Nam
+2022-06-26 16:19:51.463735,xe.chotot.com,3,460.000.000,Mazda,Tự động,d4d49d13-cd4f-4b38-85a2-0a25d4dfe956,Sedan,110000,2015,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-binh-tan-tp-ho-chi-minh/96357192.htm,Nhật Bản
+2022-06-26 16:19:51.915222,xe.chotot.com,Attrage,329.000.000,Mitsubishi,Số sàn,c578241d-469b-4ae8-88d8-bbdafe759c5a,Sedan,59000,2020,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-binh-thanh-tp-ho-chi-minh/96061241.htm,Thái Lan
+2022-06-26 16:19:52.568392,xe.chotot.com,Captiva,240.000.000,Chevrolet,Tự động,e99971e4-7cfd-4d71-9bf3-aad1ebb3ad0e,SUV / Cross over,100000,2007,Xăng,7,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-huyen-chon-thanh-binh-phuoc/96357349.htm,
+2022-06-26 16:19:52.829381,xe.chotot.com,Outlander,786.000.000,Mitsubishi,Tự động,1483b781-bfe6-4912-8285-ef6da54d6d53,SUV / Cross over,,2022,Xăng,7,Mới,https://xe.chotot.com/mua-ban-oto-quan-bac-tu-liem-ha-noi/94905029.htm,Việt Nam
+2022-06-26 16:19:53.254970,xe.chotot.com,Xpander,648.000.000,Mitsubishi,Tự động,7ef9274c-e068-4630-a148-16d1d7de8095,Minivan (MPV),,2022,Xăng,7,Mới,https://xe.chotot.com/mua-ban-oto-thanh-pho-thu-duc-tp-ho-chi-minh/96262955.htm,
+2022-06-26 16:19:53.536787,xe.chotot.com,Vios,166.000.000,Toyota,Số sàn,8f9c2c91-1c32-4564-a6c5-77a830d59e78,Sedan,6886,2008,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-huyen-nho-quan-ninh-binh/95673915.htm,
+2022-06-26 16:19:53.845530,xe.chotot.com,Swift,350.000.000,Suzuki,Tự động,fbe53925-421a-460e-a35e-4bd6f24c22b5,Hatchback,55000,2013,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-ngu-hanh-son-da-nang/96273954.htm,Nhật Bản
+2022-06-26 16:19:54.361169,xe.chotot.com,C Class,1.419.000.000,Mercedes Benz,Tự động,90884a6f-e13e-4a45-8785-b710de3f7dc5,Sedan,23000,2018,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-8-tp-ho-chi-minh/96270890.htm,
+2022-06-26 16:19:54.505097,xe.chotot.com,Grand i10,405.000.000,Hyundai,Tự động,9bda6cb9-be84-4b37-905b-a7336ad909bc,Sedan,20000,2020,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-huyen-luc-ngan-bac-giang/95574080.htm,Việt Nam
+2022-06-26 16:19:54.535092,xe.chotot.com,3,635.000.000,Mazda,Tự động,a33a22df-909c-45fe-b0d9-179702f656ce,Sedan,,2022,Xăng,5,Mới,https://xe.chotot.com/mua-ban-oto-thanh-pho-thu-duc-tp-ho-chi-minh/94282667.htm,Nhật Bản
+2022-06-26 16:19:54.567093,xe.chotot.com,Captiva,218.000.000,Chevrolet,Số sàn,edf00a32-9b2e-446c-b867-1639df2e37f2,SUV / Cross over,120000,2008,Xăng,7,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-5-tp-ho-chi-minh/88854306.htm,Mỹ
+2022-06-26 16:19:54.864434,xe.chotot.com,Land Cruiser Prado,1.689.000.000,Toyota,Tự động,188affc5-36bc-4c93-ade3-26925ae84961,SUV / Cross over,63000,2016,Xăng,7,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-7-tp-ho-chi-minh/92512715.htm,Nước khác
+2022-06-26 16:19:55.206785,xe.chotot.com,S Class,2.099.000.000,Mercedes Benz,Tự động,75194f46-3a04-4556-bbf0-97ed87728b62,Sedan,40000,2015,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-thanh-xuan-ha-noi/96182997.htm,
+2022-06-26 16:19:55.810777,xe.chotot.com,Corolla Cross,746.000.000,Toyota,Tự động,017b2948-14c9-4f67-b7e9-826466e86be0,SUV / Cross over,,2022,Xăng,5,Mới,https://xe.chotot.com/mua-ban-oto-quan-binh-tan-tp-ho-chi-minh/95765143.htm,Thái Lan
+2022-06-26 16:19:55.889514,xe.chotot.com,Corolla Altis,283.000.000,Toyota,Số sàn,c2891326-182c-42a7-a5b5-6b50099febc1,Sedan,115000,2008,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-huyen-cu-chi-tp-ho-chi-minh/96058984.htm,Nhật Bản
+2022-06-26 16:19:55.980875,xe.chotot.com,Morning,220.000.000,Kia,Tự động,8675db4d-e9ae-4638-9e11-0b638ba8a69a,Hatchback,102000,2011,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-huyen-binh-chanh-tp-ho-chi-minh/94727062.htm,Việt Nam
+2022-06-26 16:19:56.495656,xe.chotot.com,Clubman,1.420.000.000,Mini,Tự động,7a58d112-3f4d-4256-9d0a-4cf623c989e9,,30000,2015,Xăng,,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-cau-giay-ha-noi/94694540.htm,
+2022-06-26 16:19:57.424731,xe.chotot.com,Morning,310.000.000,Kia,Tự động,d5bcb16c-fe46-495f-8d16-1c6e18dd7439,Hatchback,50000,2016,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-nam-tu-liem-ha-noi/95387348.htm,
+2022-06-26 16:19:57.819471,xe.chotot.com,Everest,1.038.000.000,Ford,Tự động,4d07dea6-7a41-4159-b716-f9fad41e9ee8,SUV / Cross over,43000,2018,Dầu,7,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-tan-phu-tp-ho-chi-minh/91469308.htm,Mỹ
+2022-06-26 16:19:58.208378,xe.chotot.com,Kona,588.000.000,Hyundai,Tự động,9ca85874-f684-4fa0-9cee-8b409e400fed,SUV / Cross over,19000,2018,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-thanh-pho-thu-duc-tp-ho-chi-minh/96358327.htm,
+2022-06-26 16:19:59.109979,xe.chotot.com,Ranger,799.000.000,Ford,Tự động,311ddc46-7274-4437-8919-cd3ceaa2522b,Pick-up (bán tải),82000,2018,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-huyen-cu-chi-tp-ho-chi-minh/92330951.htm,Việt Nam
+2022-06-26 16:19:59.403106,xe.chotot.com,Pajero,552.000.000,Mitsubishi,Tự động,1df16c9a-6de6-4a47-9457-a8655966105a,SUV / Cross over,36000,2017,Xăng,7,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-binh-thanh-tp-ho-chi-minh/94463396.htm,Việt Nam
+2022-06-26 16:19:59.456106,xe.chotot.com,Fadil,356.000.000,Vinfast,Tự động,119c6719-3034-4224-95b4-c90edfe76500,Hatchback,12000,2021,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-go-vap-tp-ho-chi-minh/96302969.htm,Việt Nam
+2022-06-26 16:19:59.517108,xe.chotot.com,Elantra,479.000.000,Hyundai,Tự động,74eb753a-1601-413c-b102-b221b867864b,Sedan,64000,2017,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-thanh-pho-thu-duc-tp-ho-chi-minh/95855791.htm,Hàn Quốc
+2022-06-26 16:19:59.580054,xe.chotot.com,Sunny,340.000.000,Nissan,Tự động,dd1d87b8-df87-4bc1-9f48-7eff7476ec26,,50000,2017,Xăng,,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-thanh-pho-bien-hoa-dong-nai/95301238.htm,
+2022-06-26 16:19:59.672051,xe.chotot.com,City,465.000.000,Honda,Tự động,9c6b7dbe-daca-4f11-b04b-a93f30ec21c8,Sedan,83000,2018,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-go-vap-tp-ho-chi-minh/96299306.htm,Việt Nam
+2022-06-26 16:20:00.623820,xe.chotot.com,Rondo,499.000.000,Kia,Tự động,e0b2a067-787d-49db-8226-df9adfac9dd2,Minivan (MPV),60000,2016,Xăng,7,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-hoang-mai-ha-noi/96248313.htm,Hàn Quốc
+2022-06-26 16:20:00.670335,xe.chotot.com,S Class,3.680.000.000,Mercedes Benz,Tự động,7490d4f1-1fb1-4584-b2ae-e120a3fe18e6,Sedan,30000,2018,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-nam-tu-liem-ha-noi/95972086.htm,
+2022-06-26 16:20:00.702335,xe.chotot.com,Dòng khác,85.000.000,Suzuki,Số sàn,6f939917-1cd9-420f-937a-02cfac9249f2,SUV / Cross over,200000,2002,Xăng,7,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-thanh-pho-bien-hoa-dong-nai/96358457.htm,Nhật Bản
+2022-06-26 16:20:00.747112,xe.chotot.com,Ranger,824.000.000,Ford,Tự động,e12e59ae-9b2e-4ed6-bf87-bd12e93ac5a4,Pick-up (bán tải),41000,2018,Dầu,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-3-tp-ho-chi-minh/95987927.htm,Thái Lan
+2022-06-26 16:20:00.904844,xe.chotot.com,Attrage,375.000.000,Mitsubishi,Tự động,5f2e72b8-234a-4815-ac10-683e3544a295,Sedan,35000,2019,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-hai-chau-da-nang/95739100.htm,Thái Lan
+2022-06-26 16:20:01.465654,xe.chotot.com,Fiesta,255.000.000,Ford,Tự động,8d2ed984-10c3-475d-bcc0-633f4cf6f8ff,Sedan,120000,2011,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-cau-giay-ha-noi/95761153.htm,
+2022-06-26 16:20:01.796175,xe.chotot.com,Triton,515.000.000,Mitsubishi,Số sàn,4aa9e36e-84f5-4f67-afa6-16ed0ee222ad,,35000,2019,Dầu,,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-cau-giay-ha-noi/96331272.htm,
+2022-06-26 16:20:02.833754,xe.chotot.com,Morning,244.000.000,Kia,Số sàn,715f3875-0a01-4e67-901e-3c518a9719ac,Hatchback,83200,2016,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-tan-phu-tp-ho-chi-minh/96326624.htm,Việt Nam
+2022-06-26 16:20:03.206719,xe.chotot.com,Accent,498.000.000,Hyundai,Tự động,cd5e8bc4-b743-4b55-abb5-3fdc329bcfd2,Sedan,46000,2019,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-thanh-pho-thu-duc-tp-ho-chi-minh/96358551.htm,Việt Nam
+2022-06-26 16:20:03.582136,xe.chotot.com,Range Rover Evoque,960.000.000,LandRover,Tự động,aa803f4d-415a-47a1-928a-0f4095af0a4e,SUV / Cross over,60000,2012,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-thanh-xuan-ha-noi/96058029.htm,
+2022-06-26 16:20:04.406253,xe.chotot.com,Fiesta,345.000.000,Ford,Tự động,9c768b25-01e3-42df-b863-ab7087238f74,,35,2014,Xăng,,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-long-bien-ha-noi/94358874.htm,
+2022-06-26 16:20:04.544527,xe.chotot.com,Hilux,690.000.000,Toyota,Tự động,63b92823-7e95-4acf-9a18-f3e4b4485fec,Pick-up (bán tải),47000,2019,Dầu,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-cau-giay-ha-noi/95708715.htm,Thái Lan
+2022-06-26 16:20:04.980338,xe.chotot.com,Spark,138.000.000,Chevrolet,Tự động,373a2c54-a2d0-4e3d-a4cf-e02602b21a3e,Minivan (MPV),160000,2012,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-huyen-soc-son-ha-noi/96100270.htm,
+2022-06-26 16:20:05.070337,xe.chotot.com,Santa Fe,1.515.000.000,Hyundai,Tự động,79ce77ef-57eb-4361-bd69-d814ca6b42d6,SUV / Cross over,12000,2021,Dầu,7,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-thanh-xuan-ha-noi/96002076.htm,
+2022-06-26 16:20:05.115335,xe.chotot.com,Tucson,1.125.000.000,Hyundai,Tự động,2f43d144-c49d-4e25-8540-bb27acb869a8,SUV / Cross over,20000,2021,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-thanh-xuan-ha-noi/96262877.htm,
+2022-06-26 16:20:05.148336,xe.chotot.com,Fadil,368.000.000,Vinfast,Tự động,9f554508-c5cc-42a5-8e72-2064f1fe9444,Hatchback,7000,2021,Xăng,4,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-tan-binh-tp-ho-chi-minh/96166455.htm,Việt Nam
+2022-06-26 16:20:05.569960,xe.chotot.com,S Class,2.320.000.000,Mercedes Benz,Tự động,0e24d374-649b-4892-9622-35d8c38d3199,Sedan,30000,2016,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-thanh-xuan-ha-noi/96339753.htm,
+2022-06-26 16:20:05.800957,xe.chotot.com,C Class,999.000.000,Mercedes Benz,Tự động,e8b361e1-5a86-4367-a796-a1970c8c9f45,Sedan,40000,2016,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-thanh-xuan-ha-noi/96293772.htm,
+2022-06-26 16:20:05.862954,xe.chotot.com,Fortuner,1.080.000.000,Toyota,Tự động,4f05eece-d572-490a-b3fe-695a26fd267d,,26000,2020,Dầu,,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-7-tp-ho-chi-minh/95318870.htm,
+2022-06-26 16:20:06.208449,xe.chotot.com,Ranger,699.000.000,Ford,Tự động,53be01dc-7fb5-4588-ac18-c9b30b2b46ea,Pick-up (bán tải),3000,2020,Dầu,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-thanh-xuan-ha-noi/95949058.htm,
+2022-06-26 16:20:07.079861,xe.chotot.com,City,453.000.000,Honda,Tự động,e6b55e6a-bb2f-4db5-92f8-5eb6d3fca773,Sedan,490000,2019,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-binh-tan-tp-ho-chi-minh/96358776.htm,Việt Nam
+2022-06-26 16:20:07.829483,xe.chotot.com,E Class,939.000.000,Mercedes Benz,Tự động,d84974f6-1433-4078-9006-42bc97fb7748,Sedan,40000,2014,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-long-bien-ha-noi/96263875.htm,
+2022-06-26 16:20:08.830867,xe.chotot.com,Ranger,530.000.000,Ford,Tự động,761cc51e-246a-4702-8ad2-1a29340e13cc,Pick-up (bán tải),89000,2015,Dầu,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-thanh-xuan-ha-noi/96164473.htm,Thái Lan
+2022-06-26 16:20:08.987664,xe.chotot.com,GLC,2.129.000.000,Mercedes Benz,Tự động,015274ea-fb9f-4f0b-815b-0ca301d794ff,SUV / Cross over,,2022,Xăng,5,Mới,https://xe.chotot.com/mua-ban-oto-quan-binh-thanh-tp-ho-chi-minh/95604050.htm,Việt Nam
+2022-06-26 16:20:09.002664,xe.chotot.com,Hiace,75.000.000,Toyota,Số sàn,71af48e0-c7f1-42bd-ba37-11ba43b4e46b,Van,120000,2001,Xăng,6,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-12-tp-ho-chi-minh/93167322.htm,Nhật Bản
+2022-06-26 16:20:09.130174,xe.chotot.com,Corolla Altis,668.000.000,Toyota,Tự động,f10852cb-2296-4d05-9fd0-16b902a3e52a,Sedan,36000,2020,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-go-vap-tp-ho-chi-minh/96167622.htm,Việt Nam
+2022-06-26 16:20:09.317202,xe.chotot.com,C Class,460.000.000,Mercedes Benz,Tự động,36f56547-3602-4cc7-9377-5b8af56cef5d,Sedan,90000,2011,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-tay-ho-ha-noi/96182211.htm,
+2022-06-26 16:20:09.457718,xe.chotot.com,Rush,569.000.000,Toyota,Tự động,68d9a261-3458-4f3c-82c0-bc3bfc9423d1,Minivan (MPV),57000,2018,Xăng,7,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-binh-tan-tp-ho-chi-minh/96037487.htm,Nước khác
+2022-06-26 16:20:10.204646,xe.chotot.com,Doblo,102.000.000,Fiat,Tự động,56456048-9fe9-43db-9534-07ef7d042d2b,,160000,2004,Xăng,,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-binh-tan-tp-ho-chi-minh/95712689.htm,Nước khác
+2022-06-26 16:20:10.265647,xe.chotot.com,Hilux,770.000.000,Toyota,Tự động,db265427-9954-4d9b-a5d9-b5d3831759ca,Pick-up (bán tải),9000,2021,Dầu,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-cau-giay-ha-noi/95834171.htm,Thái Lan
+2022-06-26 16:20:10.361647,xe.chotot.com,E Class,3.099.000.000,Mercedes Benz,Tự động,778e5619-6c0a-468f-a293-85dcc11b038b,Sedan,3229,2021,Xăng,4,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-binh-thanh-tp-ho-chi-minh/96307993.htm,Đức
+2022-06-26 16:20:10.424645,xe.chotot.com,Morning,215.000.000,Kia,Tự động,0360d38d-0281-4d96-b321-a2e6c990b2af,Hatchback,120000,2009,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-huyen-soc-son-ha-noi/96099701.htm,
+2022-06-26 16:20:10.893138,xe.chotot.com,Xpander,588.000.000,Mitsubishi,Tự động,d9ce836d-90a2-434e-9d08-d6871f564d8e,Minivan (MPV),,2022,Xăng,7,Mới,https://xe.chotot.com/mua-ban-oto-huyen-hoai-duc-ha-noi/95989806.htm,Nước khác
+2022-06-26 16:20:10.983136,xe.chotot.com,Vios,425.000.000,Toyota,Tự động,7b920106-1fa3-4238-8939-0443fd3b059b,Sedan,78000,2019,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-huyen-cu-chi-tp-ho-chi-minh/92618208.htm,Việt Nam
+2022-06-26 16:20:11.094146,xe.chotot.com,Vios,165.000.000,Toyota,Số sàn,d79cb6b3-cc14-42e9-8ddf-7e27416b486e,Sedan,90000,2009,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-huyen-tho-xuan-thanh-hoa/96171689.htm,Nhật Bản
+2022-06-26 16:20:12.218900,xe.chotot.com,2,495.000.000,Mazda,Tự động,6661731a-ed0f-412f-a20a-a0ec107969a3,,10000,2019,Xăng,,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-long-bien-ha-noi/96104540.htm,
+2022-06-26 16:20:12.278794,xe.chotot.com,XL 7,560.000.000,Suzuki,Tự động,c6e859da-01a3-4a1d-affd-e83e0f1c111b,SUV / Cross over,,2022,Xăng,7,Mới,https://xe.chotot.com/mua-ban-oto-huyen-soc-son-ha-noi/96277332.htm,Nước khác
+2022-06-26 16:20:13.087456,xe.chotot.com,Ranger,798.000.000,Ford,Tự động,aa60b831-53ca-45a6-b818-b0e6858871cf,Pick-up (bán tải),73000,2018,Dầu,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-8-tp-ho-chi-minh/95990198.htm,Thái Lan
+2022-06-26 16:20:13.911628,xe.chotot.com,Innova,263.000.000,Toyota,Số sàn,f0f146e7-2e51-4c12-bd30-b9d7341475df,Minivan (MPV),116000,2007,Xăng,8,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-binh-thanh-tp-ho-chi-minh/96147667.htm,Việt Nam
+2022-06-26 16:20:13.974667,xe.chotot.com,X6,986.000.000,BMW,Tự động,3e00bbc8-8e57-4e87-b141-0ba841941e00,SUV / Cross over,75000,2012,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-thanh-xuan-ha-noi/96074591.htm,Đức
+2022-06-26 16:20:14.211886,xe.chotot.com,Range Rover Evoque,1.250.000.000,LandRover,Tự động,82d69808-3066-43f3-bc0c-e19f404987e6,SUV / Cross over,54200,2014,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-1-tp-ho-chi-minh/89998026.htm,Nước khác
+2022-06-26 16:20:14.287427,xe.chotot.com,Corolla Cross,846.000.000,Toyota,Tự động,ac66a32e-b30e-4758-adb7-a908cdab5990,SUV / Cross over,,2022,Xăng,5,Mới,https://xe.chotot.com/mua-ban-oto-quan-tan-binh-tp-ho-chi-minh/96357697.htm,Thái Lan
+2022-06-26 16:20:14.708270,xe.chotot.com,Vios,535.000.000,Toyota,Tự động,79c71cb9-333a-4a93-bbc2-c6fdd8522d23,Sedan,42000,2022,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-huyen-binh-chanh-tp-ho-chi-minh/96299830.htm,Việt Nam
+2022-06-26 16:20:15.219118,xe.chotot.com,Zace,145.000.000,Toyota,Số sàn,28ce9c33-46d2-41aa-98df-9376461a6cd6,,123456,2004,Xăng,,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-7-tp-ho-chi-minh/94942790.htm,Việt Nam
+2022-06-26 16:20:15.235119,xe.chotot.com,Rush,569.000.000,Toyota,Tự động,6ecf7f75-619d-465d-aeb5-de818d80bd65,Minivan (MPV),57000,2018,Xăng,7,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-binh-tan-tp-ho-chi-minh/95978858.htm,Thái Lan
+2022-06-26 16:20:15.283074,xe.chotot.com,Outlander,786.000.000,Mitsubishi,Tự động,87bb4617-128a-4eba-80cf-451854350259,SUV / Cross over,,2022,Xăng,7,Mới,https://xe.chotot.com/mua-ban-oto-quan-bac-tu-liem-ha-noi/96177341.htm,Việt Nam
+2022-06-26 16:20:15.545444,xe.chotot.com,C Class,930.000.000,Mercedes Benz,Tự động,981f8c45-7a9a-4e04-97f4-bf8c77158976,Sedan,8000,2015,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-thanh-xuan-ha-noi/95760162.htm,
+2022-06-26 16:20:15.620780,xe.chotot.com,Civic,260.000.000,Honda,Tự động,711e168f-021c-4b59-ba2c-36b55fd68846,Sedan,90000,2007,Xăng,4,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-cau-giay-ha-noi/95584329.htm,
+2022-06-26 16:20:16.028736,xe.chotot.com,Swift,415.000.000,Suzuki,Tự động,60c73020-eaa6-4777-912f-33eab2fdf3c2,,30,2017,Xăng,,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-long-bien-ha-noi/93366916.htm,
+2022-06-26 16:20:16.164573,xe.chotot.com,Land Cruiser Prado,890.000.000,Toyota,Tự động,5293e2ef-d7e2-4847-8e33-b866b676a522,SUV / Cross over,90000,2010,Xăng,7,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-cau-giay-ha-noi/95708434.htm,Nhật Bản
+2022-06-26 16:20:16.952871,xe.chotot.com,Tucson,725.000.000,Hyundai,Tự động,60c3188d-709c-4ddb-8e6a-b5b0fdd61621,SUV / Cross over,68000,2016,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-nam-tu-liem-ha-noi/95206539.htm,
+2022-06-26 16:20:17.062004,xe.chotot.com,Camry,335.000.000,Toyota,Tự động,57a3ff6e-ee70-4616-a0da-3131af6e4701,Sedan,11,2006,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-thi-xa-ben-cat-binh-duong/96063278.htm,
+2022-06-26 16:20:17.390683,xe.chotot.com,Zace,130.000.000,Toyota,Tự động,47d404b0-5e9e-44b7-838c-d79a09604166,SUV / Cross over,10000,2003,Xăng,8,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-thi-xa-an-khe-gia-lai/96357829.htm,Nhật Bản
+2022-06-26 16:20:18.305268,xe.chotot.com,Ranger,520.000.000,Ford,Số sàn,c5b16418-1be1-496c-9e1a-5aaedaa8000f,Pick-up (bán tải),110000,2016,Dầu,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-12-tp-ho-chi-minh/96357843.htm,
+2022-06-26 16:20:18.773579,xe.chotot.com,XL 7,555.000.000,Suzuki,Tự động,46f25cb7-d6f2-4290-a3ae-b8264fd3fb9a,,,2022,Xăng,7,Mới,https://xe.chotot.com/mua-ban-oto-huyen-soc-son-ha-noi/96300907.htm,Nước khác
+2022-06-26 16:20:19.242946,xe.chotot.com,X Terra,869.000.000,Nissan,Tự động,dc61e095-76ca-47d8-8250-fa6eb45cbf60,SUV / Cross over,35000,2019,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-long-bien-ha-noi/96259057.htm,Thái Lan
+2022-06-26 16:20:19.661609,xe.chotot.com,Mondeo,126.000.000,Ford,Tự động,632532b9-7a58-4bba-8bee-c03b957ea972,Sedan,128000,2003,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-huyen-duc-trong-lam-dong/95810016.htm,
+2022-06-26 16:20:19.667609,xe.chotot.com,Hilux,890.000.000,Toyota,Tự động,b3d76145-ea0c-4f75-b3a9-f59114d1c669,Pick-up (bán tải),31000,2019,Dầu,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-7-tp-ho-chi-minh/92892604.htm,Thái Lan
+2022-06-26 16:20:19.956738,xe.chotot.com,S Class,3.390.000.000,Mercedes Benz,Tự động,974c9ab5-8a75-408e-aeb3-a591a483abd2,Sedan,30000,2018,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-cau-giay-ha-noi/95667827.htm,
+2022-06-26 16:20:20.096067,xe.chotot.com,Morning,243.000.000,Kia,Số sàn,e396479a-559e-4bc2-a2ac-d7ea0dcb73f9,,55000,2018,Xăng,,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-thanh-pho-thu-dau-mot-binh-duong/96356877.htm,Việt Nam
+2022-06-26 16:20:20.470972,xe.chotot.com,Ranger,588.000.000,Ford,Số sàn,8a30a2d8-1147-4b36-8bed-c23c1c4b6a63,Pick-up (bán tải),60000,2019,Dầu,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-nam-tu-liem-ha-noi/94395508.htm,Thái Lan
+2022-06-26 16:20:20.819046,xe.chotot.com,Vios,148.000.000,Toyota,Số sàn,72907ba0-7f02-4128-b15f-fc72bfdfc961,,123,2006,Xăng,,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-huyen-cu-chi-tp-ho-chi-minh/94029742.htm,
+2022-06-26 16:20:20.924549,xe.chotot.com,Morning,225.000.000,Kia,Tự động,a39c655c-1bd4-47b5-a9cd-9327841d69be,Hatchback,100000,2009,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-huyen-soc-son-ha-noi/94908565.htm,
+2022-06-26 16:20:20.986582,xe.chotot.com,Civic,310.000.000,Honda,Tự động,0cfaaadf-9157-4000-8fd3-1fe6ddb22fd8,Sedan,90000,2009,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-huyen-me-linh-ha-noi/96341913.htm,Việt Nam
+2022-06-26 16:20:21.104411,xe.chotot.com,Navara,620.000.000,Nissan,Tự động,4f712e3a-3bd2-473a-b29c-76e3d33f409b,Pick-up (bán tải),77817,2020,Dầu,4,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-binh-tan-tp-ho-chi-minh/96357004.htm,Thái Lan
+2022-06-26 16:20:21.188029,xe.chotot.com,Corolla Cross,846.000.000,Toyota,Tự động,1a4cb6a3-7d76-4bc4-91bf-edce897f9a49,SUV / Cross over,,2022,Xăng,5,Mới,https://xe.chotot.com/mua-ban-oto-quan-long-bien-ha-noi/96106077.htm,Thái Lan
+2022-06-26 16:20:21.235034,xe.chotot.com,Captiva,240.000.000,Chevrolet,Tự động,8c9c7129-f018-46df-b9c8-ab6dc917a28b,SUV / Cross over,95000,2008,Xăng,7,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-huyen-binh-chanh-tp-ho-chi-minh/96356932.htm,
+2022-06-26 16:20:21.621630,xe.chotot.com,CR V,975.000.000,Honda,Tự động,5d7c795b-27af-4d95-9b29-b2aa9659c1f8,SUV / Cross over,32000,2019,Xăng,5,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-nam-tu-liem-ha-noi/96356995.htm,Thái Lan
+2022-06-26 16:20:22.058638,xe.chotot.com,Attrage,373.000.000,Mitsubishi,Số sàn,1d883736-31bf-472d-98a1-291bd5c42f7b,Sedan,,2022,Xăng,5,Mới,https://xe.chotot.com/mua-ban-oto-quan-hoang-mai-ha-noi/94364572.htm,Nhật Bản
+2022-06-26 16:20:22.198636,xe.chotot.com,Zace,190.000.000,Toyota,Tự động,9cde21d4-4897-4db0-ab67-749800453700,SUV / Cross over,185000,2004,Xăng,8,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-huyen-cu-chi-tp-ho-chi-minh/94305968.htm,
+2022-06-26 16:20:22.618961,xe.chotot.com,Santa Fe,1.165.000.000,Hyundai,Tự động,47b7655d-9901-454f-a26d-c42b34c40f10,SUV / Cross over,20000,2021,Xăng,7,Đã sử dụng,https://xe.chotot.com/mua-ban-oto-quan-hai-an-hai-phong/96170743.htm,Việt Nam

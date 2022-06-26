@@ -2,7 +2,7 @@ import scrapy
 import requests
 import re
 import uuid
-import datetime
+from datetime import datetime
 from unidecode import unidecode
 from bs4 import BeautifulSoup
 from math import ceil
@@ -36,8 +36,11 @@ class AnycarBonbanhSpider(scrapy.Spider):
     def parse_item(self, response):
         item = {"id": str(uuid.uuid4()),
                 "domain": self.allowed_domains[0],
+                "url": response.url,
+                "crawled_date": datetime.now(),
                 "ten": response.xpath('//a[@itemprop="item"]/@title').extract()[-1],
                 "gia_ban": response.xpath('//div[@class="price_list_car"]//b/text()').extract_first()}
+            
         tab_left = response.xpath('//div[@id="tab1default"]//div[@class="tab_left_item row"]')
         for thong_so in tab_left:
             tmp = thong_so.xpath('.//*//text()').extract()
@@ -60,6 +63,5 @@ class AnycarBonbanhSpider(scrapy.Spider):
         tmp = response.xpath('.//div[@class="col-md-12 col-xs-12 tab_bottom"]//div//text()').extract()
         key, value = tmp[0], ' '.join(tmp[1:]).strip()
         key = unidecode(key.replace(":", "").replace(" ", "_").lower())
-        item[key] = value
-        item["crawled_date"] = datetime.now()
+        # item[key] = value
         yield item

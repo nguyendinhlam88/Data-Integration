@@ -27,6 +27,10 @@ class BonbanhItem(scrapy.Item):
     so_cho_ngoi = scrapy.Field()
     mau_xe = scrapy.Field()
     so_cua = scrapy.Field()
+    crawled_date = scrapy.Field()
+    domain = scrapy.Field()
+    url = scrapy.Field()
+    id = scrapy.Field()
     pass
 
 
@@ -43,6 +47,10 @@ class ChototItem(scrapy.Item):
     hop_so = scrapy.Field()
     xuat_xu = scrapy.Field()
     so_cho_ngoi = scrapy.Field()
+    crawled_date = scrapy.Field()
+    domain = scrapy.Field()
+    url = scrapy.Field()
+    id = scrapy.Field()
     pass
 
 
@@ -59,3 +67,7 @@ class CarmudiItem(scrapy.Item):
     mau_xe = scrapy.Field()
     so_cua = scrapy.Field()
     nam_sx = scrapy.Field()
+    crawled_date = scrapy.Field()
+    domain = scrapy.Field()
+    url = scrapy.Field()
+    id = scrapy.Field()

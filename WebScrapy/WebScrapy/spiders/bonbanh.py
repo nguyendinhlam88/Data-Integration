@@ -1,7 +1,7 @@
 import scrapy
 from ..items import BonbanhItem
-
-
+from datetime import datetime
+import uuid
 class BonbanhSpider(scrapy.Spider):
     name = 'bonbanh'
     page_number = 1
@@ -18,6 +18,10 @@ class BonbanhSpider(scrapy.Spider):
 
     def parse_ad(self, response):
         item = BonbanhItem()
+        item['id'] = str(uuid.uuid4())
+        item['domain'] = self.allowed_domains[0]
+        item['url'] = response.url
+        item['crawled_date'] = datetime.now()
         item['gia'] = response.xpath('//h1/text()').extract_first()
         info = response.xpath('//span[@class = "inp"]')
         item['xuat_xu'] = info[0].xpath('.//text()').extract_first()
