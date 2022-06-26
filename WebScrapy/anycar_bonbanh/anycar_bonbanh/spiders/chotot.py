@@ -1,8 +1,10 @@
 import scrapy
 from ..items import ChototItem
+
 class ChototSpider(scrapy.Spider):
-    name = "chotot_com"
+    name = 'chotot'
     page_number = 2
+    allowed_domains = ['xe.chotot.com']
     base_url = "https://xe.chotot.com/mua-ban-oto"
     start_urls = ["https://xe.chotot.com/mua-ban-oto?page=1"]
 
@@ -14,7 +16,7 @@ class ChototSpider(scrapy.Spider):
 
             ad_url = self.base_url + ad_url
             yield scrapy.Request(url=ad_url, callback=self.parse_ad)
-    
+
     def parse_ad(self, response):
         item = ChototItem()
         # item['gia'] = response.xpath('//span[contains(@itemprop, "price")]/text()').extract_first().replace(' đ', '')
@@ -46,4 +48,4 @@ class ChototSpider(scrapy.Spider):
         if ChototSpider.page_number <= 5000:
             ChototSpider.page_number += 1
             yield response.follow(url=next_page, callback=self.parse)
-        yield item 
+        yield item

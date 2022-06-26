@@ -1,10 +1,14 @@
 import scrapy
 from ..items import BonbanhItem
+
+
 class BonbanhSpider(scrapy.Spider):
     name = 'bonbanh'
     page_number = 1
+    allowed_domains = ['bonbanh.com']
     base_url = "https://bonbanh.com/"
     start_urls = ["https://bonbanh.com/oto/page,2"]
+
     def parse(self, response):
         all_ads = response.xpath('//li[contains(@class, "car-item")]')
         for ad in all_ads:
