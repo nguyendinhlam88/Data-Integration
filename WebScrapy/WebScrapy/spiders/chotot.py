@@ -1,6 +1,7 @@
 import scrapy
 from ..items import ChototItem
 
+
 class ChototSpider(scrapy.Spider):
     name = 'chotot'
     page_number = 2

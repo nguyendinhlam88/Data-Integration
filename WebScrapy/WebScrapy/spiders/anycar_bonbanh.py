@@ -36,6 +36,7 @@ class AnycarBonbanhSpider(scrapy.Spider):
     def parse_item(self, response):
         item = {"id": str(uuid.uuid4()),
                 "domain": self.allowed_domains[0],
+                "url": response.url,
                 "ten": response.xpath('//a[@itemprop="item"]/@title').extract()[-1],
                 "gia_ban": response.xpath('//div[@class="price_list_car"]//b/text()').extract_first()}
         tab_left = response.xpath('//div[@id="tab1default"]//div[@class="tab_left_item row"]')
