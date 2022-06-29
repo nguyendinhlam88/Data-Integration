@@ -1,0 +1,49 @@
+.card {
+	/* margin: 10px; */
+}
+
+.body {
+	padding: 100px 0px;
+}
+.body img {
+	width: 100%;
+	height: 200px;
+}
+
+.body .margin {
+	margin-top: 40px;
+}
+
+#search {
+	width: 300px;
+	display: inline-block;
+}
+
+.col-5 {
+	display: inline-block;
+}
+
+.menu {
+	position: fixed;
+	display: block;
+	z-index: 10;
+	width: 73%;
+}
+
+nav {
+	background-color: #fff;
+}
+
+.filter {
+	position: sticky;
+	top: 72px;
+	z-index: 10;
+}
+
+.sub-title {
+	font-weight: 500;
+}
+
+body {
+	background-color: rgb(245, 245, 245);
+}
