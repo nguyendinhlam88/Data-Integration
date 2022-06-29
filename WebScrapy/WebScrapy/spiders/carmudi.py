@@ -49,7 +49,7 @@ class CarmudiSpider(scrapy.Spider):
         }
 
         next_page = 'https://www.carmudi.vn/mua-ban-o-to-cu/index{}.html'.format(CarmudiSpider.page_number)
-        if CarmudiSpider.page_number <= 50:
+        if CarmudiSpider.page_number <= 10:
             CarmudiSpider.page_number += 1
             yield response.follow(next_page, callback=self.parse)
         yield item
