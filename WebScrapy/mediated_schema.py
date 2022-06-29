@@ -10,6 +10,7 @@ class MediatedOtoItem:
     crawled_date: Optional[datetime.date]
     ten: Optional[str]
     gia_ban: Optional[int]
+    nam_san_xuat: Optional[int]
     xuat_xu: Optional[str]
     tinh_trang: Optional[str]
     dong_xe: Optional[str]
