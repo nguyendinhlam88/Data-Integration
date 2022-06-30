@@ -44,6 +44,7 @@ class BonbanhSpider(scrapy.Spider):
         'tinh_trang' : info[1].xpath('.//text()').extract_first(),
         'dong_xe' : info[2].xpath('.//text()').extract_first(),
         'mau_xe': info[4].xpath('.//text()').extract_first(),
+        'so_cua': info[6].xpath('.//text()').extract_first(),
         'so_cho_ngoi': info[7].xpath('.//text()').extract_first(),
         'nhien_lieu' : info[8].xpath('.//text()').extract_first(),
         'hop_so' : info[10].xpath('.//text()').extract_first()
