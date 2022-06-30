@@ -6,15 +6,13 @@ class ChototSpider(scrapy.Spider):
     name = 'chotot'
     page_number = 2
     allowed_domains = ['xe.chotot.com']
-    base_url = "https://xe.chotot.com/mua-ban-oto"
-    start_urls = ["https://xe.chotot.com/mua-ban-oto?page=1"]
+    base_url = "https://xe.chotot.com"
+    start_urls = ["https://xe.chotot.com/mua-ban-o-to-o-to-dien?page=1"]
 
     def parse(self, response):
-        all_ads = response.xpath('//li[contains(@class, "AdItem")]')
+        all_ads = response.xpath('//li[contains(@class, "AdItem")]').xpath('.//a[contains(@class, "AdItem")]/@href').extract()
 
-        for ad in all_ads:
-            ad_url = ad.xpath('.//a[contains(@class, "AdItem")]/@href').extract_first()
-
+        for ad_url in all_ads:
             ad_url = self.base_url + ad_url
             yield scrapy.Request(url=ad_url, callback=self.parse_ad)
 
@@ -50,7 +48,7 @@ class ChototSpider(scrapy.Spider):
         'nhien_lieu' :response.xpath('//span[contains(@itemprop, "fuel")]/text()').extract_first(),
         'hop_so' :response.xpath('//span[contains(@itemprop, "gearbox")]/text()').extract_first()
         }
-        next_page = 'https://xe.chotot.com/mua-ban-oto?page=' + str(ChototSpider.page_number)
+        next_page = 'https://xe.chotot.com/mua-ban-o-to-o-to-dien?page=' + str(ChototSpider.page_number)
         if ChototSpider.page_number <= 15:
             ChototSpider.page_number += 1
             yield response.follow(url=next_page, callback=self.parse)

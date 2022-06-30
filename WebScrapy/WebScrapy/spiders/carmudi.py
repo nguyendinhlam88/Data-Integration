@@ -37,6 +37,7 @@ class CarmudiSpider(scrapy.Spider):
         'mau_xe': response.xpath(
             '//*[contains(concat( " ", @class, " " ), concat( " ", "feature-item", " " )) and (((count(preceding-sibling::*) + 1) = 11) and parent::*)]//text()').extract()[
             1].replace('\n', '').replace('Màu ngoại thất: ', ''),
+        'so_cua': response.xpath('//*[(@id = "area_basic_information")]//*[contains(concat( " ", @class, " " ), concat( " ", "value", " " ))]/text()').extract()[1],
         'so_cho_ngoi': response.xpath(
             '//*[contains(concat( " ", @class, " " ), concat( " ", "feature-item", " " )) and (((count(preceding-sibling::*) + 1) = 10) and parent::*)]//text()').extract()[
             1].replace('\n', '').replace('Số ghế ngồi: ', ''),
@@ -45,7 +46,8 @@ class CarmudiSpider(scrapy.Spider):
             1].replace('\n', '').replace('Nhiên liệu: ', ''),
         'hop_so' :response.xpath(
             '//*[contains(concat( " ", @class, " " ), concat( " ", "feature-item", " " )) and (((count(preceding-sibling::*) + 1) = 6) and parent::*)]//text()').extract()[
-            1].replace('\n', '').replace('Hộp số: ', '')
+            1].replace('\n', '').replace('Hộp số: ', ''),
+        'dung_tich_xi_lanh': response.xpath('//*[(@id = "area_basic_information")]//*[contains(concat( " ", @class, " " ), concat( " ", "value", " " ))]/text()').extract()[10]
         }
 
         next_page = 'https://www.carmudi.vn/mua-ban-o-to-cu/index{}.html'.format(CarmudiSpider.page_number)
