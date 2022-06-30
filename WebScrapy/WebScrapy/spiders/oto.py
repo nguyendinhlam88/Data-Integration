@@ -1,8 +1,18 @@
 import scrapy
 import uuid
 import re
+
+import logging
+from selenium.webdriver.remote.remote_connection import LOGGER
+from urllib3.connectionpool import log
+
+log.setLevel(logging.WARNING)
+LOGGER.setLevel(logging.WARNING)
+
 from unidecode import unidecode
 from datetime import datetime
+from confluent_kafka import Producer
+from ..items import OtoItem
 
 
 class OtoSpider(scrapy.Spider):
@@ -10,6 +20,14 @@ class OtoSpider(scrapy.Spider):
     allowed_domains = ['oto.com.vn']
     start_urls = ['https://oto.com.vn/mua-ban-xe']
     last_url = None
+
+    def __init__(self):
+        super(OtoSpider, self).__init__()
+        self.kafka = {'bootstrap.servers': '127.0.0.1:9092'}
+        try:
+            self.producer = Producer(**self.kafka)
+        except:
+            self.logger.error('Oto connect to kafka fail')
 
     def parse(self, response):
         items_url = response.xpath('//div[@class="photo"]//@href').extract()
@@ -54,4 +72,21 @@ class OtoSpider(scrapy.Spider):
         # Mô tả
         tmp = ' '.join(response.xpath('.//div[@id="tab-desc"]//text()').extract()).strip()
         item["mo_ta"] = tmp
-        yield item
+
+        yield OtoItem(id=item.get('id'),
+                      domain=item.get('domain'),
+                      url=item.get('url'),
+                      crawled_date=item.get('crawled_date'),
+                      ten=item.get('ten'),
+                      gia_ban=item.get('gia_ban'),
+                      gia_lan_banh=item.get('gia_lan_banh'),
+                      nam_san_xuat=item.get('nam_san_xuat'),
+                      kieu_dang=item.get('kieu_dang'),
+                      tinh_trang=item.get('tinh_trang'),
+                      xuat_xu=item.get('xuat_xu'),
+                      tinh_thanh=item.get('tinh_thanh'),
+                      quan_huyen=item.get('quan_huyen'),
+                      hop_so=item.get('hop_so'),
+                      nhien_lieu=item.get('nhien_lieu'),
+                      mo_ta=item.get('mo_ta')
+                      )
