@@ -191,11 +191,13 @@ class CarmudiItem:
     kieu_dang: Optional[str]
     tinh_trang: Optional[str]
     xuat_xu: Optional[int]
+    so_cua: Optional[str]
+    so_cho_ngoi: Optional[int]
     tinh_thanh: Optional[str]
     quan_huyen: Optional[str]
     hop_so: Optional[str]
     nhien_lieu: Optional[str]
-
+    dung_tich_xi_lanh: Optional[str]
     def normalize_ten(self, ten: str) -> str:
         ten = ten.lower()
         ten = ' '.join(ten.split('-')[:-1]).strip()
@@ -208,12 +210,12 @@ class CarmudiItem:
     def __post_init__(self):
         self.ten = self.normalize_ten(self.ten)
         self.gia_ban = float(self.gia_ban.strip().replace('.', ''))
-        # self.gia_lan_banh = self.normalize_gia(self.gia_lan_banh)
+        self.nam_san_xuat = self.nam_san_xuat.strip()
         self.kieu_dang = self.kieu_dang.lower()
         self.tinh_trang = self.tinh_trang.lower().replace('xe mới', 'mới').replace('xe đã dùng', 'cũ')
         self.xuat_xu = 'trong nước' if self.xuat_xu.lower() != 'nhập khẩu' else 'nhập khẩu'
-        # self.tinh_thanh = self.tinh_thanh.lower().replace('tp.hcm', 'thành phố hồ chí minh')
-        # self.quan_huyen = self.quan_huyen.lower()
+        self.so_cua = self.so_cua.lower()
+        self.so_cho_ngoi = self.so_cho_ngoi.lower()
         self.hop_so = self.hop_so.lower().replace('số', '')
         self.nhien_lieu = self.nhien_lieu.lower()
 
@@ -247,7 +249,7 @@ class ChototItem:
     def __post_init__(self):
         self.ten = self.normalize_ten(self.ten)
         self.gia_ban = float(self.gia_ban.strip().replace('.', ''))
-        # self.gia_lan_banh = self.normalize_gia(self.gia_lan_banh)
+        
         self.kieu_dang = self.kieu_dang.lower()
         self.tinh_trang = self.tinh_trang.lower().replace('xe mới', 'mới').replace('đã sử dụng', 'cũ')
         self.xuat_xu = 'trong nước' if self.xuat_xu.lower() == 'việt nam' else 'nhập khẩu'
@@ -255,6 +257,7 @@ class ChototItem:
         # self.quan_huyen = self.quan_huyen.lower()
         self.hop_so = self.hop_so.lower().replace('số', '')
         self.nhien_lieu = self.nhien_lieu.lower()
+
 
 
 class AnyCarItem:
