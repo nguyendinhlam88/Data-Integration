@@ -1,14 +1,32 @@
 import scrapy
-# from ..items import BonbanhItem
-from datetime import datetime
 import uuid
+import re
+
+import logging
+from selenium.webdriver.remote.remote_connection import LOGGER
+from urllib3.connectionpool import log
+
+log.setLevel(logging.WARNING)
+LOGGER.setLevel(logging.WARNING)
+
+from unidecode import unidecode
+from datetime import datetime
+from confluent_kafka import Producer
+from ..items import BonBanhItem
+
 class BonbanhSpider(scrapy.Spider):
     name = 'bonbanh'
     page_number = 1
     allowed_domains = ['bonbanh.com']
     base_url = "https://bonbanh.com/"
     start_urls = ["https://bonbanh.com/oto/page,2"]
-
+    def __init__(self):
+        super(BonbanhSpider, self).__init__()
+        self.kafka = {'bootstrap.servers': '127.0.0.1:9092'}
+        try:
+            self.producer = Producer(**self.kafka)
+        except:
+            self.logger.error('Oto connect to kafka fail')
     def parse(self, response):
         all_ads = response.xpath('//li[contains(@class, "car-item")]')
         for ad in all_ads:
@@ -53,4 +71,26 @@ class BonbanhSpider(scrapy.Spider):
         if BonbanhSpider.page_number <= 15:
             BonbanhSpider.page_number += 1
             yield response.follow(next_page, callback=self.parse)
-        yield item
+        yield   BonBanhItem(id=item.get('id'),
+                            domain=item.get('domain'),
+                            url=item.get('url'),
+                            crawled_date=item.get('crawled_date'),
+                            ten=item.get('ten'),
+                            gia_ban=item.get('gia'),
+                            nam_san_xuat= None,
+                            xuat_xu=item.get('xuat_xu'),
+                            tinh_trang=item.get('tinh_trang'),
+                            dong_xe=item.get('dong_xe'),
+                            so_km_da_di=None,
+                            mau_ngoai_that=item.get('mau_xe'),
+                            mau_noi_that=None,
+                            so_cua=item.get('so_cua'),
+                            so_cho_ngoi=item.get('so_cho_ngoi'),
+                            nhien_lieu=item.get('nhien_lieu'),
+                            he_thong_nap_nhien_lieu=None,
+                            hop_so=item.get('hop_so'),
+                            dan_dong= None,
+                            tieu_thu_nhien_lieu=None, 
+                            dung_tich_xi_lanh=None,
+                            thong_tin_mo_ta=None
+                        )
