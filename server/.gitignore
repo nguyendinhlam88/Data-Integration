@@ -1,0 +1,6 @@
+*.cfg
+Include
+Lib
+Scripts
+bin
+*.py[co]
