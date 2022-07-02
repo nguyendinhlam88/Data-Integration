@@ -64,14 +64,14 @@ class AnycarBonbanhSpider(scrapy.Spider):
             tmp = thong_so.xpath('.//*//text()').extract()
             key, value = tmp if len(tmp) == 2 else tmp + [None]
             key = unidecode(key.replace(":", "").replace(" ", "_").lower())
-            item[key] = value.lower() if value else None
+            item[key] = value.lower().strip() if value else None
 
         tab_right = response.xpath('//div[@id="tab1default"]//div[@class="tab_right_item row"]')
         for thong_so in tab_right:
             tmp = thong_so.xpath('.//*//text()').extract()
             key, value = tmp if len(tmp) == 2 else tmp + [None]
             key = unidecode(key.replace(":", "").replace(" ", "_").lower())
-            item[key] = value.lower() if value else None
+            item[key] = value.lower().strip() if value else None
         # Dung tích xi lanh
         tab_left_final = response.xpath('//div[@class="tab_left_item row"]')[-1]
         tmp = tab_left_final.xpath('.//*//text()').extract()

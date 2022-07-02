@@ -16,6 +16,6 @@ class WebscrapyPipeline:
 
         spider.producer.poll(0)
         spider.producer.produce(spider.name,
-                                json.dumps(dataclasses.asdict(item)).encode('utf-8'),
+                                json.dumps(dataclasses.asdict(item), ensure_ascii=False),
                                 callback=delivery_report)
         spider.producer.flush()
