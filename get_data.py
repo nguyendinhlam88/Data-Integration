@@ -12,6 +12,9 @@ engine = create_engine('postgresql://root:root@localhost:5005/oto_db')
 connection = engine.connect()
 
 list_topic = list(c.list_topics().topics.keys())[:-1]
+list_topic.remove('chotot')
+# list_topic.remove('anycar_bonbanh')
+print(list_topic)
 c.subscribe(list_topic)
 
 while True:
@@ -24,19 +27,22 @@ while True:
         print("Consumer error: {}".format(msg.error()))
         continue
 
+    print(msg.value())
     data_dict = dict(json.loads(msg.value().decode('utf-8')))
     data = pd.DataFrame.from_records([data_dict])
-    topic = None
-    if data_dict['domain'] == 'anycar.bonbanh.com':
-        topic = 'anycar_bonbanh'
-    elif data_dict['domain'] == 'oto.com.vn':
-        topic = 'oto'
-    elif data_dict['domain'] == 'www.carmudi.vn':
-        topic = 'carmudi'
-    elif data_dict['domain'] == 'bonbanh.com':
-        topic = 'bonbanh'
-
     try:
+        topic = None
+        if data_dict['domain'] == 'anycar.bonbanh.com':
+            topic = 'anycar_bonbanh'
+        elif data_dict['domain'] == 'oto.com.vn':
+            topic = 'oto'
+        elif data_dict['domain'] == 'www.carmudi.vn':
+            topic = 'carmudi'
+        elif data_dict['domain'] == 'bonbanh.com':
+            topic = 'bonbanh'
+        else:
+            topic = 'chotot'
+
         inspector = sa.inspect(engine)
         if topic not in inspector.get_table_names():
             create_table = pd.io.sql.get_schema(data, name=topic)

@@ -53,8 +53,8 @@ class OtoSpider(scrapy.Spider):
                 "url": response.url,
                 "crawled_date": datetime.now(),
                 "ten": response.xpath('//h1[@class="title-detail"]/text()').extract_first().strip(),
-                "gia_ban": ' '.join(response.xpath('//span[contains(@class, "price-big")]/text()').extract()).strip(),
-                "gia_lan_banh": response.xpath('//span[@id="chiphilanbanh"]//text()').extract()[-1]
+                "gia_ban": ' '.join(response.xpath('//span[contains(@class, "price-big")]/text()').extract()).strip().lower(),
+                "gia_lan_banh": response.xpath('//span[@id="chiphilanbanh"]//text()').extract()[-1].lower()
                 }
         tmp = response.xpath('//div[@class="box-info-detail"]//ul[@class="list-info"]//li//text()').extract()
         thong_so_ky_thuat = []
@@ -67,7 +67,7 @@ class OtoSpider(scrapy.Spider):
             if _ % 2 == 0:
                 key = unidecode(tmp.replace(" ", "_").lower())
             else:
-                item[key] = tmp
+                item[key] = tmp.lower()
 
         # Mô tả
         tmp = ' '.join(response.xpath('.//div[@id="tab-desc"]//text()').extract()).strip()
