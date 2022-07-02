@@ -19,7 +19,7 @@ class CarmudiSpider(scrapy.Spider):
     page_number = 1
     allowed_domains = ['www.carmudi.vn']
     base_url = "https://www.carmudi.vn/mua-ban-o-to-cu/"
-    start_urls = ['http://www.carmudi.vn/']
+    start_urls = ['https://www.carmudi.vn/mua-ban-o-to-cu/']
 
     def __init__(self):
         super(CarmudiSpider, self).__init__()
@@ -41,11 +41,9 @@ class CarmudiSpider(scrapy.Spider):
         'url' : response.url,
         'crawled_date' : datetime.now(), 
         'domain' :self.allowed_domains[0],
-        'ten' : response.xpath('//*[contains(concat( " ", @class, " " ), concat( " ", "pages-title-name-detail", " " ))]/text()').extract_first().strip(),
+        'ten' : response.xpath('//*[contains(concat( " ", @class, " " ), concat( " ", "pages-title-name-detail", " " ))]/text()').extract()[0],
         'gia': response.xpath('//div[@class="price-tag"]/@data-price').get(),
-        'nam_san_xuat':  response.xpath(
-            '//*[contains(concat( " ", @class, " " ), concat( " ", "feature-item", " " )) and (((count(preceding-sibling::*) + 1) = 4) and parent::*)]//text()').extract()[
-            1].replace('\n', '').replace('Năm sản xuất: ', ''),
+        'nam_san_xuat':  response.xpath('//*[contains(concat( " ", @class, " " ), concat( " ", "feature-item", " " )) and (((count(preceding-sibling::*) + 1) = 4) and parent::*)]//text()').extract()[1].replace('\n', '').replace('Năm sản xuất: ', ''),
         'xuat_xu' : response.xpath(
             '//*[contains(concat( " ", @class, " " ), concat( " ", "feature-item", " " )) and (((count(preceding-sibling::*) + 1) = 12) and parent::*)]//text()').extract()[
             1].replace('\n', '').replace('Xuất xứ: ', ''),

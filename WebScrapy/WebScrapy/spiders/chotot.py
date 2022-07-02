@@ -18,7 +18,7 @@ class ChototSpider(scrapy.Spider):
     page_number = 2
     allowed_domains = ['xe.chotot.com']
     base_url = "https://xe.chotot.com"
-    start_urls = ["https://xe.chotot.com/mua-ban-o-to-o-to-dien?page=1"]
+    start_urls = ["https://xe.chotot.com/mua-ban-o-to?page=1"]
     def __init__(self):
         super(ChototSpider, self).__init__()
         self.kafka = {'bootstrap.servers': '127.0.0.1:9092'}

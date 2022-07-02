@@ -94,3 +94,4 @@ class BonbanhSpider(scrapy.Spider):
                             dung_tich_xi_lanh=None,
                             thong_tin_mo_ta=None
                         )
+

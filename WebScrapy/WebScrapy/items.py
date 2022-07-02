@@ -130,7 +130,7 @@ class AnyCarBonBanhItem:
         self.tieu_thu_nhien_lieu = self.tieu_thu_nhien_lieu.lower()
         self.dung_tich_xi_lanh = self.dung_tich_xi_lanh.lower()
 
-
+@dataclass
 class BonBanhItem:
     id: Optional[str]
     domain: Optional[str]
@@ -138,19 +138,26 @@ class BonBanhItem:
     crawled_date: Optional[datetime.date]
     ten: Optional[str]
     gia_ban: Optional[str]
-    gia_lan_banh: Optional[str]
     nam_san_xuat: Optional[int]
-    kieu_dang: Optional[str]
-    tinh_trang: Optional[str]
     xuat_xu: Optional[int]
-    tinh_thanh: Optional[str]
-    quan_huyen: Optional[str]
-    hop_so: Optional[str]
+    tinh_trang: Optional[str]
+    dong_xe: Optional[str]
+    so_km_da_di: Optional[str]
+    mau_ngoai_that: Optional[str]
+    mau_noi_that: Optional[str]
+    so_cua: Optional[str]
+    so_cho_ngoi: Optional[int]
     nhien_lieu: Optional[str]
+    he_thong_nap_nhien_lieu: Optional[str]
+    hop_so: Optional[str]
+    dan_dong: Optional[str]
+    tieu_thu_nhien_lieu: Optional[str]
+    dung_tich_xi_lanh: Optional[str]
+    thong_tin_mo_ta: Optional[str]
 
     def normalize_ten(self, ten: str) -> str:
         ten = ten.lower()
-        ten = ' '.join(ten.split('-')[:-1]).strip()
+        # ten = ' '.join(ten.split('-')[:-1]).strip()
         splitted_ten = ten.split()
         if splitted_ten[-2] == 'at':
             return ' '.join(splitted_ten[:-2])
@@ -167,18 +174,23 @@ class BonBanhItem:
         return gia_normalized
 
     def __post_init__(self):
-        self.ten = self.normalize_ten(self.ten)
+        self.ten = self.normalize_ten(self.ten.lower())
         self.gia_ban = self.normalize_gia(self.gia_ban)
-        # self.gia_lan_banh = self.normalize_gia(self.gia_lan_banh)
-        self.kieu_dang = self.kieu_dang.lower()
+        # self.gia_lan_banh = self.normalize_gia(
+        # self.gia_lan_banh)
+        # self.kieu_dang = self.kieu_dang.lower()
         self.tinh_trang = self.tinh_trang.lower().replace('xe mới', 'mới').replace('xe đã dùng', 'cũ')
         self.xuat_xu = 'trong nước' if self.xuat_xu.lower() != 'nhập khẩu' else 'nhập khẩu'
         # self.tinh_thanh = self.tinh_thanh.lower().replace('tp.hcm', 'thành phố hồ chí minh')
         # self.quan_huyen = self.quan_huyen.lower()
         self.hop_so = self.hop_so.lower().replace('số', '')
-        self.nhien_lieu = self.nhien_lieu.lower().split()[0]
+        if len(self.nhien_lieu.lower().split(' ')) > 1:
+            self.dung_tich_xi_lanh = float(self.nhien_lieu.lower().split()[1])* 1000
+            self.nhien_lieu = self.nhien_lieu.lower().split()[0]
+        else:
+            self.nhien_lieu = self.nhien_lieu.lower().split()[0]
 
-
+@dataclass
 class CarmudiItem:
     id: Optional[str]
     domain: Optional[str]
@@ -186,21 +198,26 @@ class CarmudiItem:
     crawled_date: Optional[datetime.date]
     ten: Optional[str]
     gia_ban: Optional[str]
-    gia_lan_banh: Optional[str]
     nam_san_xuat: Optional[int]
-    kieu_dang: Optional[str]
-    tinh_trang: Optional[str]
     xuat_xu: Optional[int]
+    tinh_trang: Optional[str]
+    dong_xe: Optional[str]
+    so_km_da_di: Optional[str]
+    mau_ngoai_that: Optional[str]
+    mau_noi_that: Optional[str]
     so_cua: Optional[str]
     so_cho_ngoi: Optional[int]
-    tinh_thanh: Optional[str]
-    quan_huyen: Optional[str]
-    hop_so: Optional[str]
     nhien_lieu: Optional[str]
+    he_thong_nap_nhien_lieu: Optional[str]
+    hop_so: Optional[str]
+    dan_dong: Optional[str]
+    tieu_thu_nhien_lieu: Optional[str]
     dung_tich_xi_lanh: Optional[str]
+    thong_tin_mo_ta: Optional[str]
+
     def normalize_ten(self, ten: str) -> str:
         ten = ten.lower()
-        ten = ' '.join(ten.split('-')[:-1]).strip()
+        # ten = ' '.join(ten.split('-')[:-1]).strip()
         splitted_ten = ten.split()
         if splitted_ten[-2] == 'at':
             return ' '.join(splitted_ten[:-2])
@@ -211,7 +228,7 @@ class CarmudiItem:
         self.ten = self.normalize_ten(self.ten)
         self.gia_ban = float(self.gia_ban.strip().replace('.', ''))
         self.nam_san_xuat = self.nam_san_xuat.strip()
-        self.kieu_dang = self.kieu_dang.lower()
+        # self.kieu_dang = self.kieu_dang.lower()
         self.tinh_trang = self.tinh_trang.lower().replace('xe mới', 'mới').replace('xe đã dùng', 'cũ')
         self.xuat_xu = 'trong nước' if self.xuat_xu.lower() != 'nhập khẩu' else 'nhập khẩu'
         self.so_cua = self.so_cua.lower()
@@ -219,7 +236,7 @@ class CarmudiItem:
         self.hop_so = self.hop_so.lower().replace('số', '')
         self.nhien_lieu = self.nhien_lieu.lower()
 
-
+@dataclass
 class ChototItem:
     id: Optional[str]
     domain: Optional[str]
@@ -227,15 +244,22 @@ class ChototItem:
     crawled_date: Optional[datetime.date]
     ten: Optional[str]
     gia_ban: Optional[str]
-    gia_lan_banh: Optional[str]
     nam_san_xuat: Optional[int]
-    kieu_dang: Optional[str]
-    tinh_trang: Optional[str]
     xuat_xu: Optional[int]
-    tinh_thanh: Optional[str]
-    quan_huyen: Optional[str]
-    hop_so: Optional[str]
+    tinh_trang: Optional[str]
+    dong_xe: Optional[str]
+    so_km_da_di: Optional[str]
+    mau_ngoai_that: Optional[str]
+    mau_noi_that: Optional[str]
+    so_cua: Optional[str]
+    so_cho_ngoi: Optional[int]
     nhien_lieu: Optional[str]
+    he_thong_nap_nhien_lieu: Optional[str]
+    hop_so: Optional[str]
+    dan_dong: Optional[str]
+    tieu_thu_nhien_lieu: Optional[str]
+    dung_tich_xi_lanh: Optional[str]
+    thong_tin_mo_ta: Optional[str]
 
     def normalize_ten(self, ten: str) -> str:
         ten = ten.lower()
@@ -247,64 +271,14 @@ class ChototItem:
             return ' '.join(splitted_ten[:-1])
 
     def __post_init__(self):
-        self.ten = self.normalize_ten(self.ten)
+        self.ten = self.ten
         self.gia_ban = float(self.gia_ban.strip().replace('.', ''))
-        
-        self.kieu_dang = self.kieu_dang.lower()
+        # self.kieu_dang = self.kieu_dang.lower()
         self.tinh_trang = self.tinh_trang.lower().replace('xe mới', 'mới').replace('đã sử dụng', 'cũ')
-        self.xuat_xu = 'trong nước' if self.xuat_xu.lower() == 'việt nam' else 'nhập khẩu'
+        self.xuat_xu = 'trong nước' if self.xuat_xu == 'Việt Nam' else 'nhập khẩu'
         # self.tinh_thanh = self.tinh_thanh.lower().replace('tp.hcm', 'thành phố hồ chí minh')
         # self.quan_huyen = self.quan_huyen.lower()
         self.hop_so = self.hop_so.lower().replace('số', '')
         self.nhien_lieu = self.nhien_lieu.lower()
 
 
-
-class AnyCarItem:
-    id: Optional[str]
-    domain: Optional[str]
-    url: Optional[str]
-    crawled_date: Optional[datetime.date]
-    ten: Optional[str]
-    gia_ban: Optional[str]
-    gia_lan_banh: Optional[str]
-    nam_san_xuat: Optional[int]
-    kieu_dang: Optional[str]
-    tinh_trang: Optional[str]
-    xuat_xu: Optional[int]
-    tinh_thanh: Optional[str]
-    quan_huyen: Optional[str]
-    hop_so: Optional[str]
-    nhien_lieu: Optional[str]
-    so_cho_ngoi: Optional[str]
-
-    def normalize_ten(self, ten: str) -> str:
-        ten = ten.lower()
-        ten = ' '.join(ten.split('-')[:-1]).strip()
-        splitted_ten = ten.split()
-        if splitted_ten[-2] == 'at':
-            return ' '.join(splitted_ten[:-2])
-        else:
-            return ' '.join(splitted_ten[:-1])
-
-    def normalize_gia(self, gia: str) -> int:
-        gia_normalized = 0
-        gia_splitted = gia.split()
-        if len(gia_splitted) == 2 and gia_splitted[1] == 'triệu':
-            gia_normalized = float(gia_splitted[0]) * 1e6
-        elif len(gia_splitted) == 4 and gia_splitted[1] == 'tỉ' and gia_splitted[3] == 'triệu':
-            gia_normalized = float(gia_splitted[0]) * 1e9 + float(gia_splitted[2]) * 1e6
-        return gia_normalized
-
-    def __post_init__(self):
-        self.ten = self.normalize_ten(self.ten)
-        self.gia_ban = self.normalize_gia(self.gia_ban)
-        # self.gia_lan_banh = self.normalize_gia(self.gia_lan_banh)
-        self.kieu_dang = self.kieu_dang.lower()
-        self.tinh_trang = self.tinh_trang.lower().replace('xe mới', 'mới').replace('xe đã dùng', 'cũ')
-        self.xuat_xu = 'trong nước' if self.xuat_xu.lower() != 'nhập khẩu' else 'nhập khẩu'
-        # self.tinh_thanh = self.tinh_thanh.lower().replace('tp.hcm', 'thành phố hồ chí minh')
-        # self.quan_huyen = self.quan_huyen.lower()
-        self.hop_so = self.hop_so.lower().replace('số', '')
-        self.nhien_lieu = self.nhien_lieu.lower()
-        self.so_cho_ngoi = self.so_cho_ngoi.lower()
