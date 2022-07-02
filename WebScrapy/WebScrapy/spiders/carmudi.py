@@ -41,9 +41,7 @@ class CarmudiSpider(scrapy.Spider):
             'url': response.url,
             'crawled_date': datetime.now(),
             'domain': self.allowed_domains[0],
-            'ten': response.xpath(
-                '//*[contains(concat( " ", @class, " " ), concat( " ", "pages-title-name-detail", " " ))]/text()').extract()[
-                0].lower(),
+            'ten': ' '.join(response.xpath('//div[@class="pages-title"]//text()').extract()).lower().strip(),
             'gia_ban': response.xpath('//div[@class="price-tag"]/@data-price').get(),
         }
 
@@ -62,7 +60,7 @@ class CarmudiSpider(scrapy.Spider):
         for feature in tmp:
             key, value = feature.split(':')
             key = unidecode(key.replace(":", "").replace(" ", "_").lower())
-            item[key] = value.lower()
+            item[key] = value.lower().strip()
 
         basic_information = response.xpath('//div[@id="area_basic_information"]//text()').extract()
         tmp = []
@@ -76,7 +74,7 @@ class CarmudiSpider(scrapy.Spider):
             if _ % 2 == 0:
                 key = unidecode(info.replace(" ", "_").lower())
             else:
-                item[key] = info.lower()
+                item[key] = info.lower().strip()
 
         item['mo_ta'] = ' '.join(response.xpath('//div[@id="area_description"]//p//text()').extract()).strip()
 

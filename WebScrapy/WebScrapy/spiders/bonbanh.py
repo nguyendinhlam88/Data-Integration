@@ -58,7 +58,7 @@ class BonbanhSpider(scrapy.Spider):
             'so_cho_ngoi': info[7].xpath('.//text()').extract_first().lower(),
             'nhien_lieu': dong_co.split()[0].lower(),
             'he_thong_nap_nhien_lieu': info[9].xpath('.//text()').extract_first().lower() if info[9].xpath('.//text()').extract_first() else None,
-            'hop_so': info[10].xpath('.//text()').extract_first().lower(),
+            'hop_so': info[10].xpath('.//text()').extract_first().lower().strip(),
             'dan_dong': info[11].xpath('.//text()').extract_first().lower(),
             'tieu_thu_nhien_lieu': info[12].xpath('.//text()').extract_first().lower(),
             'dung_tich_xi_lanh': ' '.join(dong_co.split()[1:]).lower(),

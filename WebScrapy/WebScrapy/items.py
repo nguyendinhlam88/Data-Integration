@@ -214,7 +214,7 @@ class CarmudiItem:
         self.crawled_date = str(datetime.timestamp(self.crawled_date))
         self.ten = self.ten.lower()
         self.gia_ban = float(self.gia_ban.strip().replace('.', ''))
-        self.nam_san_xuat = self.nam_san_xuat.strip()
+        self.nam_san_xuat = self.nam_san_xuat.strip() if self.nam_san_xuat else None
         self.xuat_xu = 'trog nước' if self.xuat_xu == 'Lắp ráp' else 'nhập khẩu'
 
 
