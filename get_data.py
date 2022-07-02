@@ -20,7 +20,6 @@ mediated_schema_cols = ["id", "domain", "url", "crawled_date", "ten", "gia_ban",
                         "mau_noi_that", "so_cua", "so_cho_ngoi", "nhien_lieu", "hop_so", "dan_dong",
                         "dung_tich_xi_lanh", "thong_tin_mo_ta"]
 
-
 while True:
     list_topic = list(c.list_topics().topics.keys())[:-1]
     c.subscribe(list_topic)
