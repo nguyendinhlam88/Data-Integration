@@ -61,7 +61,7 @@ class CarmudiSpider(scrapy.Spider):
             key, value = feature.split(':')
             key = unidecode(key.replace(":", "").replace(" ", "_").lower())
             item[key] = value.lower().strip()
-
+            
         basic_information = response.xpath('//div[@id="area_basic_information"]//text()').extract()
         tmp = []
         for info in basic_information:
@@ -75,6 +75,7 @@ class CarmudiSpider(scrapy.Spider):
                 key = unidecode(info.replace(" ", "_").lower())
             else:
                 item[key] = info.lower().strip()
+
 
         item['mo_ta'] = ' '.join(response.xpath('//div[@id="area_description"]//p//text()').extract()).strip()
 
