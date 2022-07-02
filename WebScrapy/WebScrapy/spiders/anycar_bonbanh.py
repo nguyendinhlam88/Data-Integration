@@ -72,6 +72,7 @@ class AnycarBonbanhSpider(scrapy.Spider):
             key, value = tmp if len(tmp) == 2 else tmp + [None]
             key = unidecode(key.replace(":", "").replace(" ", "_").lower())
             item[key] = value.lower().strip() if value else None
+
         # Dung tích xi lanh
         tab_left_final = response.xpath('//div[@class="tab_left_item row"]')[-1]
         tmp = tab_left_final.xpath('.//*//text()').extract()
