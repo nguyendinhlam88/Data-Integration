@@ -13,7 +13,7 @@ class MediatedOtoItem:
     nam_san_xuat: Optional[int]
     xuat_xu: Optional[str]
     tinh_trang: Optional[str]
-    dong_xe: Optional[str]
+    kieu_dang: Optional[str]
     so_km_da_di: Optional[str]
     mau_ngoai_that: Optional[str]
     mau_noi_that: Optional[str]
@@ -23,6 +23,7 @@ class MediatedOtoItem:
     hop_so: Optional[str]
     dan_dong: Optional[str]
     dung_tich_xi_lanh: Optional[str]
+    thong_tin_mo_ta: Optional[str]
 
     # Tiền xử lý tạm thời ở đây.
     def __post_init__(self):
