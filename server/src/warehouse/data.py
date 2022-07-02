@@ -1,5 +1,6 @@
 import json
 import math
+import numpy as np
 import pandas as pd
 
 from strsimpy.levenshtein import Levenshtein
@@ -108,6 +109,7 @@ class DataWareHouse:
         sources.append(pd.read_csv(f'./warehouse/sources_data/{f}', encoding='utf-8'))
 
       for i, s in enumerate(sources):
+
         sources[i]['ten'] = s['ten'].apply(lambda x: x.replace('\t', ' '))
 
       for src in sources:
@@ -208,7 +210,7 @@ class DataWareHouse:
       for df in retGroups:
         l = []
         for i in df.index:
-          l.append(df.loc[i].to_dict())
+          l.append(df.loc[i].replace({np.nan: "NaN"}).to_dict())
         retJsons.append(l)
 
       return retJsons
@@ -228,7 +230,7 @@ class DataWareHouse:
 
         for group in groups:
           df: pd.DataFrame = group
-          l.append(df.iloc[0].to_dict())
+          l.append(df.iloc[0].replace({np.nan: "NaN"}).to_dict())
 
         t['samples'] = l
         ret.append(t)
