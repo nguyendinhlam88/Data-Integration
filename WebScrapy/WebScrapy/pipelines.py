@@ -19,4 +19,3 @@ class WebscrapyPipeline:
                                 json.dumps(dataclasses.asdict(item)).encode('utf-8'),
                                 callback=delivery_report)
         spider.producer.flush()
-        # return item

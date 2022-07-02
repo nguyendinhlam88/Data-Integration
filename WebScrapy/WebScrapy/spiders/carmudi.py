@@ -14,6 +14,7 @@ from datetime import datetime
 from confluent_kafka import Producer
 from ..items import CarmudiItem
 
+
 class CarmudiSpider(scrapy.Spider):
     name = 'carmudi'
     page_number = 1
@@ -35,65 +36,77 @@ class CarmudiSpider(scrapy.Spider):
             yield scrapy.Request(ad_url, callback=self.parse_ad)
 
     def parse_ad(self, response):
-        # item = CarmudiItem()
         item = {
-        'id' : str(uuid.uuid4()),
-        'url' : response.url,
-        'crawled_date' : datetime.now(), 
-        'domain' :self.allowed_domains[0],
-        'ten' : response.xpath('//*[contains(concat( " ", @class, " " ), concat( " ", "pages-title-name-detail", " " ))]/text()').extract()[0],
-        'gia': response.xpath('//div[@class="price-tag"]/@data-price').get(),
-        'nam_san_xuat':  response.xpath('//*[contains(concat( " ", @class, " " ), concat( " ", "feature-item", " " )) and (((count(preceding-sibling::*) + 1) = 4) and parent::*)]//text()').extract()[1].replace('\n', '').replace('Năm sản xuất: ', ''),
-        'xuat_xu' : response.xpath(
-            '//*[contains(concat( " ", @class, " " ), concat( " ", "feature-item", " " )) and (((count(preceding-sibling::*) + 1) = 12) and parent::*)]//text()').extract()[
-            1].replace('\n', '').replace('Xuất xứ: ', ''),
-        'tinh_trang' :response.xpath(
-            '//*[contains(concat( " ", @class, " " ), concat( " ", "feature-item", " " )) and (((count(preceding-sibling::*) + 1) = 5) and parent::*)]//text()').extract()[
-            1].replace('\n', '').replace('Tình trạng xe: ', ''),
-        'dong_xe' :response.xpath(
-            '//*[contains(concat( " ", @class, " " ), concat( " ", "feature-item", " " )) and (((count(preceding-sibling::*) + 1) = 2) and parent::*)]//span/text()').extract()[
-            0],
-        'mau_xe': response.xpath(
-            '//*[contains(concat( " ", @class, " " ), concat( " ", "feature-item", " " )) and (((count(preceding-sibling::*) + 1) = 11) and parent::*)]//text()').extract()[
-            1].replace('\n', '').replace('Màu ngoại thất: ', ''),
-        'so_cua': response.xpath('//*[(@id = "area_basic_information")]//*[contains(concat( " ", @class, " " ), concat( " ", "value", " " ))]/text()').extract()[1],
-        'so_cho_ngoi': response.xpath(
-            '//*[contains(concat( " ", @class, " " ), concat( " ", "feature-item", " " )) and (((count(preceding-sibling::*) + 1) = 10) and parent::*)]//text()').extract()[
-            1].replace('\n', '').replace('Số ghế ngồi: ', ''),
-        'nhien_lieu' :response.xpath(
-            '//*[contains(concat( " ", @class, " " ), concat( " ", "feature-item", " " )) and (((count(preceding-sibling::*) + 1) = 9) and parent::*)]//text()').extract()[
-            1].replace('\n', '').replace('Nhiên liệu: ', ''),
-        'hop_so' :response.xpath(
-            '//*[contains(concat( " ", @class, " " ), concat( " ", "feature-item", " " )) and (((count(preceding-sibling::*) + 1) = 6) and parent::*)]//text()').extract()[
-            1].replace('\n', '').replace('Hộp số: ', ''),
-        'dung_tich_xi_lanh': response.xpath('//*[(@id = "area_basic_information")]//*[contains(concat( " ", @class, " " ), concat( " ", "value", " " ))]/text()').extract()[10]
+            'id': str(uuid.uuid4()),
+            'url': response.url,
+            'crawled_date': datetime.now(),
+            'domain': self.allowed_domains[0],
+            'ten': response.xpath(
+                '//*[contains(concat( " ", @class, " " ), concat( " ", "pages-title-name-detail", " " ))]/text()').extract()[
+                0].lower(),
+            'gia_ban': response.xpath('//div[@class="price-tag"]/@data-price').get(),
         }
+
+        features = response.xpath('//div[@class="feature-item"]//text()').extract()
+        tmp = []
+        for feature in features:
+            feature = feature.strip()
+            if len(feature) > 1:
+                tmp.append(feature)
+        feature_0 = tmp[0] + tmp[1]
+        feature_1 = tmp[2] + tmp[3]
+        tmp = tmp[4:]
+        tmp.append(feature_0)
+        tmp.append(feature_1)
+
+        for feature in tmp:
+            key, value = feature.split(':')
+            key = unidecode(key.replace(":", "").replace(" ", "_").lower())
+            item[key] = value.lower()
+
+        basic_information = response.xpath('//div[@id="area_basic_information"]//text()').extract()
+        tmp = []
+        for info in basic_information:
+            info = info.strip()
+            if len(info) >= 1:
+                tmp.append(info)
+
+        key = None
+        for _, info in enumerate(tmp):
+            if _ % 2 == 0:
+                key = unidecode(info.replace(" ", "_").lower())
+            else:
+                item[key] = info.lower()
+
+        item['mo_ta'] = ' '.join(response.xpath('//div[@id="area_description"]//p//text()').extract()).strip()
 
         next_page = 'https://www.carmudi.vn/mua-ban-o-to-cu/index{}.html'.format(CarmudiSpider.page_number)
         if CarmudiSpider.page_number <= 10:
             CarmudiSpider.page_number += 1
             yield response.follow(next_page, callback=self.parse)
-        
-        yield   CarmudiItem(id=item.get('id'),
-                            domain=item.get('domain'),
-                            url=item.get('url'),
-                            crawled_date=item.get('crawled_date'),
-                            ten=item.get('ten'),
-                            gia_ban=item.get('gia'),
-                            nam_san_xuat= item.get('nam_san_xuat'),
-                            xuat_xu=item.get('xuat_xu'),
-                            tinh_trang=item.get('tinh_trang'),
-                            dong_xe=item.get('dong_xe'),
-                            so_km_da_di=None,
-                            mau_ngoai_that=item.get('mau_xe'),
-                            mau_noi_that=None,
-                            so_cua=item.get('so_cua'),
-                            so_cho_ngoi=item.get('so_cho_ngoi'),
-                            nhien_lieu=item.get('nhien_lieu'),
-                            he_thong_nap_nhien_lieu=None,
-                            hop_so=item.get('hop_so'),
-                            dan_dong= None,
-                            tieu_thu_nhien_lieu=None, 
-                            dung_tich_xi_lanh=item.get('dung_tich_xi_lanh'),
-                            thong_tin_mo_ta=None
-                        )
+
+        yield CarmudiItem(id=item.get('id'),
+                          domain=item.get('domain'),
+                          url=item.get('url'),
+                          crawled_date=item.get('crawled_date'),
+                          ten=item.get('ten'),
+                          gia_ban=item.get('gia_ban'),
+                          hang_xe=item.get('hang_xe'),
+                          phien_ban=item.get('phien_ban'),
+                          tinh_trang_xe=item.get('tinh_trang_xe'),
+                          tinh_thanh=item.get('tinh/_thanh_pho'),
+                          nhien_lieu=item.get('nhien_lieu'),
+                          mau_ngoai_that=item.get('mau_ngoai_that'),
+                          dong_xe=item.get('dong_xe'),
+                          nam_san_xuat=item.get('nam_san_xuat'),
+                          hop_so=item.get('hop_so'),
+                          kieu_dang=item.get('kieu_dang'),
+                          xuat_xu=item.get('xuat_xu'),
+                          so_cua=item.get('so_cua'),
+                          so_ghe_ngoi=item.get('so_ghe_ngoi'),
+                          dong_co=item.get('dong_co'),
+                          dung_tich_xi_lanh=item.get('dung_tich_xi_lanh_(cc)'),
+                          dung_tich_binh_nhien_lieu=item.get('dung_tich_binh_nhien_lieu'),
+                          dan_dong=item.get('dan_dong'),
+                          mo_ta=item.get('mo_ta')
+                          )

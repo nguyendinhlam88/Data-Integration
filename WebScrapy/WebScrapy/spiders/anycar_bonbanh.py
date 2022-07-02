@@ -56,21 +56,22 @@ class AnycarBonbanhSpider(scrapy.Spider):
                 "domain": self.allowed_domains[0],
                 "url": response.url,
                 "crawled_date": datetime.now(),
-                "ten": response.xpath('//a[@itemprop="item"]/@title').extract()[-1],
-                "gia_ban": response.xpath('//div[@class="price_list_car"]//b/text()').extract_first()}
+                "ten": response.xpath('//a[@itemprop="item"]/@title').extract()[-1].lower(),
+                "gia_ban": response.xpath('//div[@class="price_list_car"]//b/text()').extract_first().lower()}
 
         tab_left = response.xpath('//div[@id="tab1default"]//div[@class="tab_left_item row"]')
         for thong_so in tab_left:
             tmp = thong_so.xpath('.//*//text()').extract()
             key, value = tmp if len(tmp) == 2 else tmp + [None]
             key = unidecode(key.replace(":", "").replace(" ", "_").lower())
-            item[key] = value
+            item[key] = value.lower() if value else None
+
         tab_right = response.xpath('//div[@id="tab1default"]//div[@class="tab_right_item row"]')
         for thong_so in tab_right:
             tmp = thong_so.xpath('.//*//text()').extract()
             key, value = tmp if len(tmp) == 2 else tmp + [None]
             key = unidecode(key.replace(":", "").replace(" ", "_").lower())
-            item[key] = value
+            item[key] = value.lower() if value else None
         # Dung tích xi lanh
         tab_left_final = response.xpath('//div[@class="tab_left_item row"]')[-1]
         tmp = tab_left_final.xpath('.//*//text()').extract()
