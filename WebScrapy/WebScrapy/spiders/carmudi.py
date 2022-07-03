@@ -41,6 +41,7 @@ class CarmudiSpider(scrapy.Spider):
             'url': response.url,
             'crawled_date': datetime.now(),
             'domain': self.allowed_domains[0],
+            'anh_xe': response.xpath('//img[@class="lazy"]/@src').extract_first(),
             'ten': ' '.join(response.xpath('//div[@class="pages-title"]//text()').extract()).lower().strip(),
             'gia_ban': response.xpath('//div[@class="price-tag"]/@data-price').get(),
         }
@@ -87,6 +88,7 @@ class CarmudiSpider(scrapy.Spider):
                           domain=item.get('domain'),
                           url=item.get('url'),
                           crawled_date=item.get('crawled_date'),
+                          anh_xe=item.get('anh_xe'),
                           ten=item.get('ten'),
                           gia_ban=item.get('gia_ban'),
                           hang_xe=item.get('hang_xe'),

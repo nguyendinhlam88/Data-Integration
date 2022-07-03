@@ -56,6 +56,7 @@ class AnycarBonbanhSpider(scrapy.Spider):
                 "domain": self.allowed_domains[0],
                 "url": response.url,
                 "crawled_date": datetime.now(),
+                "anh_xe": response.xpath('//img[@id="detail-product-item"]/@src').extract_first(),
                 "ten": response.xpath('//a[@itemprop="item"]/@title').extract()[-1].lower(),
                 "gia_ban": response.xpath('//div[@class="price_list_car"]//b/text()').extract_first().lower()}
 
@@ -89,6 +90,7 @@ class AnycarBonbanhSpider(scrapy.Spider):
                                 url=item.get('url'),
                                 crawled_date=item.get('crawled_date'),
                                 ten=item.get('ten'),
+                                anh_xe=item.get('anh_xe'),
                                 gia_ban=item.get('gia_ban'),
                                 nam_san_xuat=None,
                                 xuat_xu=item.get('xuat_xu'),
