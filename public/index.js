@@ -69,17 +69,23 @@ $('#search').on('keyup', function () {
 });
 
 $('#min-price').on('keyup', function () {
+	var name = $('#search').val().toLowerCase();
+	var rs = cars;
+	if (name) {
+		rs = cars.filter((car) => car.ten.toLowerCase().includes(name));
+	}
+
 	var min_price = parseInt($(this).val() + '000000');
 	if (isNaN(min_price) || min_price == 0) {
-		Render.cards(cars);
+		Render.cards(rs);
 		return;
 	}
 	var max_price = parseInt($('#max-price').val() + '000000');
 	if (isNaN(max_price) || max_price == 0) {
-		var rs = cars.filter((car) => car.gia_ban >= min_price);
+		rs = rs.filter((car) => car.gia_ban >= min_price);
 		Render.cards(rs);
 	} else {
-		var rs = cars.filter(
+		var rs = rs.filter(
 			(car) => car.gia_ban >= min_price && car.gia_ban <= max_price
 		);
 		Render.cards(rs);
@@ -87,17 +93,23 @@ $('#min-price').on('keyup', function () {
 });
 
 $('#max-price').on('keyup', function () {
+	var name = $('#search').val().toLowerCase();
+	var rs = cars;
+	if (name) {
+		rs = cars.filter((car) => car.ten.toLowerCase().includes(name));
+	}
+
 	var max_price = parseInt($(this).val() + '000000');
 	if (isNaN(max_price) || max_price == 0) {
-		Render.cards(cars);
+		Render.cards(rs);
 		return;
 	}
 	var min_price = parseInt($('#min-price').val() + '000000');
 	if (isNaN(min_price) || min_price == 0) {
-		var rs = cars.filter((car) => car.gia_ban <= max_price);
+		var rs = rs.filter((car) => car.gia_ban <= max_price);
 		Render.cards(rs);
 	} else {
-		var rs = cars.filter(
+		var rs = rs.filter(
 			(car) => car.gia_ban >= min_price && car.gia_ban <= max_price
 		);
 		Render.cards(rs);
