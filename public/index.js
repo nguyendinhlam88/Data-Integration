@@ -142,4 +142,3 @@ $('#max-price').on('keyup', function () {
 
 var [categories, cars] = Render.init();
 Render.cards(cars);
-console.log('sau', cars);
