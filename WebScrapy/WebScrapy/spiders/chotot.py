@@ -44,6 +44,7 @@ class ChototSpider(scrapy.Spider):
             'url': response.url,
             'crawled_date': datetime.now(),
             'domain': self.allowed_domains[0],
+            'anh_xe': response.xpath('//meta[@property="og:image"]/@content').extract_first(),
             'ten': response.xpath(
                 '//*[contains(concat( " ", @class, " " ), concat( " ", "AdDecription_adTitle__2I0VE", " " ))]/text()').extract()[
                 1].lower(),
@@ -69,6 +70,7 @@ class ChototSpider(scrapy.Spider):
                          domain=item.get('domain'),
                          url=item.get('url'),
                          crawled_date=item.get('crawled_date'),
+                         anh_xe=item.get('anh_xe'),
                          ten=item.get('ten'),
                          gia_ban=item.get('gia'),
                          hang=item.get('hang'),

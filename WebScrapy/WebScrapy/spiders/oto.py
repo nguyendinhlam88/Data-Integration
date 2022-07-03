@@ -52,6 +52,7 @@ class OtoSpider(scrapy.Spider):
                 "domain": self.allowed_domains[0],
                 "url": response.url,
                 "crawled_date": datetime.now(),
+                "anh_xe": response.xpath('//div[@class="swiper-wrapper"]//@src').extract_first(),
                 "ten": response.xpath('//h1[@class="title-detail"]/text()').extract_first().lower().strip(),
                 "gia_ban": ' '.join(response.xpath('//span[contains(@class, "price-big")]/text()').extract()).strip().lower(),
                 "gia_lan_banh": response.xpath('//span[@id="chiphilanbanh"]//text()').extract()[-1].lower()
@@ -77,6 +78,7 @@ class OtoSpider(scrapy.Spider):
                       domain=item.get('domain'),
                       url=item.get('url'),
                       crawled_date=item.get('crawled_date'),
+                      anh_xe=item.get('anh_xe'),
                       ten=item.get('ten'),
                       gia_ban=item.get('gia_ban'),
                       gia_lan_banh=item.get('gia_lan_banh'),

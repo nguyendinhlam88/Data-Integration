@@ -15,7 +15,7 @@ connection = engine.connect()
 
 config_mapping = os.getcwd() + '/config_mapping/'
 
-mediated_schema_cols = ["id", "domain", "url", "crawled_date", "ten", "gia_ban", "nam_san_xuat", "xuat_xu",
+mediated_schema_cols = ["id", "domain", "url", "crawled_date", "anh_xe", "ten", "gia_ban", "nam_san_xuat", "xuat_xu",
                         "tinh_trang", "kieu_dang", "so_km_da_di", "mau_ngoai_that",
                         "mau_noi_that", "so_cua", "so_cho_ngoi", "nhien_lieu", "hop_so", "dan_dong",
                         "dung_tich_xi_lanh", "thong_tin_mo_ta"]
