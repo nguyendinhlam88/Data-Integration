@@ -8,6 +8,7 @@
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.2.1/dist/css/bootstrap.min.css"
 		integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
 	<link rel="stylesheet" href="style.css">
+	<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
 	<title>Nhom 11</title>
 </head>
 
@@ -15,7 +16,7 @@
 	<div class="container">
 		<div class="menu">
 			<nav class="navbar navbar-expand-lg navbar-light bg-light shadow-sm p-3 mb-5 bg-white rounded">
-				<a class="navbar-brand" href="#">Nhom 11</a>
+				<a class="navbar-brand" href="#"><b>Nhóm 11</b></a>
 				<button class="navbar-toggler" type="button" data-toggle="collapse"
 					data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
 					aria-label="Toggle navigation">
@@ -25,23 +26,26 @@
 				<div class="collapse navbar-collapse" id="navbarSupportedContent">
 					<ul class="navbar-nav mr-auto">
 						<li class="nav-item active">
-							<a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+							<a class="nav-link" href="#">Demo Bài Tập Lớn<span class="sr-only">(current)</span></a>
 						</li>
 					</ul>
-					<input class="form-control" id="search" type="text" placeholder="Search car's name">
 				</div>
 			</nav>
 		</div>
 		<div class="body">
 			<div class="filter shadow-sm p-3 mb-5 bg-white rounded">
-				<span class="sub-title">Lọc theo giá:</span>
-				<div class="col-5">
-					<span class="minp">Min price</span>
-					<input class="form-control price" id="min-price" type="text" placeholder="Min price">
+				<div class='row'>
+					<span class="sub-title a">Lọc theo giá (triệu):</span>
+					<div class="input">
+						<input class="form-control price" id="min-price" type="text" placeholder="Min price">
+					</div>
+					<div class="input">
+						<input class="form-control price" id="max-price" type="text" placeholder="Max price">
+					</div>
 				</div>
-				<div class="col-5">
-					<span class="maxp">Max price</span>
-					<input class="form-control price" id="max-price" type="text" placeholder="Max price">
+				<div class="row">
+					<span class="sub-title b">Tìm theo tên:</span>
+					<input class="form-control" id="search" type="text" placeholder="Search car's name">
 				</div>
 			</div>
 			<div class="row" id="js-list-cards"></div>
@@ -49,9 +53,6 @@
 	</div>
 
 
-	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-		integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-		crossorigin="anonymous"></script>
 	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.6/dist/umd/popper.min.js"
 		integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut"
 		crossorigin="anonymous"></script>

@@ -15,8 +15,9 @@
 }
 
 #search {
-	width: 300px;
+	width: 100%;
 	display: inline-block;
+	margin: 10px;
 }
 
 .col-5 {
@@ -35,15 +36,28 @@ nav {
 }
 
 .filter {
-	position: sticky;
-	top: 72px;
+	position: fixed;
+	left: 10px;
+	top: 30%;
+	width: 190px;
 	z-index: 10;
 }
 
 .sub-title {
 	font-weight: 500;
 }
+.input {
+	margin: 10px;
+}
 
 body {
 	background-color: rgb(245, 245, 245);
+}
+
+.card-title {
+	text-transform: capitalize;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	display: inherit;
 }
