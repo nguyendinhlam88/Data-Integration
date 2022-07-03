@@ -57,3 +57,31 @@ body {
 	overflow: hidden;
 	display: inherit;
 }
+.half {
+	display: inline-block;
+	width: 60%;
+}
+.half .tt {
+	text-transform: capitalize;
+}
+.half.left {
+	position: relative;
+	left: -20px;
+}
+.half.right {
+	position: relative;
+	right: -120px;
+	top: -90px;
+}
+.half .tt {
+	position: relative;
+	top: -5px;
+}
+a.btn {
+	position: absolute;
+	bottom: 10px;
+	left: 32%;
+}
+.card {
+	height: 450px;
+}

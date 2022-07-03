@@ -29,22 +29,46 @@ var Render = new (function __Render() {
 })();
 
 function getHTML(car) {
-	var img =
-		'https://img1.oto.com.vn/crop/575x430/2022/06/16/20220616213940-0d0f_wm.jpg';
 	var price = formatCash(String(car.gia_ban));
 	var tinh_trang = car.tinh_trang == 'NaN' ? 'Chưa rõ' : car.tinh_trang;
 	tinh_trang = tinh_trang ? tinh_trang : car.tinh_trang_xe;
 	var so_km_da_di =
 		!car.so_km_da_di || car.so_km_da_di == 'NaN' ? 'Chưa rõ' : car.so_km_da_di;
+	var html_km =
+		tinh_trang == 'mới'
+			? ``
+			: `<span class='half right'> <span class="material-symbols-outlined"> speed </span> <span class='tt'>${so_km_da_di}</span> </span>`;
 	return `
 		<div class = "col-12 col-sm-6 col-md-4 margin car ">
 			<div class = "card shadow-sm p-3 mb-5 bg-white rounded" style = "width: 18rem;">
-				<img src = ${img} class = "card-img-top img-thumbnail" alt = "..." >
+				<img src = ${car.anh_xe} class = "card-img-top img-thumbnail" alt = "..." >
 				<div class = "card-body">
 					<h5 class = "card-title" title='${car.ten}'>${car.ten}</h5>
 					<p class = "card-text"> ${price} </p>
-
-					<a href = ${car.url} class = "btn btn-primary"> Go to page </a>
+					<span class='card-info'>
+						<span class='half left'>
+							<span class="material-symbols-outlined"> calendar_month </span>
+							<span class='tt'>${car.nam_san_xuat}</span>
+						</span>
+						<span class='half left'>
+							<span class="material-symbols-outlined"> local_gas_station </span>
+							<span class='tt'>${car.nhien_lieu}</span>
+						</span>
+						<span class='half left'>
+							<span class="material-symbols-outlined"> sports_score </span>
+							<span class='tt'>${car.xuat_xu}</span>
+						</span>
+						<span class='half right'>
+							<span class="material-symbols-outlined"> settings </span>
+							<span class='tt'>${car.hop_so}</span>
+						</span>
+						<span class='half right'>
+							<span class="material-symbols-outlined"> no_crash </span>
+							<span class='tt'>${tinh_trang}</span>
+						</span>
+						${html_km}
+					</span>
+					<a href = ${car.url} class = "btn btn-primary"> Go to buy </a>
 				</div>
 			</div>
 		</div>
