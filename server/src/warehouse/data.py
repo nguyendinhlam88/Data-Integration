@@ -1,5 +1,6 @@
 import json
 import math
+from typing import Final
 import numpy as np
 import pandas as pd
 
@@ -73,6 +74,12 @@ class Brands:
   def __iter__(self):
     return BrandIterator(self)
 
+  """ def CarCount(self, s: str):
+    if s in self.brandsDict:
+      brand = self.brandsDict[s]
+      return self.cars[brand]
+    return self.unknownBrandCars """
+
   #def next(self, current):
   #  return next(current)
 
@@ -93,6 +100,9 @@ class DataWareHouse:
     brands: Brands
     brandMetrics: dict[str, Metric]
 
+    totalDuplications: int = 0
+    totalRecords: int = 0
+
     # group by name
     # tuple[str, int] -- (ten, group idx)
     brandGroups: list[tuple[list[pd.DataFrame], list[str], list[int]]]
@@ -109,8 +119,8 @@ class DataWareHouse:
         sources.append(pd.read_csv(f'./warehouse/sources_data/{f}', encoding='utf-8'))
 
       for i, s in enumerate(sources):
-
         sources[i]['ten'] = s['ten'].apply(lambda x: x.replace('\t', ' '))
+        self.totalRecords += len(s)
 
       for src in sources:
         for i, row in src.iterrows():
@@ -141,8 +151,62 @@ class DataWareHouse:
           
         self.brandGroups.append((groups, names, gId))
 
+      #self.FilterDuplication()
+
       pass
 
+    def IsEqual(self, r1, r2) -> bool:
+      FEATURES: Final = [
+        'gia_ban', 
+        'nam_san_xuat', 'xuat_xu', 'tinh_trang', 'dong_xe', 'so_km_da_di', 'mau_ngoai_that', 
+        'mau_noi_that', 'so_cua', 'so_cho_ngoi', 'nhien_lieu', 'he_thong_nap_nhien_lieu', 
+        'hop_so', 'dan_dong', 'tieu_thu_nhien_lieu', 'dung_tich_xi_lanh',
+      ]
+      
+      for f in FEATURES:
+        if r1[f] != r2[f]: return False
+
+      return True
+
+    def FilterDupDF(self, df: pd.DataFrame):
+      ret = []
+      while len(df) != 0:
+        sample = df.iloc[0]
+        sames = []
+        drops = []
+
+        ret.append(sample)
+
+        for i, row in df.iterrows():
+          if self.IsEqual(sample, row):
+            sames.append(row)
+            drops.append(i)
+            self.totalDuplications += 1
+
+        df.drop(drops, inplace=True)
+
+      return pd.DataFrame(ret)
+
+
+    def FilterDuplication(self):
+      for brandGroups in self.brandGroups:
+        dfs = brandGroups[0]
+        for i in range(len(dfs)):
+          dfs[i] = self.FilterDupDF(dfs[i])
+
+
+    def Summary(self):
+      print(f'[DUPLICATION]: {self.totalDuplications}')
+      print(f'[TOTAL]\t: {self.totalRecords}')
+
+      prefix = '\t'
+      for brandName in self.brands:
+        brand: list[pd.DataFrame] = self.brands[brandName]
+        
+        if len(brand) != 0:
+          print(f'[BRAND]\t: {brandName}')
+          print(f'\tGroups: {len(self.brandGroups[self.brands.idx(brandName)][0])}')
+      
 
     @staticmethod
     def Initialize():
@@ -239,7 +303,7 @@ class DataWareHouse:
 
 def main():
   instance = DataWareHouse.Initialize()
-  print(instance.Search('Toyota vios'))
+  instance.Summary()
   pass
 
 if __name__ == '__main__':
